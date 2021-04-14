@@ -17,7 +17,7 @@ df_merged['sequencing_rate'] = df_merged['sequencing_rate'].replace([np.inf, -np
 
 
 df_country = df_merged
-df_sero = pandas.read_csv('new_sero.csv')
+df_sero = pandas.read_csv('sero.csv')
 df_estimates = pandas.read_csv('country_estimates.csv')
 
 
@@ -144,7 +144,7 @@ df_case_outlier = df_merged.loc[df_merged['sequences'] < df_merged['apparent_seq
 
 df_final = df_merged[['location', 'date', 'ideal_sequences']]
 
-df_final['ideal_sequences'] = df_final['ideal_sequences'].apply(np.ceil)
+# df_final['ideal_sequences'] = df_final['ideal_sequences'].apply(np.ceil)
 
 df_final_no_world = df_final[df_final['location'] != 'World']
 
