@@ -16,15 +16,15 @@ df_merged['sequencing_rate'] = df_merged['sequences']/df_merged['cases']
 df_merged['sequencing_rate'] = df_merged['sequencing_rate'].replace([np.inf, -np.inf], np.nan)
 
 
-df_country = df_merged
-df_sero = pandas.read_csv('sero.csv')
+#df_country = df_merged
+df_sero = pandas.read_csv('new_sero.csv')
 df_estimates = pandas.read_csv('country_estimates.csv')
 
 
 df_sero.columns = ['location', 'date', 'sero_study_participants', 'avg_seroprevalence']
 
 
-df_merged = pandas.merge(df_country, df_sero, how='left', left_on=['location', 'date'], right_on=['location', 'date'])
+df_merged = pandas.merge(df_merged, df_sero, how='left', left_on=['location', 'date'], right_on=['location', 'date'])
 df_merged = pandas.merge(df_merged, df_estimates, how='left', left_on=['location', 'date'], right_on=['location','date'])
 #df_merged.to_csv('country_data.csv', na_rep = 'NaN', index=False)
 
@@ -143,18 +143,23 @@ df_estimate_outlier = df_merged.loc[df_merged['sequences'] < df_merged['ideal_se
 df_case_outlier = df_merged.loc[df_merged['sequences'] < df_merged['apparent_sequences']]
 
 df_final = df_merged[['location', 'date', 'ideal_sequences']]
+df_final_new = df_final
+df_final_new['location'] = df_final_new['location'].replace(['United States'], 'USA')
 
-# df_final['ideal_sequences'] = df_final['ideal_sequences'].apply(np.ceil)
+df_final['ideal_sequences'] = df_final['ideal_sequences'].apply(np.ceil)
 
 df_final_no_world = df_final[df_final['location'] != 'World']
 
 
+
 df_merged.to_csv('country_all_data.csv', index=False, na_rep='NaN')
 
-#df_estimate_outlier.to_csv('country_estimate_outlier_data.csv', index=False, na_rep='NaN')
+df_estimate_outlier.to_csv('country_estimate_outlier_data.csv', index=False, na_rep='NaN')
 
 #df_case_outlier.to_csv('country_case_outlier_data.csv', index=False, na_rep='NaN')
 
+# Uncomment line below to create file that can be fed directly into Nybbler
 #df_final.to_csv('country_ideal_sequences.csv', index=False, na_rep='NaN')
+df_final_new.to_csv('country_ideal_sequences.csv', index=False, na_rep='NaN')
 
 #df_final_no_world.to_csv('country_ideal_sequences_no_world.csv', index=False, na_rep='NaN')
