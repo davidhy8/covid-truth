@@ -29,17 +29,17 @@ def raw_data():
 # and returns prevalence estimates for each month
 def model_data():
     df_icl = pandas.read_csv('data/daily-new-estimated-covid-19-infections-icl-model.csv', dtype={'Entity': str},
-                             usecols={'Entity', 'Date', 'Daily new estimated infections of COVID-19 (ICL, mean)'},
-                             parse_dates=['Date'])
+                             usecols={'Entity', 'Day', 'Daily new estimated infections of COVID-19 (ICL, mean)'},
+                             parse_dates=['Day'])
     df_ihme = pandas.read_csv('data/daily-new-estimated-covid-19-infections-ihme-model.csv', dtype={'Entity': str},
-                              usecols={'Entity', 'Date', 'Daily new estimated infections of COVID-19 (IHME, mean)'},
-                              parse_dates=['Date'])
+                              usecols={'Entity', 'Day', 'Daily new estimated infections of COVID-19 (IHME, mean)'},
+                              parse_dates=['Day'])
     df_lshtm = pandas.read_csv('data/daily-new-estimated-covid-19-infections-lshtm-model.csv', dtype={'Entity': str},
-                               usecols={'Entity', 'Date', 'Daily new estimated infections of COVID-19 (LSHTM, median)'},
-                               parse_dates=['Date'])
+                               usecols={'Entity', 'Day', 'Daily new estimated infections of COVID-19 (LSHTM, median)'},
+                               parse_dates=['Day'])
     df_yyg = pandas.read_csv('data/daily-new-estimated-covid-19-infections-yyg-model.csv', dtype={'Entity': str},
-                             usecols={'Entity', 'Date', 'Daily new estimated infections of COVID-19 (YYG, mean)'},
-                             parse_dates=['Date'])
+                             usecols={'Entity', 'Day', 'Daily new confirmed cases due to COVID-19 (rolling 7-day average, right-aligned)'},
+                             parse_dates=['Day'])
 
     df_icl.columns = ['location', 'date', 'ICL_estimate_mean']
     df_ihme.columns = ['location', 'date', 'IHME_estimate_mean']
