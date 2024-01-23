@@ -1,8 +1,8 @@
 import pandas
 import numpy as np
 
-
-df_sero = pandas.read_csv('SeroTracker.csv', dtype={'Country':  str,  'Study Dates' : str, 'Seroprevalence (95% CI)':  str}, usecols={'Country','Study Dates', 'Seroprevalence (95% CI)','Denominator Value'})
+serotracker_data = "https://raw.githubusercontent.com/serotracker/sars-cov-2-data/main/serotracker_dataset.csv"
+df_sero = pandas.read_csv(serotracker_data, dtype={'Country':  str,  'Study Dates' : str, 'Seroprevalence (95% CI)':  str}, usecols={'Country','Study Dates', 'Seroprevalence (95% CI)','Denominator Value'})
 
 
 df_sero.columns = ['location', 'date', 'participants', 'seroprevalence']
