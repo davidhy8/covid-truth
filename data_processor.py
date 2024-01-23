@@ -117,7 +117,7 @@ def sequence_counter():
     df_sequences['date'] = df_sequences['date'].dt.to_period('M')
     df_sequences = df_sequences.groupby(['date', 'location']).size().to_frame('sequences')
 
-    df_sequences.to_csv('metadata_grouped.tsv', sep='\t', header=True)
+    df_sequences.to_csv('output/metadata_grouped.tsv', sep='\t', header=True)
     return df_sequences
 
 
@@ -133,9 +133,62 @@ def merge_df(df_raw, df_models, df_sero, df_sequences):
     return df_merged
 
 
-# Filter the dataframes by start and end date in the format YYYY-MM-DD
-def filter_df(start_date, end_date, df):
+# Filter the dataframes by start and end date in the format YYYY-MM-DD and calculate various statistics
+def calc_df(start_date, end_date, df, num_of_seq):
     df = df[df['date'] >= start_date] & df[df['date'] <= end_date]
+    months = pandas.date_range(start_date, end_date, freq='MS').strftime("%Y-%m").tolist()
+    sequences = {}
+    estimates = {}
+    cases = {}
+    sequences_ideal = {}
+
+    for month in months:
+        df.loc[(df['location'] =='World') & (df['date'] == month), 'sequences'] = df.loc[df['date'] == month, 'sequences'].sum()
+        sequences[month] = df.loc[(df['location'] == 'World') & (df['date'] == month), 'sequences'].values[0]
+
+        estimates[month] = df.loc[(df['location'] == 'World') & (df['date'] == month), 'IHME_estimate_mean'].values[0]
+
+        df.loc[df['date'] == month, 'sequence_contribution'] = df['sequences'] / sequences[month]
+
+    estimate_all = sum(estimates.values())
+
+    for month in months:
+        df.loc[df['date'] == month, 'sequence_contribution'] = df['sequences'] / sequences[month]
+        sequences_ideal = estimates[month]/estimate_all * num_of_seq
+
+        df.loc[df['date'] == month, 'estimate_contribution'] = df['IHME_estimate_mean'] / estimates[month]
+        df.loc[df['date'] == month, 'ideal_sequences'] = df['estimate_contribution'] * sequences_ideal[month]
+
+        cases[month] = df.loc[(df['location'] == 'World') & (df['date'] == month), 'cases'].values[0]
+        df.loc[df['date'] == month, 'case_contribution'] = df['cases'] / cases[month]
+        df.loc[df['date'] == month, 'apparent_sequences'] = df['case_contribution'] * sequences_ideal[month]
+
+    df_estimate_outlier = df.loc[df['sequences'] < df['ideal_sequences']]
+    df_case_outlier = df.loc[df['sequences'] < df['apparent_sequences']]
+
+    # Create downstream file for Nybbler to perform weighted subsampling
+    df_final = df[['location', 'date', 'ideal_sequences']]
+    df_final['location'] = df_final['location'].replace(['United States'], 'USA')
+    df_final['ideal_sequences'] = df_final['ideal_sequences'].apply(np.ceil)
+    df_final = df_final[df_final['location'] != 'World']
+    df_final.to_csv('output/country_ideal_sequences.csv', index=False, na_rep='NaN')
+
+    df.to_csv('output/country_all_data.csv', index=False, na_rep='NaN')
+    df_estimate_outlier.to_csv('output/country_estimate_outlier_data.csv', index=False, na_rep='NaN')
+    df_case_outlier.to_csv('output/country_case_outlier_data.csv', index=False, na_rep='NaN')
+
+    return df
+
+if __name__ == '__main__':
+    df_raw = raw_data()
+    df_models = model_data()
+    df_sero = sero_data()
+    df_sequences = sequence_counter()
+    df_merged = merge_df(df_raw, df_models, df_sero, df_sequences)
+    df = calc_df('2020-02', '2020-10', df_merged, 25000)
+
+
+
 
 
 
