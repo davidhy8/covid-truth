@@ -1,0 +1,7072 @@
+date,location,sequences
+2010-12,Cambodia,2
+2013-07,China,1
+2017-01,China,6
+2017-08,China,1
+2018-08,China,1
+2019-01,China,12
+2019-03,China,1
+2019-06,China,2
+2019-10,China,1
+2019-12,China,24
+2019-12,Italy,1
+2020-01,Argentina,3
+2020-01,Armenia,3
+2020-01,Australia,50
+2020-01,Austria,113
+2020-01,Azerbaijan,4
+2020-01,Belgium,3
+2020-01,Brazil,15
+2020-01,Burkina Faso,1
+2020-01,Cambodia,1
+2020-01,Cameroon,1
+2020-01,Canada,82
+2020-01,China,576
+2020-01,Colombia,8
+2020-01,Croatia,1
+2020-01,Cyprus,34
+2020-01,Czech Republic,1
+2020-01,Ecuador,41
+2020-01,Egypt,1
+2020-01,Finland,1
+2020-01,France,110
+2020-01,Gambia,57
+2020-01,Georgia,1
+2020-01,Germany,102
+2020-01,Gibraltar,194
+2020-01,Greece,170
+2020-01,Guinea,2
+2020-01,Hong Kong,59
+2020-01,India,747
+2020-01,Ireland,15
+2020-01,Israel,13
+2020-01,Italy,29
+2020-01,Japan,143
+2020-01,Kazakhstan,1
+2020-01,Kenya,1
+2020-01,Kyrgyzstan,6
+2020-01,Lebanon,26
+2020-01,Malaysia,9
+2020-01,Mexico,3
+2020-01,Morocco,5
+2020-01,Myanmar,1
+2020-01,Nepal,1
+2020-01,Netherlands,551
+2020-01,New Zealand,234
+2020-01,Niger,5
+2020-01,Nigeria,17
+2020-01,Norway,1
+2020-01,Papua New Guinea,2
+2020-01,Philippines,7
+2020-01,Poland,1
+2020-01,Qatar,15
+2020-01,Romania,1
+2020-01,Russia,206
+2020-01,Senegal,20
+2020-01,Sierra Leone,2
+2020-01,Singapore,13
+2020-01,Somalia,2
+2020-01,South Africa,77
+2020-01,South Korea,8
+2020-01,Spain,12
+2020-01,Sri Lanka,1
+2020-01,Sudan,5
+2020-01,Sweden,2
+2020-01,Switzerland,1966
+2020-01,Taiwan,7
+2020-01,Thailand,42
+2020-01,Togo,4
+2020-01,Trinidad and Tobago,23
+2020-01,Tunisia,5
+2020-01,USA,1657
+2020-01,Uganda,3
+2020-01,Ukraine,1
+2020-01,United Arab Emirates,4
+2020-01,United Kingdom,2975
+2020-01,Venezuela,3
+2020-01,Vietnam,9
+2020-01,Zimbabwe,2
+2020-02,Australia,24
+2020-02,Austria,8
+2020-02,Bangladesh,1
+2020-02,Belgium,4
+2020-02,Brazil,9
+2020-02,Canada,16
+2020-02,Canary Islands,2
+2020-02,Chile,1
+2020-02,China,612
+2020-02,Czech Republic,1
+2020-02,Denmark,2
+2020-02,Dominican Republic,1
+2020-02,Finland,1
+2020-02,France,50
+2020-02,Georgia,4
+2020-02,Germany,40
+2020-02,Greece,1
+2020-02,Hong Kong,160
+2020-02,Iceland,1
+2020-02,India,4
+2020-02,Iran,63
+2020-02,Ireland,1
+2020-02,Israel,2
+2020-02,Italy,207
+2020-02,Japan,159
+2020-02,Kuwait,1
+2020-02,Lebanon,2
+2020-02,Lithuania,1
+2020-02,Luxembourg,2
+2020-02,Malaysia,9
+2020-02,Mexico,3
+2020-02,Mongolia,1
+2020-02,Morocco,10
+2020-02,Netherlands,21
+2020-02,New Zealand,1
+2020-02,Nigeria,2
+2020-02,Norway,11
+2020-02,Oman,2
+2020-02,Pakistan,4
+2020-02,Panama,8
+2020-02,Philippines,1
+2020-02,Qatar,3
+2020-02,Russia,2
+2020-02,Saint Barthelemy,1
+2020-02,Saudi Arabia,16
+2020-02,Senegal,1
+2020-02,Singapore,42
+2020-02,South Korea,138
+2020-02,Spain,29
+2020-02,Sri Lanka,1
+2020-02,Sweden,7
+2020-02,Switzerland,34
+2020-02,Taiwan,11
+2020-02,Thailand,12
+2020-02,USA,150
+2020-02,United Arab Emirates,23
+2020-02,United Kingdom,174
+2020-02,Vietnam,2
+2020-02,Zambia,2
+2020-03,Algeria,15
+2020-03,Andorra,1
+2020-03,Argentina,57
+2020-03,Aruba,6
+2020-03,Australia,2740
+2020-03,Austria,524
+2020-03,Azerbaijan,2
+2020-03,Bahrain,13
+2020-03,Bangladesh,13
+2020-03,Belarus,3
+2020-03,Belgium,708
+2020-03,Belize,3
+2020-03,Benin,8
+2020-03,Bolivia,2
+2020-03,Bosnia and Herzegovina,23
+2020-03,Botswana,1
+2020-03,Brazil,573
+2020-03,Brunei,5
+2020-03,Bulgaria,4
+2020-03,Burkina Faso,1
+2020-03,Cambodia,19
+2020-03,Cameroon,6
+2020-03,Canada,3691
+2020-03,Canary Islands,69
+2020-03,Chile,248
+2020-03,China,207
+2020-03,Colombia,99
+2020-03,Costa Rica,50
+2020-03,Crimea,1
+2020-03,Croatia,49
+2020-03,Cuba,18
+2020-03,Curacao,6
+2020-03,Cyprus,4
+2020-03,Czech Republic,158
+2020-03,Democratic Republic of the Congo,55
+2020-03,Denmark,1075
+2020-03,Dominican Republic,2
+2020-03,Ecuador,143
+2020-03,Egypt,10
+2020-03,Equatorial Guinea,1
+2020-03,Estonia,20
+2020-03,Faroe Islands,14
+2020-03,Fiji,2
+2020-03,Finland,275
+2020-03,France,3288
+2020-03,French Guiana,6
+2020-03,Gabon,15
+2020-03,Gambia,7
+2020-03,Georgia,16
+2020-03,Germany,1815
+2020-03,Ghana,26
+2020-03,Greece,141
+2020-03,Guadeloupe,26
+2020-03,Guam,22
+2020-03,Guatemala,10
+2020-03,Guinea,6
+2020-03,Guinea-Bissau,2
+2020-03,Guyana,1
+2020-03,Haiti,4
+2020-03,Hong Kong,210
+2020-03,Hungary,55
+2020-03,Iceland,1223
+2020-03,India,277
+2020-03,Indonesia,63
+2020-03,Iran,240
+2020-03,Ireland,584
+2020-03,Israel,221
+2020-03,Italy,1079
+2020-03,Jamaica,8
+2020-03,Japan,718
+2020-03,Jordan,22
+2020-03,Kazakhstan,19
+2020-03,Kenya,31
+2020-03,Kuwait,13
+2020-03,Latvia,31
+2020-03,Lebanon,33
+2020-03,Lithuania,2
+2020-03,Luxembourg,185
+2020-03,Madagascar,9
+2020-03,Malaysia,75
+2020-03,Mali,2
+2020-03,Mexico,64
+2020-03,Moldova,5
+2020-03,Mongolia,7
+2020-03,Montenegro,3
+2020-03,Morocco,32
+2020-03,Netherlands,968
+2020-03,New Zealand,323
+2020-03,Nicaragua,13
+2020-03,Niger,9
+2020-03,Nigeria,26
+2020-03,North Macedonia,5
+2020-03,Norway,236
+2020-03,Oman,33
+2020-03,Pakistan,4
+2020-03,Palestine,20
+2020-03,Panama,196
+2020-03,Paraguay,4
+2020-03,Peru,185
+2020-03,Philippines,35
+2020-03,Poland,51
+2020-03,Portugal,1281
+2020-03,Puerto Rico,14
+2020-03,Qatar,85
+2020-03,Reunion,4
+2020-03,Romania,12
+2020-03,Russia,181
+2020-03,Saint Barthelemy,1
+2020-03,Saint Kitts and Nevis,3
+2020-03,Saint Martin,6
+2020-03,Saudi Arabia,147
+2020-03,Senegal,83
+2020-03,Serbia,19
+2020-03,Sierra Leone,2
+2020-03,Singapore,381
+2020-03,Slovakia,8
+2020-03,Slovenia,298
+2020-03,South Africa,70
+2020-03,South Korea,114
+2020-03,Spain,3484
+2020-03,Sri Lanka,6
+2020-03,Sweden,603
+2020-03,Switzerland,1524
+2020-03,Taiwan,100
+2020-03,Thailand,523
+2020-03,The Bahamas,2
+2020-03,Timor-Leste,2
+2020-03,Togo,12
+2020-03,Tunisia,23
+2020-03,Turkey,70
+2020-03,U.S. Virgin Islands,6
+2020-03,USA,16115
+2020-03,Uganda,20
+2020-03,United Arab Emirates,29
+2020-03,United Kingdom,11802
+2020-03,Uruguay,37
+2020-03,Uzbekistan,2
+2020-03,Venezuela,5
+2020-03,Vietnam,109
+2020-03,Zambia,20
+2020-03,Zimbabwe,8
+2020-04,Algeria,3
+2020-04,Argentina,171
+2020-04,Australia,1085
+2020-04,Austria,207
+2020-04,Azerbaijan,4
+2020-04,Bahrain,14
+2020-04,Bangladesh,109
+2020-04,Belarus,1
+2020-04,Belgium,506
+2020-04,Belize,1
+2020-04,Benin,4
+2020-04,Bolivia,4
+2020-04,Bosnia and Herzegovina,6
+2020-04,Botswana,5
+2020-04,Brazil,1386
+2020-04,Bulgaria,7
+2020-04,Cameroon,12
+2020-04,Canada,4853
+2020-04,Canary Islands,15
+2020-04,Chile,184
+2020-04,China,25
+2020-04,Colombia,114
+2020-04,Costa Rica,4
+2020-04,Croatia,9
+2020-04,Cuba,5
+2020-04,Cyprus,140
+2020-04,Czech Republic,71
+2020-04,Democratic Republic of the Congo,176
+2020-04,Denmark,428
+2020-04,Djibouti,2
+2020-04,Ecuador,49
+2020-04,Egypt,15
+2020-04,Equatorial Guinea,21
+2020-04,Fiji,3
+2020-04,Finland,329
+2020-04,France,2273
+2020-04,French Guiana,3
+2020-04,Gabon,28
+2020-04,Gambia,7
+2020-04,Georgia,7
+2020-04,Germany,695
+2020-04,Ghana,1
+2020-04,Greece,28
+2020-04,Guinea,11
+2020-04,Guinea-Bissau,1
+2020-04,Haiti,1
+2020-04,Hong Kong,71
+2020-04,Hungary,59
+2020-04,Iceland,328
+2020-04,India,609
+2020-04,Indonesia,81
+2020-04,Iran,90
+2020-04,Ireland,702
+2020-04,Israel,178
+2020-04,Italy,551
+2020-04,Japan,3061
+2020-04,Jordan,6
+2020-04,Kazakhstan,47
+2020-04,Kenya,118
+2020-04,Kuwait,12
+2020-04,Kyrgyzstan,1
+2020-04,Laos,1
+2020-04,Latvia,14
+2020-04,Lebanon,4
+2020-04,Lithuania,73
+2020-04,Luxembourg,89
+2020-04,Madagascar,13
+2020-04,Malawi,1
+2020-04,Malaysia,67
+2020-04,Maldives,2
+2020-04,Mali,21
+2020-04,Mexico,469
+2020-04,Mongolia,5
+2020-04,Morocco,70
+2020-04,Myanmar,5
+2020-04,Netherlands,802
+2020-04,New Zealand,186
+2020-04,Nicaragua,13
+2020-04,Niger,8
+2020-04,Nigeria,41
+2020-04,North Macedonia,2
+2020-04,Norway,121
+2020-04,Oman,71
+2020-04,Pakistan,3
+2020-04,Panama,196
+2020-04,Paraguay,4
+2020-04,Peru,94
+2020-04,Philippines,12
+2020-04,Poland,76
+2020-04,Portugal,256
+2020-04,Puerto Rico,2
+2020-04,Qatar,269
+2020-04,Republic of the Congo,2
+2020-04,Romania,88
+2020-04,Russia,214
+2020-04,Saint Martin,4
+2020-04,Saudi Arabia,406
+2020-04,Senegal,80
+2020-04,Serbia,65
+2020-04,Sierra Leone,9
+2020-04,Singapore,457
+2020-04,Slovakia,8
+2020-04,Slovenia,95
+2020-04,Somalia,11
+2020-04,South Africa,241
+2020-04,South Korea,24
+2020-04,Spain,1509
+2020-04,Sri Lanka,12
+2020-04,Sweden,574
+2020-04,Switzerland,545
+2020-04,Taiwan,10
+2020-04,Thailand,65
+2020-04,The Bahamas,2
+2020-04,Timor-Leste,17
+2020-04,Togo,5
+2020-04,Tunisia,14
+2020-04,Turkey,107
+2020-04,U.S. Virgin Islands,14
+2020-04,USA,17259
+2020-04,Uganda,6
+2020-04,Ukraine,2
+2020-04,United Arab Emirates,91
+2020-04,United Kingdom,18508
+2020-04,Uruguay,36
+2020-04,Vanuatu,1
+2020-04,Venezuela,8
+2020-04,Vietnam,10
+2020-04,Zambia,4
+2020-04,Zimbabwe,14
+2020-05,Afghanistan,2
+2020-05,Algeria,15
+2020-05,Argentina,316
+2020-05,Australia,312
+2020-05,Austria,64
+2020-05,Azerbaijan,8
+2020-05,Bahrain,1
+2020-05,Bangladesh,243
+2020-05,Belarus,4
+2020-05,Belgium,164
+2020-05,Bhutan,1
+2020-05,Bolivia,21
+2020-05,Bosnia and Herzegovina,2
+2020-05,Brazil,686
+2020-05,Bulgaria,4
+2020-05,Burkina Faso,10
+2020-05,Cameroon,25
+2020-05,Canada,2003
+2020-05,Canary Islands,2
+2020-05,Chile,174
+2020-05,China,5
+2020-05,Colombia,72
+2020-05,Costa Rica,2
+2020-05,Cote d'Ivoire,3
+2020-05,Cyprus,39
+2020-05,Czech Republic,16
+2020-05,Democratic Republic of the Congo,294
+2020-05,Denmark,278
+2020-05,Djibouti,7
+2020-05,Dominican Republic,5
+2020-05,Ecuador,51
+2020-05,Egypt,99
+2020-05,El Salvador,2
+2020-05,Equatorial Guinea,37
+2020-05,Finland,162
+2020-05,France,311
+2020-05,French Guiana,5
+2020-05,Gabon,63
+2020-05,Gambia,26
+2020-05,Georgia,3
+2020-05,Germany,203
+2020-05,Ghana,27
+2020-05,Greece,15
+2020-05,Guatemala,8
+2020-05,Guinea,12
+2020-05,Guinea-Bissau,5
+2020-05,Haiti,121
+2020-05,Hong Kong,14
+2020-05,Hungary,9
+2020-05,India,1611
+2020-05,Indonesia,47
+2020-05,Iran,82
+2020-05,Iraq,9
+2020-05,Ireland,121
+2020-05,Israel,10
+2020-05,Italy,134
+2020-05,Japan,488
+2020-05,Kazakhstan,4
+2020-05,Kenya,204
+2020-05,Kuwait,21
+2020-05,Kyrgyzstan,4
+2020-05,Latvia,9
+2020-05,Lebanon,3
+2020-05,Libya,10
+2020-05,Lithuania,14
+2020-05,Luxembourg,14
+2020-05,Madagascar,44
+2020-05,Malawi,5
+2020-05,Malaysia,24
+2020-05,Maldives,3
+2020-05,Mexico,513
+2020-05,Mongolia,5
+2020-05,Morocco,46
+2020-05,Myanmar,6
+2020-05,Netherlands,449
+2020-05,New Zealand,6
+2020-05,Nicaragua,17
+2020-05,Niger,13
+2020-05,Nigeria,60
+2020-05,North Macedonia,1
+2020-05,Norway,38
+2020-05,Oman,87
+2020-05,Pakistan,17
+2020-05,Panama,104
+2020-05,Paraguay,7
+2020-05,Peru,102
+2020-05,Philippines,3
+2020-05,Poland,78
+2020-05,Portugal,97
+2020-05,Qatar,391
+2020-05,Republic of the Congo,1
+2020-05,Romania,32
+2020-05,Russia,332
+2020-05,Rwanda,1
+2020-05,Saudi Arabia,86
+2020-05,Senegal,188
+2020-05,Serbia,26
+2020-05,Singapore,171
+2020-05,Slovakia,2
+2020-05,Slovenia,2
+2020-05,Somalia,2
+2020-05,South Africa,326
+2020-05,South Korea,202
+2020-05,Spain,268
+2020-05,Sudan,10
+2020-05,Suriname,5
+2020-05,Sweden,151
+2020-05,Switzerland,90
+2020-05,Thailand,18
+2020-05,Togo,6
+2020-05,Tunisia,3
+2020-05,Turkey,162
+2020-05,U.S. Virgin Islands,1
+2020-05,USA,12417
+2020-05,Uganda,25
+2020-05,Ukraine,32
+2020-05,United Arab Emirates,1013
+2020-05,United Kingdom,6520
+2020-05,Uruguay,25
+2020-05,Uzbekistan,8
+2020-05,Venezuela,14
+2020-05,Zambia,5
+2020-05,Zimbabwe,36
+2020-06,Afghanistan,7
+2020-06,Algeria,20
+2020-06,Angola,3
+2020-06,Argentina,146
+2020-06,Australia,616
+2020-06,Austria,17
+2020-06,Azerbaijan,21
+2020-06,Bahrain,13
+2020-06,Bangladesh,354
+2020-06,Belarus,9
+2020-06,Belgium,79
+2020-06,Bhutan,2
+2020-06,Bolivia,9
+2020-06,Brazil,1169
+2020-06,Burkina Faso,13
+2020-06,Cameroon,9
+2020-06,Canada,884
+2020-06,Canary Islands,6
+2020-06,Chile,103
+2020-06,China,12
+2020-06,Colombia,48
+2020-06,Costa Rica,26
+2020-06,Cote d'Ivoire,29
+2020-06,Cuba,2
+2020-06,Cyprus,21
+2020-06,Czech Republic,19
+2020-06,Democratic Republic of the Congo,14
+2020-06,Denmark,287
+2020-06,Djibouti,21
+2020-06,Ecuador,52
+2020-06,Egypt,283
+2020-06,El Salvador,11
+2020-06,Equatorial Guinea,34
+2020-06,Finland,7
+2020-06,France,95
+2020-06,French Guiana,7
+2020-06,Gabon,26
+2020-06,Gambia,23
+2020-06,Georgia,1
+2020-06,Germany,1939
+2020-06,Ghana,9
+2020-06,Guatemala,30
+2020-06,Guinea,31
+2020-06,Haiti,31
+2020-06,Hong Kong,36
+2020-06,Hungary,16
+2020-06,India,1467
+2020-06,Indonesia,61
+2020-06,Iran,95
+2020-06,Iraq,75
+2020-06,Ireland,10
+2020-06,Israel,37
+2020-06,Italy,187
+2020-06,Japan,505
+2020-06,Jordan,4
+2020-06,Kazakhstan,21
+2020-06,Kenya,154
+2020-06,Kuwait,28
+2020-06,Kyrgyzstan,16
+2020-06,Latvia,9
+2020-06,Lebanon,16
+2020-06,Libya,24
+2020-06,Lithuania,1
+2020-06,Luxembourg,18
+2020-06,Madagascar,62
+2020-06,Malawi,22
+2020-06,Malaysia,6
+2020-06,Maldives,1
+2020-06,Mali,2
+2020-06,Mauritius,8
+2020-06,Mexico,461
+2020-06,Moldova,4
+2020-06,Mongolia,3
+2020-06,Morocco,13
+2020-06,Nepal,1
+2020-06,Netherlands,230
+2020-06,New Zealand,7
+2020-06,Nicaragua,20
+2020-06,Niger,2
+2020-06,Nigeria,58
+2020-06,North Macedonia,55
+2020-06,Norway,82
+2020-06,Oman,20
+2020-06,Pakistan,52
+2020-06,Palestine,15
+2020-06,Panama,116
+2020-06,Paraguay,6
+2020-06,Peru,105
+2020-06,Philippines,16
+2020-06,Poland,42
+2020-06,Portugal,114
+2020-06,Puerto Rico,8
+2020-06,Qatar,296
+2020-06,Republic of the Congo,6
+2020-06,Romania,29
+2020-06,Russia,368
+2020-06,Rwanda,9
+2020-06,Saudi Arabia,268
+2020-06,Senegal,162
+2020-06,Serbia,44
+2020-06,Seychelles,2
+2020-06,Singapore,142
+2020-06,Slovakia,2
+2020-06,Slovenia,40
+2020-06,Somalia,2
+2020-06,South Africa,503
+2020-06,South Korea,274
+2020-06,Spain,219
+2020-06,Sri Lanka,1
+2020-06,Sudan,10
+2020-06,Suriname,39
+2020-06,Sweden,106
+2020-06,Switzerland,96
+2020-06,Thailand,30
+2020-06,Togo,1
+2020-06,Trinidad and Tobago,1
+2020-06,Turkey,66
+2020-06,USA,15955
+2020-06,Ukraine,16
+2020-06,United Arab Emirates,257
+2020-06,United Kingdom,7123
+2020-06,Uruguay,27
+2020-06,Venezuela,1
+2020-06,Vietnam,1
+2020-06,Zambia,66
+2020-06,Zimbabwe,41
+2020-07,Algeria,7
+2020-07,Argentina,227
+2020-07,Armenia,11
+2020-07,Australia,7182
+2020-07,Austria,26
+2020-07,Azerbaijan,1
+2020-07,Bahrain,5
+2020-07,Bangladesh,318
+2020-07,Belarus,2
+2020-07,Belgium,156
+2020-07,Bhutan,3
+2020-07,Bolivia,7
+2020-07,Bosnia and Herzegovina,1
+2020-07,Brazil,1214
+2020-07,Bulgaria,2
+2020-07,Burkina Faso,4
+2020-07,Cameroon,8
+2020-07,Canada,781
+2020-07,Canary Islands,3
+2020-07,Chile,72
+2020-07,China,9
+2020-07,Colombia,46
+2020-07,Costa Rica,48
+2020-07,Cote d'Ivoire,30
+2020-07,Cuba,1
+2020-07,Cyprus,15
+2020-07,Czech Republic,35
+2020-07,Democratic Republic of the Congo,1
+2020-07,Denmark,251
+2020-07,Djibouti,4
+2020-07,Ecuador,62
+2020-07,Egypt,122
+2020-07,Equatorial Guinea,26
+2020-07,Faroe Islands,1
+2020-07,France,296
+2020-07,French Guiana,4
+2020-07,Gabon,23
+2020-07,Gambia,256
+2020-07,Germany,167
+2020-07,Ghana,62
+2020-07,Gibraltar,5
+2020-07,Greece,2
+2020-07,Guatemala,17
+2020-07,Guinea,13
+2020-07,Haiti,2
+2020-07,Hong Kong,1031
+2020-07,Hungary,1
+2020-07,Iceland,50
+2020-07,India,955
+2020-07,Indonesia,47
+2020-07,Iran,33
+2020-07,Iraq,3
+2020-07,Ireland,79
+2020-07,Israel,57
+2020-07,Italy,130
+2020-07,Japan,2730
+2020-07,Jordan,2
+2020-07,Kenya,194
+2020-07,Kosovo,8
+2020-07,Kuwait,13
+2020-07,Kyrgyzstan,11
+2020-07,Laos,5
+2020-07,Latvia,41
+2020-07,Lebanon,28
+2020-07,Lithuania,7
+2020-07,Luxembourg,49
+2020-07,Madagascar,72
+2020-07,Malawi,5
+2020-07,Malaysia,9
+2020-07,Maldives,3
+2020-07,Mauritius,24
+2020-07,Mexico,374
+2020-07,Mongolia,2
+2020-07,Montenegro,9
+2020-07,Morocco,32
+2020-07,Mozambique,7
+2020-07,Nepal,2
+2020-07,Netherlands,165
+2020-07,New Zealand,5
+2020-07,Nicaragua,8
+2020-07,Niger,3
+2020-07,Nigeria,77
+2020-07,North Macedonia,11
+2020-07,Northern Mariana Islands,16
+2020-07,Norway,120
+2020-07,Oman,14
+2020-07,Pakistan,11
+2020-07,Palestine,19
+2020-07,Panama,117
+2020-07,Papua New Guinea,34
+2020-07,Paraguay,7
+2020-07,Peru,45
+2020-07,Philippines,126
+2020-07,Portugal,55
+2020-07,Puerto Rico,25
+2020-07,Qatar,127
+2020-07,Republic of the Congo,2
+2020-07,Romania,113
+2020-07,Russia,221
+2020-07,Rwanda,19
+2020-07,Saudi Arabia,30
+2020-07,Senegal,70
+2020-07,Serbia,59
+2020-07,Singapore,119
+2020-07,Slovakia,2
+2020-07,Slovenia,150
+2020-07,Somalia,2
+2020-07,South Africa,1272
+2020-07,South Korea,291
+2020-07,Spain,435
+2020-07,Sri Lanka,6
+2020-07,Sudan,26
+2020-07,Suriname,27
+2020-07,Sweden,69
+2020-07,Switzerland,340
+2020-07,Taiwan,1
+2020-07,Thailand,31
+2020-07,The Bahamas,1
+2020-07,Togo,2
+2020-07,Tunisia,6
+2020-07,Turkey,11
+2020-07,USA,24025
+2020-07,Uganda,21
+2020-07,Ukraine,6
+2020-07,United Arab Emirates,17
+2020-07,United Kingdom,3012
+2020-07,Uruguay,34
+2020-07,Venezuela,1
+2020-07,Vietnam,40
+2020-07,Zambia,233
+2020-07,Zimbabwe,25
+2020-08,Algeria,1
+2020-08,Angola,1
+2020-08,Argentina,288
+2020-08,Armenia,24
+2020-08,Aruba,5
+2020-08,Australia,5686
+2020-08,Austria,76
+2020-08,Azerbaijan,4
+2020-08,Bahrain,6
+2020-08,Bangladesh,138
+2020-08,Belgium,230
+2020-08,Belize,5
+2020-08,Bhutan,14
+2020-08,Bolivia,12
+2020-08,Bosnia and Herzegovina,1
+2020-08,Brazil,1102
+2020-08,Bulgaria,10
+2020-08,Burkina Faso,17
+2020-08,Cameroon,2
+2020-08,Canada,1548
+2020-08,Canary Islands,41
+2020-08,Chile,95
+2020-08,China,22
+2020-08,Colombia,34
+2020-08,Costa Rica,17
+2020-08,Cote d'Ivoire,11
+2020-08,Croatia,5
+2020-08,Curacao,3
+2020-08,Cyprus,36
+2020-08,Czech Republic,45
+2020-08,Democratic Republic of the Congo,5
+2020-08,Denmark,1729
+2020-08,Dominican Republic,3
+2020-08,Ecuador,43
+2020-08,Egypt,81
+2020-08,El Salvador,12
+2020-08,Equatorial Guinea,7
+2020-08,Faroe Islands,10
+2020-08,Fiji,2
+2020-08,Finland,27
+2020-08,France,1813
+2020-08,Gabon,19
+2020-08,Gambia,68
+2020-08,Germany,380
+2020-08,Ghana,31
+2020-08,Gibraltar,7
+2020-08,Greece,17
+2020-08,Guatemala,4
+2020-08,Guinea,43
+2020-08,Haiti,2
+2020-08,Hong Kong,577
+2020-08,Hungary,22
+2020-08,Iceland,178
+2020-08,India,1381
+2020-08,Indonesia,63
+2020-08,Iran,45
+2020-08,Iraq,10
+2020-08,Ireland,131
+2020-08,Israel,13
+2020-08,Italy,168
+2020-08,Japan,4049
+2020-08,Jordan,15
+2020-08,Kazakhstan,2
+2020-08,Kenya,147
+2020-08,Kuwait,22
+2020-08,Latvia,41
+2020-08,Lebanon,36
+2020-08,Lithuania,37
+2020-08,Luxembourg,24
+2020-08,Madagascar,44
+2020-08,Malawi,7
+2020-08,Malaysia,10
+2020-08,Maldives,3
+2020-08,Malta,3
+2020-08,Mexico,354
+2020-08,Mongolia,1
+2020-08,Morocco,25
+2020-08,Mozambique,11
+2020-08,Myanmar,20
+2020-08,Namibia,5
+2020-08,Nepal,13
+2020-08,Netherlands,302
+2020-08,New Zealand,114
+2020-08,Nicaragua,4
+2020-08,Nigeria,35
+2020-08,North Macedonia,12
+2020-08,Northern Mariana Islands,14
+2020-08,Norway,240
+2020-08,Oman,9
+2020-08,Pakistan,10
+2020-08,Palestine,15
+2020-08,Panama,117
+2020-08,Papua New Guinea,67
+2020-08,Paraguay,17
+2020-08,Peru,213
+2020-08,Philippines,76
+2020-08,Poland,4
+2020-08,Portugal,68
+2020-08,Puerto Rico,54
+2020-08,Qatar,139
+2020-08,Romania,100
+2020-08,Russia,610
+2020-08,Rwanda,74
+2020-08,Saudi Arabia,29
+2020-08,Senegal,60
+2020-08,Serbia,28
+2020-08,Singapore,53
+2020-08,Slovakia,3
+2020-08,Slovenia,187
+2020-08,South Africa,480
+2020-08,South Korea,326
+2020-08,South Sudan,1
+2020-08,Spain,967
+2020-08,Sudan,14
+2020-08,Suriname,25
+2020-08,Sweden,88
+2020-08,Switzerland,508
+2020-08,Taiwan,1
+2020-08,Thailand,19
+2020-08,The Bahamas,3
+2020-08,Trinidad and Tobago,19
+2020-08,Tunisia,21
+2020-08,Turkey,20
+2020-08,U.S. Virgin Islands,2
+2020-08,USA,15698
+2020-08,Uganda,100
+2020-08,Ukraine,10
+2020-08,United Arab Emirates,72
+2020-08,United Kingdom,7174
+2020-08,Uruguay,4
+2020-08,Venezuela,7
+2020-08,Vietnam,34
+2020-08,Zambia,119
+2020-08,Zimbabwe,13
+2020-09,Albania,1
+2020-09,Algeria,7
+2020-09,Angola,17
+2020-09,Argentina,97
+2020-09,Armenia,10
+2020-09,Australia,1027
+2020-09,Austria,74
+2020-09,Bahrain,7
+2020-09,Bangladesh,120
+2020-09,Belgium,328
+2020-09,Belize,2
+2020-09,Bhutan,2
+2020-09,Bolivia,8
+2020-09,Bosnia and Herzegovina,2
+2020-09,Botswana,14
+2020-09,Brazil,1072
+2020-09,Bulgaria,9
+2020-09,Burkina Faso,63
+2020-09,Canada,2093
+2020-09,Canary Islands,30
+2020-09,Chile,108
+2020-09,China,12
+2020-09,Colombia,27
+2020-09,Costa Rica,17
+2020-09,Cote d'Ivoire,7
+2020-09,Crimea,2
+2020-09,Croatia,18
+2020-09,Cyprus,61
+2020-09,Czech Republic,53
+2020-09,Denmark,2335
+2020-09,Dominican Republic,5
+2020-09,Ecuador,95
+2020-09,Egypt,49
+2020-09,El Salvador,2
+2020-09,Estonia,158
+2020-09,Faroe Islands,12
+2020-09,Finland,166
+2020-09,France,2474
+2020-09,French Guiana,2
+2020-09,Gabon,3
+2020-09,Gambia,24
+2020-09,Georgia,4
+2020-09,Germany,558
+2020-09,Ghana,19
+2020-09,Greece,70
+2020-09,Guatemala,12
+2020-09,Guinea,15
+2020-09,Guyana,5
+2020-09,Haiti,2
+2020-09,Hong Kong,183
+2020-09,Hungary,58
+2020-09,Iceland,606
+2020-09,India,1186
+2020-09,Indonesia,65
+2020-09,Iran,37
+2020-09,Ireland,195
+2020-09,Israel,9
+2020-09,Italy,370
+2020-09,Japan,1389
+2020-09,Jordan,103
+2020-09,Kenya,106
+2020-09,Kuwait,6
+2020-09,Latvia,167
+2020-09,Lebanon,43
+2020-09,Lithuania,31
+2020-09,Luxembourg,28
+2020-09,Madagascar,36
+2020-09,Malawi,4
+2020-09,Malaysia,32
+2020-09,Maldives,1
+2020-09,Malta,7
+2020-09,Mexico,206
+2020-09,Moldova,8
+2020-09,Mongolia,1
+2020-09,Morocco,6
+2020-09,Mozambique,13
+2020-09,Myanmar,10
+2020-09,Namibia,4
+2020-09,Netherlands,512
+2020-09,New Zealand,49
+2020-09,Nicaragua,7
+2020-09,Nigeria,15
+2020-09,North Macedonia,10
+2020-09,Northern Mariana Islands,8
+2020-09,Norway,262
+2020-09,Oman,12
+2020-09,Pakistan,4
+2020-09,Panama,37
+2020-09,Papua New Guinea,5
+2020-09,Paraguay,8
+2020-09,Peru,125
+2020-09,Philippines,34
+2020-09,Poland,17
+2020-09,Portugal,38
+2020-09,Puerto Rico,25
+2020-09,Qatar,81
+2020-09,Romania,127
+2020-09,Russia,902
+2020-09,Rwanda,3
+2020-09,Senegal,29
+2020-09,Serbia,25
+2020-09,Seychelles,1
+2020-09,Singapore,33
+2020-09,Sint Eustatius,4
+2020-09,Slovakia,10
+2020-09,Slovenia,392
+2020-09,South Africa,685
+2020-09,South Korea,146
+2020-09,Spain,1102
+2020-09,Sudan,2
+2020-09,Sweden,102
+2020-09,Switzerland,423
+2020-09,Taiwan,2
+2020-09,Thailand,37
+2020-09,The Bahamas,2
+2020-09,Togo,6
+2020-09,Trinidad and Tobago,13
+2020-09,Tunisia,61
+2020-09,Turkey,40
+2020-09,USA,16728
+2020-09,Uganda,49
+2020-09,United Arab Emirates,124
+2020-09,United Kingdom,16269
+2020-09,Uruguay,18
+2020-09,Venezuela,13
+2020-09,Zambia,3
+2020-09,Zimbabwe,7
+2020-10,Algeria,4
+2020-10,Angola,29
+2020-10,Antigua and Barbuda,2
+2020-10,Argentina,156
+2020-10,Australia,330
+2020-10,Austria,177
+2020-10,Azerbaijan,33
+2020-10,Bahrain,59
+2020-10,Bangladesh,57
+2020-10,Belarus,15
+2020-10,Belgium,650
+2020-10,Belize,10
+2020-10,Bermuda,9
+2020-10,Bhutan,3
+2020-10,Bolivia,7
+2020-10,Bosnia and Herzegovina,2
+2020-10,Botswana,13
+2020-10,Brazil,1058
+2020-10,Bulgaria,6
+2020-10,Burkina Faso,17
+2020-10,Cabo Verde,2
+2020-10,Cambodia,1
+2020-10,Cameroon,7
+2020-10,Canada,3281
+2020-10,Chile,109
+2020-10,China,2
+2020-10,Colombia,65
+2020-10,Costa Rica,14
+2020-10,Cote d'Ivoire,6
+2020-10,Crimea,5
+2020-10,Croatia,5
+2020-10,Curacao,10
+2020-10,Cyprus,98
+2020-10,Czech Republic,616
+2020-10,Denmark,3452
+2020-10,Djibouti,1
+2020-10,Dominican Republic,13
+2020-10,Ecuador,117
+2020-10,Egypt,28
+2020-10,El Salvador,4
+2020-10,Estonia,72
+2020-10,Finland,381
+2020-10,France,3009
+2020-10,French Guiana,24
+2020-10,Gabon,3
+2020-10,Gambia,6
+2020-10,Georgia,12
+2020-10,Germany,953
+2020-10,Ghana,18
+2020-10,Gibraltar,185
+2020-10,Greece,168
+2020-10,Guatemala,87
+2020-10,Guinea,25
+2020-10,Haiti,5
+2020-10,Hong Kong,195
+2020-10,Hungary,147
+2020-10,Iceland,1980
+2020-10,India,931
+2020-10,Indonesia,97
+2020-10,Iran,71
+2020-10,Iraq,5
+2020-10,Ireland,192
+2020-10,Israel,7
+2020-10,Italy,648
+2020-10,Japan,1464
+2020-10,Jordan,344
+2020-10,Kenya,542
+2020-10,Kuwait,9
+2020-10,Kyrgyzstan,2
+2020-10,Latvia,210
+2020-10,Lebanon,33
+2020-10,Liechtenstein,3
+2020-10,Lithuania,6
+2020-10,Luxembourg,708
+2020-10,Madagascar,24
+2020-10,Malaysia,94
+2020-10,Mauritius,2
+2020-10,Mexico,187
+2020-10,Mongolia,6
+2020-10,Morocco,3
+2020-10,Mozambique,20
+2020-10,Namibia,10
+2020-10,Nepal,1
+2020-10,Netherlands,887
+2020-10,New Zealand,65
+2020-10,Nicaragua,4
+2020-10,Nigeria,15
+2020-10,North Macedonia,26
+2020-10,Northern Mariana Islands,37
+2020-10,Norway,459
+2020-10,Oman,1
+2020-10,Pakistan,9
+2020-10,Panama,38
+2020-10,Papua New Guinea,5
+2020-10,Paraguay,3
+2020-10,Peru,154
+2020-10,Philippines,45
+2020-10,Poland,12
+2020-10,Portugal,10
+2020-10,Puerto Rico,49
+2020-10,Qatar,49
+2020-10,Romania,92
+2020-10,Russia,844
+2020-10,Rwanda,10
+2020-10,Senegal,35
+2020-10,Serbia,44
+2020-10,Seychelles,1
+2020-10,Singapore,60
+2020-10,Slovakia,4
+2020-10,Slovenia,934
+2020-10,Solomon Islands,3
+2020-10,Somalia,7
+2020-10,South Africa,857
+2020-10,South Korea,200
+2020-10,Spain,1272
+2020-10,Sri Lanka,14
+2020-10,Sudan,2
+2020-10,Sweden,135
+2020-10,Switzerland,1819
+2020-10,Taiwan,5
+2020-10,Thailand,39
+2020-10,The Bahamas,2
+2020-10,Trinidad and Tobago,4
+2020-10,Tunisia,33
+2020-10,Turkey,3
+2020-10,USA,26991
+2020-10,Uganda,22
+2020-10,United Arab Emirates,84
+2020-10,United Kingdom,31990
+2020-10,Uruguay,16
+2020-10,Uzbekistan,14
+2020-10,Venezuela,16
+2020-10,Vietnam,5
+2020-10,Zambia,4
+2020-10,Zimbabwe,9
+2020-11,Algeria,11
+2020-11,Angola,1
+2020-11,Argentina,144
+2020-11,Australia,132
+2020-11,Austria,451
+2020-11,Azerbaijan,14
+2020-11,Bahrain,42
+2020-11,Bangladesh,69
+2020-11,Belarus,15
+2020-11,Belgium,420
+2020-11,Belize,1
+2020-11,Bermuda,23
+2020-11,Bhutan,2
+2020-11,Bolivia,9
+2020-11,Bosnia and Herzegovina,4
+2020-11,Botswana,20
+2020-11,Brazil,1736
+2020-11,Bulgaria,11
+2020-11,Burkina Faso,28
+2020-11,Cabo Verde,6
+2020-11,Cambodia,12
+2020-11,Cameroon,11
+2020-11,Canada,6393
+2020-11,Central African Republic,3
+2020-11,Chile,18
+2020-11,Colombia,80
+2020-11,Costa Rica,21
+2020-11,Croatia,29
+2020-11,Curacao,6
+2020-11,Cyprus,113
+2020-11,Czech Republic,465
+2020-11,Denmark,9773
+2020-11,Djibouti,16
+2020-11,Dominican Republic,21
+2020-11,Ecuador,65
+2020-11,Egypt,19
+2020-11,Equatorial Guinea,4
+2020-11,Estonia,46
+2020-11,Eswatini,11
+2020-11,Ethiopia,4
+2020-11,Fiji,3
+2020-11,Finland,152
+2020-11,France,2240
+2020-11,French Guiana,8
+2020-11,Gabon,1
+2020-11,Georgia,8
+2020-11,Germany,1305
+2020-11,Ghana,45
+2020-11,Greece,303
+2020-11,Guam,2
+2020-11,Guatemala,30
+2020-11,Guinea,10
+2020-11,Haiti,7
+2020-11,Hong Kong,536
+2020-11,Iceland,476
+2020-11,India,1203
+2020-11,Indonesia,160
+2020-11,Iran,58
+2020-11,Iraq,42
+2020-11,Ireland,224
+2020-11,Israel,2
+2020-11,Italy,689
+2020-11,Japan,3632
+2020-11,Jordan,44
+2020-11,Kazakhstan,9
+2020-11,Kenya,708
+2020-11,Kuwait,10
+2020-11,Kyrgyzstan,5
+2020-11,Latvia,2
+2020-11,Lebanon,28
+2020-11,Lesotho,2
+2020-11,Liechtenstein,1
+2020-11,Lithuania,59
+2020-11,Luxembourg,1021
+2020-11,Madagascar,31
+2020-11,Malawi,2
+2020-11,Malaysia,141
+2020-11,Maldives,2
+2020-11,Mauritius,7
+2020-11,Mexico,409
+2020-11,Mongolia,42
+2020-11,Morocco,27
+2020-11,Mozambique,52
+2020-11,Namibia,3
+2020-11,Nepal,1
+2020-11,Netherlands,1033
+2020-11,New Zealand,51
+2020-11,Nicaragua,8
+2020-11,Niger,13
+2020-11,Nigeria,16
+2020-11,North Macedonia,22
+2020-11,Northern Mariana Islands,12
+2020-11,Norway,381
+2020-11,Oman,1
+2020-11,Pakistan,30
+2020-11,Palestine,26
+2020-11,Panama,14
+2020-11,Paraguay,2
+2020-11,Peru,78
+2020-11,Philippines,390
+2020-11,Poland,154
+2020-11,Portugal,440
+2020-11,Puerto Rico,88
+2020-11,Qatar,48
+2020-11,Romania,308
+2020-11,Russia,800
+2020-11,Rwanda,9
+2020-11,Saint Vincent and the Grenadines,1
+2020-11,Saudi Arabia,8
+2020-11,Senegal,40
+2020-11,Serbia,32
+2020-11,Singapore,51
+2020-11,Slovakia,72
+2020-11,Slovenia,1455
+2020-11,Solomon Islands,4
+2020-11,South Africa,989
+2020-11,South Korea,349
+2020-11,Spain,972
+2020-11,Sri Lanka,31
+2020-11,Sweden,263
+2020-11,Switzerland,3836
+2020-11,Taiwan,15
+2020-11,Thailand,48
+2020-11,The Bahamas,13
+2020-11,Timor-Leste,1
+2020-11,Togo,1
+2020-11,Trinidad and Tobago,20
+2020-11,Tunisia,27
+2020-11,Turkey,36
+2020-11,USA,39126
+2020-11,Uganda,65
+2020-11,Ukraine,2
+2020-11,United Arab Emirates,104
+2020-11,United Kingdom,35185
+2020-11,Uruguay,14
+2020-11,Venezuela,3
+2020-11,Vietnam,2
+2020-11,Zimbabwe,3
+2020-12,Albania,6
+2020-12,Algeria,12
+2020-12,Angola,100
+2020-12,Argentina,340
+2020-12,Australia,339
+2020-12,Austria,548
+2020-12,Azerbaijan,37
+2020-12,Bahrain,7
+2020-12,Bangladesh,131
+2020-12,Barbados,6
+2020-12,Belarus,2
+2020-12,Belgium,567
+2020-12,Belize,19
+2020-12,Bermuda,6
+2020-12,Bhutan,13
+2020-12,Bolivia,14
+2020-12,Bosnia and Herzegovina,5
+2020-12,Botswana,27
+2020-12,Brazil,1888
+2020-12,Brunei,2
+2020-12,Bulgaria,84
+2020-12,Burkina Faso,216
+2020-12,Cabo Verde,5
+2020-12,Cambodia,14
+2020-12,Cameroon,30
+2020-12,Canada,6481
+2020-12,Canary Islands,353
+2020-12,Cayman Islands,13
+2020-12,Central African Republic,7
+2020-12,Chile,109
+2020-12,China,10
+2020-12,Colombia,179
+2020-12,Costa Rica,47
+2020-12,Cote d'Ivoire,30
+2020-12,Croatia,7
+2020-12,Cuba,14
+2020-12,Curacao,15
+2020-12,Cyprus,262
+2020-12,Czech Republic,331
+2020-12,Denmark,17034
+2020-12,Djibouti,7
+2020-12,Dominica,1
+2020-12,Dominican Republic,4
+2020-12,Ecuador,140
+2020-12,Egypt,116
+2020-12,Equatorial Guinea,9
+2020-12,Estonia,26
+2020-12,Eswatini,4
+2020-12,Ethiopia,4
+2020-12,Fiji,3
+2020-12,Finland,295
+2020-12,France,1484
+2020-12,French Guiana,12
+2020-12,French Polynesia,9
+2020-12,Gabon,7
+2020-12,Gambia,1
+2020-12,Georgia,4
+2020-12,Germany,2076
+2020-12,Ghana,53
+2020-12,Gibraltar,217
+2020-12,Greece,478
+2020-12,Guam,18
+2020-12,Guatemala,26
+2020-12,Guinea,12
+2020-12,Guyana,1
+2020-12,Haiti,17
+2020-12,Hong Kong,639
+2020-12,Hungary,1
+2020-12,Iceland,332
+2020-12,India,3466
+2020-12,Indonesia,287
+2020-12,Iran,45
+2020-12,Iraq,8
+2020-12,Ireland,295
+2020-12,Israel,1281
+2020-12,Italy,1610
+2020-12,Jamaica,6
+2020-12,Japan,5430
+2020-12,Jordan,5
+2020-12,Kazakhstan,25
+2020-12,Kenya,192
+2020-12,Kosovo,8
+2020-12,Kuwait,20
+2020-12,Latvia,138
+2020-12,Lebanon,75
+2020-12,Lesotho,13
+2020-12,Liechtenstein,29
+2020-12,Lithuania,425
+2020-12,Luxembourg,1335
+2020-12,Madagascar,34
+2020-12,Malawi,34
+2020-12,Malaysia,104
+2020-12,Maldives,4
+2020-12,Mali,1
+2020-12,Malta,4
+2020-12,Mauritius,5
+2020-12,Mexico,686
+2020-12,Mongolia,28
+2020-12,Morocco,64
+2020-12,Mozambique,52
+2020-12,Namibia,16
+2020-12,Nepal,1
+2020-12,Netherlands,2208
+2020-12,New Zealand,49
+2020-12,Nicaragua,20
+2020-12,Niger,55
+2020-12,Nigeria,112
+2020-12,North Macedonia,41
+2020-12,Northern Mariana Islands,12
+2020-12,Norway,608
+2020-12,Oman,5
+2020-12,Pakistan,34
+2020-12,Panama,76
+2020-12,Papua New Guinea,41
+2020-12,Paraguay,17
+2020-12,Peru,272
+2020-12,Philippines,658
+2020-12,Poland,202
+2020-12,Portugal,349
+2020-12,Puerto Rico,139
+2020-12,Qatar,142
+2020-12,Republic of the Congo,64
+2020-12,Romania,227
+2020-12,Russia,558
+2020-12,Rwanda,71
+2020-12,Saint Lucia,6
+2020-12,Saudi Arabia,10
+2020-12,Senegal,342
+2020-12,Serbia,28
+2020-12,Sierra Leone,5
+2020-12,Singapore,97
+2020-12,Slovakia,114
+2020-12,Slovenia,1752
+2020-12,Solomon Islands,2
+2020-12,South Africa,1809
+2020-12,South Korea,452
+2020-12,Spain,2535
+2020-12,Sri Lanka,36
+2020-12,Sudan,22
+2020-12,Suriname,15
+2020-12,Sweden,652
+2020-12,Switzerland,5622
+2020-12,Taiwan,17
+2020-12,Thailand,223
+2020-12,Timor-Leste,4
+2020-12,Togo,14
+2020-12,Trinidad and Tobago,7
+2020-12,Tunisia,7
+2020-12,Turkey,97
+2020-12,USA,55753
+2020-12,Uganda,112
+2020-12,Ukraine,42
+2020-12,United Arab Emirates,182
+2020-12,United Kingdom,39029
+2020-12,Uruguay,27
+2020-12,Uzbekistan,4
+2020-12,Venezuela,66
+2020-12,Vietnam,8
+2020-12,Zambia,33
+2020-12,Zimbabwe,176
+2021-01,Afghanistan,21
+2021-01,Albania,20
+2021-01,Algeria,8
+2021-01,Angola,98
+2021-01,Antigua and Barbuda,2
+2021-01,Argentina,413
+2021-01,Armenia,24
+2021-01,Aruba,100
+2021-01,Australia,315
+2021-01,Austria,4660
+2021-01,Azerbaijan,9
+2021-01,Bahrain,18
+2021-01,Bangladesh,114
+2021-01,Barbados,3
+2021-01,Belarus,4
+2021-01,Belgium,2652
+2021-01,Belize,45
+2021-01,Benin,51
+2021-01,Bermuda,2
+2021-01,Bhutan,8
+2021-01,Bolivia,25
+2021-01,Bosnia and Herzegovina,19
+2021-01,Botswana,94
+2021-01,Brazil,3402
+2021-01,British Virgin Islands,12
+2021-01,Brunei,3
+2021-01,Bulgaria,241
+2021-01,Burkina Faso,137
+2021-01,Cabo Verde,28
+2021-01,Cambodia,2
+2021-01,Cameroon,95
+2021-01,Canada,11170
+2021-01,Canary Islands,491
+2021-01,Cayman Islands,7
+2021-01,Central African Republic,67
+2021-01,Chad,9
+2021-01,Chile,174
+2021-01,China,58
+2021-01,Colombia,215
+2021-01,Comoros,6
+2021-01,Costa Rica,81
+2021-01,Cote d'Ivoire,31
+2021-01,Croatia,91
+2021-01,Cuba,100
+2021-01,Curacao,36
+2021-01,Cyprus,278
+2021-01,Czech Republic,708
+2021-01,Democratic Republic of the Congo,398
+2021-01,Denmark,14809
+2021-01,Djibouti,14
+2021-01,Dominica,6
+2021-01,Dominican Republic,72
+2021-01,Ecuador,159
+2021-01,Egypt,99
+2021-01,El Salvador,6
+2021-01,Equatorial Guinea,21
+2021-01,Estonia,68
+2021-01,Eswatini,11
+2021-01,Ethiopia,10
+2021-01,Faroe Islands,1
+2021-01,Fiji,1
+2021-01,Finland,1391
+2021-01,France,8722
+2021-01,French Guiana,147
+2021-01,French Polynesia,9
+2021-01,Gabon,31
+2021-01,Gambia,29
+2021-01,Georgia,8
+2021-01,Germany,7398
+2021-01,Ghana,357
+2021-01,Gibraltar,79
+2021-01,Greece,255
+2021-01,Grenada,5
+2021-01,Guadeloupe,127
+2021-01,Guam,19
+2021-01,Guatemala,117
+2021-01,Guinea,45
+2021-01,Guinea-Bissau,109
+2021-01,Guyana,4
+2021-01,Haiti,8
+2021-01,Honduras,11
+2021-01,Hong Kong,520
+2021-01,Hungary,37
+2021-01,Iceland,242
+2021-01,India,10160
+2021-01,Indonesia,868
+2021-01,Iran,562
+2021-01,Iraq,5
+2021-01,Ireland,981
+2021-01,Israel,3371
+2021-01,Italy,4879
+2021-01,Jamaica,14
+2021-01,Japan,10008
+2021-01,Jordan,115
+2021-01,Kazakhstan,16
+2021-01,Kenya,185
+2021-01,Kosovo,14
+2021-01,Kuwait,15
+2021-01,Kyrgyzstan,1
+2021-01,Laos,9
+2021-01,Latvia,181
+2021-01,Lebanon,210
+2021-01,Lesotho,28
+2021-01,Libya,2
+2021-01,Liechtenstein,6
+2021-01,Lithuania,607
+2021-01,Luxembourg,588
+2021-01,Madagascar,63
+2021-01,Malawi,319
+2021-01,Malaysia,303
+2021-01,Maldives,5
+2021-01,Mali,9
+2021-01,Malta,44
+2021-01,Martinique,23
+2021-01,Mauritius,30
+2021-01,Mayotte,710
+2021-01,Mexico,862
+2021-01,Moldova,1
+2021-01,Monaco,1
+2021-01,Mongolia,38
+2021-01,Montenegro,19
+2021-01,Montserrat,2
+2021-01,Morocco,102
+2021-01,Mozambique,147
+2021-01,Myanmar,9
+2021-01,Namibia,27
+2021-01,Nepal,23
+2021-01,Netherlands,4289
+2021-01,New Zealand,355
+2021-01,Nicaragua,31
+2021-01,Niger,27
+2021-01,Nigeria,488
+2021-01,North Macedonia,124
+2021-01,Northern Mariana Islands,8
+2021-01,Norway,1843
+2021-01,Oman,30
+2021-01,Pakistan,36
+2021-01,Palestine,575
+2021-01,Panama,118
+2021-01,Papua New Guinea,237
+2021-01,Paraguay,87
+2021-01,Peru,402
+2021-01,Philippines,1244
+2021-01,Poland,562
+2021-01,Portugal,1167
+2021-01,Puerto Rico,188
+2021-01,Qatar,53
+2021-01,Republic of the Congo,42
+2021-01,Reunion,152
+2021-01,Romania,279
+2021-01,Russia,365
+2021-01,Rwanda,95
+2021-01,Saint Kitts and Nevis,2
+2021-01,Saint Lucia,11
+2021-01,Saint Martin,3
+2021-01,Saint Vincent and the Grenadines,7
+2021-01,Saudi Arabia,16
+2021-01,Senegal,455
+2021-01,Serbia,29
+2021-01,Seychelles,5
+2021-01,Sierra Leone,45
+2021-01,Singapore,146
+2021-01,Sint Maarten,10
+2021-01,Slovakia,148
+2021-01,Slovenia,2112
+2021-01,South Africa,1757
+2021-01,South Korea,409
+2021-01,South Sudan,21
+2021-01,Spain,6025
+2021-01,Sri Lanka,143
+2021-01,Sudan,2
+2021-01,Suriname,18
+2021-01,Sweden,4814
+2021-01,Switzerland,7741
+2021-01,Taiwan,21
+2021-01,Tanzania,5
+2021-01,Thailand,278
+2021-01,The Bahamas,4
+2021-01,Timor-Leste,15
+2021-01,Togo,15
+2021-01,Trinidad and Tobago,11
+2021-01,Tunisia,60
+2021-01,Turkey,577
+2021-01,Turks and Caicos Islands,2
+2021-01,U.S. Virgin Islands,2
+2021-01,USA,93222
+2021-01,Uganda,55
+2021-01,Ukraine,57
+2021-01,United Arab Emirates,419
+2021-01,United Kingdom,117869
+2021-01,Uruguay,83
+2021-01,Uzbekistan,8
+2021-01,Venezuela,37
+2021-01,Vietnam,39
+2021-01,Zambia,97
+2021-01,Zimbabwe,186
+2021-02,Albania,2
+2021-02,Algeria,15
+2021-02,Angola,94
+2021-02,Antigua and Barbuda,3
+2021-02,Argentina,336
+2021-02,Aruba,263
+2021-02,Australia,143
+2021-02,Austria,8415
+2021-02,Azerbaijan,3
+2021-02,Bahrain,45
+2021-02,Bangladesh,63
+2021-02,Belarus,4
+2021-02,Belgium,3939
+2021-02,Belize,22
+2021-02,Benin,116
+2021-02,Bolivia,18
+2021-02,Bonaire,41
+2021-02,Bosnia and Herzegovina,17
+2021-02,Botswana,22
+2021-02,Brazil,3984
+2021-02,Bulgaria,535
+2021-02,Burkina Faso,38
+2021-02,Cabo Verde,6
+2021-02,Cambodia,23
+2021-02,Cameroon,65
+2021-02,Canada,10804
+2021-02,Canary Islands,360
+2021-02,Cayman Islands,7
+2021-02,Central African Republic,26
+2021-02,Chile,213
+2021-02,China,10
+2021-02,Colombia,61
+2021-02,Costa Rica,111
+2021-02,Cote d'Ivoire,178
+2021-02,Crimea,1
+2021-02,Croatia,902
+2021-02,Cuba,143
+2021-02,Curacao,55
+2021-02,Cyprus,151
+2021-02,Czech Republic,1442
+2021-02,Democratic Republic of the Congo,31
+2021-02,Denmark,9286
+2021-02,Djibouti,51
+2021-02,Dominican Republic,27
+2021-02,Ecuador,31
+2021-02,Egypt,88
+2021-02,El Salvador,3
+2021-02,Equatorial Guinea,28
+2021-02,Estonia,606
+2021-02,Eswatini,30
+2021-02,Ethiopia,23
+2021-02,Faroe Islands,1
+2021-02,Fiji,1
+2021-02,Finland,3173
+2021-02,France,8061
+2021-02,French Guiana,42
+2021-02,French Polynesia,7
+2021-02,Gabon,180
+2021-02,Gambia,23
+2021-02,Georgia,19
+2021-02,Germany,19071
+2021-02,Ghana,300
+2021-02,Gibraltar,145
+2021-02,Greece,661
+2021-02,Grenada,7
+2021-02,Guadeloupe,20
+2021-02,Guam,11
+2021-02,Guatemala,27
+2021-02,Guinea,18
+2021-02,Guinea-Bissau,14
+2021-02,Haiti,8
+2021-02,Honduras,18
+2021-02,Hong Kong,62
+2021-02,Hungary,33
+2021-02,Iceland,39
+2021-02,India,4117
+2021-02,Indonesia,530
+2021-02,Iran,82
+2021-02,Iraq,101
+2021-02,Ireland,3320
+2021-02,Israel,3293
+2021-02,Italy,6689
+2021-02,Jamaica,89
+2021-02,Japan,3043
+2021-02,Jordan,28
+2021-02,Kazakhstan,37
+2021-02,Kenya,247
+2021-02,Kuwait,45
+2021-02,Kyrgyzstan,2
+2021-02,Latvia,873
+2021-02,Lebanon,265
+2021-02,Lesotho,4
+2021-02,Libya,88
+2021-02,Liechtenstein,10
+2021-02,Lithuania,1901
+2021-02,Luxembourg,1124
+2021-02,Madagascar,68
+2021-02,Malawi,75
+2021-02,Malaysia,195
+2021-02,Maldives,4
+2021-02,Martinique,16
+2021-02,Mauritania,2
+2021-02,Mauritius,12
+2021-02,Mayotte,12
+2021-02,Mexico,1849
+2021-02,Moldova,7
+2021-02,Monaco,6
+2021-02,Mongolia,56
+2021-02,Montserrat,2
+2021-02,Morocco,28
+2021-02,Mozambique,87
+2021-02,Namibia,143
+2021-02,Netherlands,5365
+2021-02,New Zealand,37
+2021-02,Nicaragua,26
+2021-02,Niger,9
+2021-02,Nigeria,333
+2021-02,North Macedonia,97
+2021-02,Northern Mariana Islands,4
+2021-02,Norway,2860
+2021-02,Oman,28
+2021-02,Pakistan,43
+2021-02,Palestine,15
+2021-02,Panama,113
+2021-02,Papua New Guinea,123
+2021-02,Paraguay,123
+2021-02,Peru,394
+2021-02,Philippines,845
+2021-02,Poland,1687
+2021-02,Portugal,1045
+2021-02,Puerto Rico,42
+2021-02,Qatar,213
+2021-02,Republic of the Congo,57
+2021-02,Reunion,556
+2021-02,Romania,410
+2021-02,Russia,764
+2021-02,Rwanda,39
+2021-02,Saint Lucia,2
+2021-02,Saudi Arabia,117
+2021-02,Senegal,181
+2021-02,Serbia,23
+2021-02,Seychelles,3
+2021-02,Sierra Leone,5
+2021-02,Singapore,97
+2021-02,Sint Maarten,44
+2021-02,Slovakia,259
+2021-02,Slovenia,2874
+2021-02,Somalia,10
+2021-02,South Africa,659
+2021-02,South Korea,800
+2021-02,South Sudan,4
+2021-02,Spain,6139
+2021-02,Sri Lanka,121
+2021-02,Sudan,6
+2021-02,Suriname,36
+2021-02,Sweden,18490
+2021-02,Switzerland,4260
+2021-02,Taiwan,2
+2021-02,Thailand,195
+2021-02,Timor-Leste,4
+2021-02,Togo,77
+2021-02,Trinidad and Tobago,9
+2021-02,Tunisia,62
+2021-02,Turkey,1923
+2021-02,U.S. Virgin Islands,14
+2021-02,USA,84676
+2021-02,Uganda,14
+2021-02,Ukraine,31
+2021-02,United Arab Emirates,201
+2021-02,United Kingdom,61578
+2021-02,Uruguay,155
+2021-02,Venezuela,37
+2021-02,Vietnam,16
+2021-02,Zambia,120
+2021-02,Zimbabwe,41
+2021-03,Afghanistan,3
+2021-03,Albania,5
+2021-03,Algeria,9
+2021-03,Angola,308
+2021-03,Anguilla,3
+2021-03,Antigua and Barbuda,6
+2021-03,Argentina,994
+2021-03,Armenia,12
+2021-03,Aruba,246
+2021-03,Australia,302
+2021-03,Austria,9156
+2021-03,Azerbaijan,1
+2021-03,Bahrain,8
+2021-03,Bangladesh,283
+2021-03,Barbados,5
+2021-03,Belarus,27
+2021-03,Belgium,6684
+2021-03,Belize,3
+2021-03,Benin,232
+2021-03,Bhutan,3
+2021-03,Bolivia,13
+2021-03,Bonaire,119
+2021-03,Bosnia and Herzegovina,25
+2021-03,Botswana,83
+2021-03,Brazil,7123
+2021-03,Bulgaria,1337
+2021-03,Burkina Faso,34
+2021-03,Cambodia,21
+2021-03,Cameroon,36
+2021-03,Canada,21964
+2021-03,Canary Islands,481
+2021-03,Cayman Islands,12
+2021-03,Central African Republic,39
+2021-03,Chile,391
+2021-03,China,61
+2021-03,Colombia,249
+2021-03,Costa Rica,169
+2021-03,Cote d'Ivoire,229
+2021-03,Crimea,1
+2021-03,Croatia,1602
+2021-03,Cuba,164
+2021-03,Curacao,134
+2021-03,Cyprus,184
+2021-03,Czech Republic,1349
+2021-03,Democratic Republic of the Congo,20
+2021-03,Denmark,16270
+2021-03,Djibouti,111
+2021-03,Dominica,2
+2021-03,Dominican Republic,92
+2021-03,Ecuador,29
+2021-03,Egypt,123
+2021-03,El Salvador,1
+2021-03,Equatorial Guinea,2
+2021-03,Estonia,1968
+2021-03,Eswatini,4
+2021-03,Ethiopia,6
+2021-03,Faroe Islands,2
+2021-03,Fiji,1
+2021-03,Finland,3285
+2021-03,France,18428
+2021-03,French Guiana,52
+2021-03,French Polynesia,4
+2021-03,Gabon,158
+2021-03,Gambia,94
+2021-03,Georgia,10
+2021-03,Germany,35057
+2021-03,Ghana,192
+2021-03,Gibraltar,153
+2021-03,Greece,1952
+2021-03,Grenada,1
+2021-03,Guadeloupe,27
+2021-03,Guam,6
+2021-03,Guatemala,47
+2021-03,Guinea,53
+2021-03,Guyana,3
+2021-03,Haiti,2
+2021-03,Honduras,1
+2021-03,Hong Kong,340
+2021-03,Iceland,146
+2021-03,India,9164
+2021-03,Indonesia,576
+2021-03,Iran,16
+2021-03,Iraq,15
+2021-03,Ireland,3585
+2021-03,Israel,1934
+2021-03,Italy,12102
+2021-03,Jamaica,37
+2021-03,Japan,5859
+2021-03,Jordan,49
+2021-03,Kazakhstan,74
+2021-03,Kenya,622
+2021-03,Kyrgyzstan,1
+2021-03,Laos,1
+2021-03,Latvia,2320
+2021-03,Lebanon,340
+2021-03,Lesotho,3
+2021-03,Liberia,4
+2021-03,Libya,10
+2021-03,Liechtenstein,2
+2021-03,Lithuania,3115
+2021-03,Luxembourg,1823
+2021-03,Madagascar,90
+2021-03,Malawi,52
+2021-03,Malaysia,152
+2021-03,Maldives,10
+2021-03,Mali,7
+2021-03,Malta,1
+2021-03,Martinique,3
+2021-03,Mauritania,4
+2021-03,Mauritius,132
+2021-03,Mayotte,4
+2021-03,Mexico,2853
+2021-03,Moldova,5
+2021-03,Mongolia,131
+2021-03,Morocco,60
+2021-03,Mozambique,106
+2021-03,Namibia,344
+2021-03,Netherlands,9092
+2021-03,New Zealand,58
+2021-03,Nicaragua,27
+2021-03,Niger,21
+2021-03,Nigeria,119
+2021-03,North Macedonia,53
+2021-03,Northern Mariana Islands,20
+2021-03,Norway,3829
+2021-03,Oman,44
+2021-03,Pakistan,442
+2021-03,Panama,192
+2021-03,Papua New Guinea,975
+2021-03,Paraguay,81
+2021-03,Peru,577
+2021-03,Philippines,1712
+2021-03,Poland,4467
+2021-03,Portugal,1166
+2021-03,Puerto Rico,418
+2021-03,Qatar,225
+2021-03,Republic of the Congo,12
+2021-03,Reunion,333
+2021-03,Romania,667
+2021-03,Russia,934
+2021-03,Rwanda,22
+2021-03,Saint Lucia,11
+2021-03,Sao Tome and Principe,1
+2021-03,Senegal,400
+2021-03,Serbia,26
+2021-03,Sierra Leone,1
+2021-03,Singapore,173
+2021-03,Sint Maarten,39
+2021-03,Slovakia,1529
+2021-03,Slovenia,3451
+2021-03,Solomon Islands,1
+2021-03,Somalia,1
+2021-03,South Africa,987
+2021-03,South Korea,1448
+2021-03,South Sudan,27
+2021-03,Spain,7306
+2021-03,Sri Lanka,73
+2021-03,Sudan,86
+2021-03,Suriname,67
+2021-03,Sweden,27987
+2021-03,Switzerland,5395
+2021-03,Taiwan,5
+2021-03,Tanzania,4
+2021-03,Thailand,156
+2021-03,The Bahamas,11
+2021-03,Timor-Leste,41
+2021-03,Togo,45
+2021-03,Trinidad and Tobago,23
+2021-03,Tunisia,172
+2021-03,Turkey,2703
+2021-03,Turks and Caicos Islands,10
+2021-03,U.S. Virgin Islands,17
+2021-03,USA,134538
+2021-03,Uganda,39
+2021-03,Ukraine,36
+2021-03,United Kingdom,73208
+2021-03,Uruguay,163
+2021-03,Vanuatu,1
+2021-03,Venezuela,19
+2021-03,Vietnam,8
+2021-03,Wallis and Futuna Islands,7
+2021-03,Zambia,13
+2021-04,Afghanistan,18
+2021-04,Algeria,13
+2021-04,Angola,131
+2021-04,Anguilla,7
+2021-04,Antigua and Barbuda,6
+2021-04,Argentina,1418
+2021-04,Armenia,4
+2021-04,Aruba,271
+2021-04,Australia,385
+2021-04,Austria,10754
+2021-04,Bahrain,69
+2021-04,Bangladesh,266
+2021-04,Barbados,11
+2021-04,Belarus,11
+2021-04,Belgium,6738
+2021-04,Belize,4
+2021-04,Benin,55
+2021-04,Bhutan,21
+2021-04,Bolivia,4
+2021-04,Bonaire,11
+2021-04,Bosnia and Herzegovina,17
+2021-04,Botswana,7
+2021-04,Brazil,9565
+2021-04,British Virgin Islands,1
+2021-04,Bulgaria,734
+2021-04,Burkina Faso,36
+2021-04,Cambodia,88
+2021-04,Cameroon,31
+2021-04,Canada,28743
+2021-04,Canary Islands,706
+2021-04,Cayman Islands,11
+2021-04,Central African Republic,4
+2021-04,Chile,1062
+2021-04,China,63
+2021-04,Colombia,1394
+2021-04,Costa Rica,134
+2021-04,Cote d'Ivoire,34
+2021-04,Crimea,1
+2021-04,Croatia,1372
+2021-04,Cuba,169
+2021-04,Curacao,121
+2021-04,Cyprus,188
+2021-04,Czech Republic,1469
+2021-04,Democratic Republic of the Congo,28
+2021-04,Denmark,14834
+2021-04,Djibouti,72
+2021-04,Dominica,1
+2021-04,Dominican Republic,22
+2021-04,Ecuador,142
+2021-04,Egypt,76
+2021-04,El Salvador,97
+2021-04,Equatorial Guinea,1
+2021-04,Estonia,985
+2021-04,Eswatini,10
+2021-04,Ethiopia,6
+2021-04,Fiji,24
+2021-04,Finland,1447
+2021-04,France,11597
+2021-04,French Guiana,140
+2021-04,French Polynesia,6
+2021-04,Gabon,121
+2021-04,Gambia,21
+2021-04,Georgia,8
+2021-04,Germany,42592
+2021-04,Ghana,224
+2021-04,Gibraltar,1
+2021-04,Greece,1893
+2021-04,Grenada,2
+2021-04,Guadeloupe,8
+2021-04,Guam,33
+2021-04,Guatemala,39
+2021-04,Guinea,20
+2021-04,Haiti,12
+2021-04,Honduras,35
+2021-04,Hong Kong,301
+2021-04,Iceland,255
+2021-04,India,18097
+2021-04,Indonesia,456
+2021-04,Iran,111
+2021-04,Iraq,34
+2021-04,Ireland,3451
+2021-04,Israel,1485
+2021-04,Italy,9397
+2021-04,Jamaica,19
+2021-04,Japan,16357
+2021-04,Jordan,38
+2021-04,Kazakhstan,137
+2021-04,Kenya,435
+2021-04,Kosovo,1
+2021-04,Kuwait,3
+2021-04,Kyrgyzstan,6
+2021-04,Laos,3
+2021-04,Latvia,1709
+2021-04,Lebanon,206
+2021-04,Lesotho,8
+2021-04,Liberia,11
+2021-04,Liechtenstein,27
+2021-04,Lithuania,3998
+2021-04,Luxembourg,2343
+2021-04,Madagascar,136
+2021-04,Malawi,73
+2021-04,Malaysia,373
+2021-04,Maldives,5
+2021-04,Mali,41
+2021-04,Malta,94
+2021-04,Martinique,4
+2021-04,Mauritania,4
+2021-04,Mauritius,16
+2021-04,Mayotte,11
+2021-04,Mexico,2805
+2021-04,Moldova,11
+2021-04,Monaco,2
+2021-04,Mongolia,171
+2021-04,Morocco,33
+2021-04,Mozambique,31
+2021-04,Namibia,65
+2021-04,Nepal,18
+2021-04,Netherlands,8026
+2021-04,New Zealand,57
+2021-04,Nicaragua,38
+2021-04,Niger,20
+2021-04,Nigeria,36
+2021-04,North Macedonia,137
+2021-04,Northern Mariana Islands,1
+2021-04,Norway,3915
+2021-04,Oman,107
+2021-04,Pakistan,195
+2021-04,Palestine,19
+2021-04,Panama,195
+2021-04,Papua New Guinea,358
+2021-04,Paraguay,49
+2021-04,Peru,891
+2021-04,Philippines,1043
+2021-04,Poland,5679
+2021-04,Portugal,1706
+2021-04,Puerto Rico,860
+2021-04,Qatar,452
+2021-04,Republic of the Congo,11
+2021-04,Reunion,243
+2021-04,Romania,393
+2021-04,Russia,1610
+2021-04,Rwanda,13
+2021-04,Saint Lucia,21
+2021-04,Sao Tome and Principe,3
+2021-04,Saudi Arabia,35
+2021-04,Senegal,304
+2021-04,Serbia,25
+2021-04,Seychelles,4
+2021-04,Singapore,401
+2021-04,Sint Maarten,51
+2021-04,Slovakia,1026
+2021-04,Slovenia,4172
+2021-04,South Africa,724
+2021-04,South Korea,2190
+2021-04,South Sudan,8
+2021-04,Spain,7914
+2021-04,Sri Lanka,88
+2021-04,Sudan,31
+2021-04,Suriname,86
+2021-04,Sweden,15086
+2021-04,Switzerland,7514
+2021-04,Taiwan,15
+2021-04,Tanzania,16
+2021-04,Thailand,375
+2021-04,The Bahamas,24
+2021-04,Timor-Leste,90
+2021-04,Togo,30
+2021-04,Trinidad and Tobago,286
+2021-04,Tunisia,194
+2021-04,Turkey,189
+2021-04,Turks and Caicos Islands,3
+2021-04,U.S. Virgin Islands,38
+2021-04,USA,170447
+2021-04,Uganda,29
+2021-04,United Arab Emirates,1
+2021-04,United Kingdom,35781
+2021-04,Uruguay,198
+2021-04,Venezuela,41
+2021-04,Vietnam,15
+2021-04,Wallis and Futuna Islands,3
+2021-04,Zambia,19
+2021-05,Afghanistan,57
+2021-05,Algeria,26
+2021-05,Angola,23
+2021-05,Anguilla,2
+2021-05,Antigua and Barbuda,9
+2021-05,Argentina,1347
+2021-05,Armenia,1
+2021-05,Aruba,231
+2021-05,Australia,256
+2021-05,Austria,6209
+2021-05,Bahrain,103
+2021-05,Bangladesh,205
+2021-05,Barbados,9
+2021-05,Belarus,9
+2021-05,Belgium,6691
+2021-05,Belize,18
+2021-05,Benin,64
+2021-05,Bhutan,6
+2021-05,Bolivia,27
+2021-05,Bonaire,12
+2021-05,Bosnia and Herzegovina,4
+2021-05,Botswana,124
+2021-05,Brazil,10064
+2021-05,British Virgin Islands,3
+2021-05,Bulgaria,188
+2021-05,Burkina Faso,2
+2021-05,Burundi,9
+2021-05,Cabo Verde,51
+2021-05,Cambodia,130
+2021-05,Cameroon,33
+2021-05,Canada,19906
+2021-05,Canary Islands,444
+2021-05,Cayman Islands,5
+2021-05,Chile,1399
+2021-05,China,112
+2021-05,Colombia,723
+2021-05,Costa Rica,89
+2021-05,Cote d'Ivoire,5
+2021-05,Crimea,1
+2021-05,Croatia,1143
+2021-05,Cuba,92
+2021-05,Curacao,38
+2021-05,Cyprus,212
+2021-05,Czech Republic,923
+2021-05,Democratic Republic of the Congo,68
+2021-05,Denmark,23311
+2021-05,Djibouti,8
+2021-05,Dominican Republic,198
+2021-05,Ecuador,272
+2021-05,Egypt,118
+2021-05,El Salvador,17
+2021-05,Estonia,368
+2021-05,Eswatini,28
+2021-05,Ethiopia,28
+2021-05,Faroe Islands,1
+2021-05,Fiji,47
+2021-05,Finland,1239
+2021-05,France,7658
+2021-05,French Guiana,85
+2021-05,French Polynesia,1
+2021-05,Gabon,61
+2021-05,Gambia,14
+2021-05,Georgia,64
+2021-05,Germany,29092
+2021-05,Ghana,190
+2021-05,Greece,1911
+2021-05,Guadeloupe,40
+2021-05,Guam,28
+2021-05,Guatemala,31
+2021-05,Guinea,13
+2021-05,Haiti,210
+2021-05,Honduras,13
+2021-05,Hong Kong,43
+2021-05,Hungary,1
+2021-05,Iceland,117
+2021-05,India,15661
+2021-05,Indonesia,1039
+2021-05,Iran,50
+2021-05,Iraq,9
+2021-05,Ireland,4724
+2021-05,Israel,457
+2021-05,Italy,6010
+2021-05,Jamaica,56
+2021-05,Japan,18103
+2021-05,Jordan,35
+2021-05,Kazakhstan,2
+2021-05,Kenya,410
+2021-05,Kiribati,1
+2021-05,Kosovo,13
+2021-05,Kuwait,10
+2021-05,Kyrgyzstan,66
+2021-05,Laos,1
+2021-05,Latvia,1152
+2021-05,Lebanon,43
+2021-05,Lesotho,14
+2021-05,Liberia,18
+2021-05,Libya,2
+2021-05,Liechtenstein,11
+2021-05,Lithuania,3210
+2021-05,Luxembourg,1204
+2021-05,Madagascar,26
+2021-05,Malawi,44
+2021-05,Malaysia,319
+2021-05,Maldives,9
+2021-05,Mali,32
+2021-05,Malta,70
+2021-05,Martinique,16
+2021-05,Mauritania,24
+2021-05,Mauritius,74
+2021-05,Mayotte,1
+2021-05,Mexico,3735
+2021-05,Moldova,13
+2021-05,Monaco,1
+2021-05,Mongolia,143
+2021-05,Morocco,67
+2021-05,Mozambique,35
+2021-05,Myanmar,5
+2021-05,Namibia,59
+2021-05,Nepal,155
+2021-05,Netherlands,7140
+2021-05,New Zealand,19
+2021-05,Nicaragua,66
+2021-05,Niger,12
+2021-05,Nigeria,27
+2021-05,North Macedonia,51
+2021-05,Norway,3590
+2021-05,Oman,90
+2021-05,Pakistan,219
+2021-05,Panama,276
+2021-05,Papua New Guinea,222
+2021-05,Paraguay,57
+2021-05,Peru,745
+2021-05,Philippines,791
+2021-05,Poland,4535
+2021-05,Portugal,1210
+2021-05,Puerto Rico,166
+2021-05,Qatar,321
+2021-05,Republic of the Congo,66
+2021-05,Reunion,454
+2021-05,Romania,335
+2021-05,Russia,1258
+2021-05,Rwanda,14
+2021-05,Saint Kitts and Nevis,1
+2021-05,Saint Lucia,9
+2021-05,Saint Vincent and the Grenadines,5
+2021-05,Saudi Arabia,38
+2021-05,Senegal,219
+2021-05,Serbia,49
+2021-05,Seychelles,46
+2021-05,Sierra Leone,1
+2021-05,Singapore,599
+2021-05,Sint Maarten,150
+2021-05,Slovakia,1123
+2021-05,Slovenia,2197
+2021-05,South Africa,1489
+2021-05,South Korea,1662
+2021-05,South Sudan,4
+2021-05,Spain,8167
+2021-05,Sri Lanka,121
+2021-05,Sudan,33
+2021-05,Suriname,100
+2021-05,Sweden,13154
+2021-05,Switzerland,5783
+2021-05,Taiwan,44
+2021-05,Tanzania,2
+2021-05,Thailand,1317
+2021-05,The Bahamas,9
+2021-05,Timor-Leste,109
+2021-05,Trinidad and Tobago,301
+2021-05,Tunisia,261
+2021-05,Turkey,582
+2021-05,Turks and Caicos Islands,7
+2021-05,U.S. Virgin Islands,34
+2021-05,USA,92636
+2021-05,Uganda,95
+2021-05,Ukraine,24
+2021-05,United Arab Emirates,110
+2021-05,United Kingdom,43160
+2021-05,Uruguay,11
+2021-05,Venezuela,88
+2021-05,Vietnam,203
+2021-05,Zambia,93
+2021-06,Albania,2
+2021-06,Algeria,22
+2021-06,Andorra,5
+2021-06,Angola,90
+2021-06,Argentina,1414
+2021-06,Armenia,13
+2021-06,Aruba,109
+2021-06,Australia,504
+2021-06,Austria,3389
+2021-06,Bahrain,132
+2021-06,Bangladesh,340
+2021-06,Barbados,9
+2021-06,Belgium,3417
+2021-06,Belize,48
+2021-06,Benin,29
+2021-06,Bolivia,40
+2021-06,Bonaire,23
+2021-06,Bosnia and Herzegovina,46
+2021-06,Botswana,304
+2021-06,Brazil,13306
+2021-06,British Virgin Islands,3
+2021-06,Bulgaria,270
+2021-06,Burkina Faso,2
+2021-06,Cabo Verde,3
+2021-06,Cambodia,197
+2021-06,Cameroon,32
+2021-06,Canada,12637
+2021-06,Canary Islands,509
+2021-06,Cayman Islands,8
+2021-06,Central African Republic,1
+2021-06,Chile,1658
+2021-06,China,131
+2021-06,Colombia,763
+2021-06,Costa Rica,111
+2021-06,Crimea,7
+2021-06,Croatia,585
+2021-06,Cuba,159
+2021-06,Curacao,27
+2021-06,Cyprus,84
+2021-06,Czech Republic,706
+2021-06,Democratic Republic of the Congo,102
+2021-06,Denmark,5141
+2021-06,Djibouti,1
+2021-06,Dominican Republic,34
+2021-06,Ecuador,411
+2021-06,Egypt,19
+2021-06,El Salvador,5
+2021-06,Estonia,191
+2021-06,Eswatini,55
+2021-06,Ethiopia,5
+2021-06,Fiji,307
+2021-06,Finland,1254
+2021-06,France,5106
+2021-06,French Guiana,48
+2021-06,French Polynesia,7
+2021-06,Gabon,17
+2021-06,Gambia,14
+2021-06,Georgia,51
+2021-06,Germany,8325
+2021-06,Ghana,198
+2021-06,Gibraltar,1
+2021-06,Greece,275
+2021-06,Grenada,1
+2021-06,Guadeloupe,28
+2021-06,Guam,28
+2021-06,Guatemala,167
+2021-06,Guinea,12
+2021-06,Haiti,1
+2021-06,Honduras,34
+2021-06,Hong Kong,142
+2021-06,Iceland,86
+2021-06,India,11012
+2021-06,Indonesia,2135
+2021-06,Iran,50
+2021-06,Iraq,39
+2021-06,Ireland,3095
+2021-06,Israel,1743
+2021-06,Italy,4738
+2021-06,Jamaica,1
+2021-06,Japan,9480
+2021-06,Jordan,43
+2021-06,Kazakhstan,1
+2021-06,Kenya,507
+2021-06,Kosovo,7
+2021-06,Kuwait,168
+2021-06,Kyrgyzstan,41
+2021-06,Laos,3
+2021-06,Latvia,537
+2021-06,Lebanon,20
+2021-06,Lesotho,20
+2021-06,Liberia,36
+2021-06,Libya,7
+2021-06,Liechtenstein,4
+2021-06,Lithuania,1481
+2021-06,Luxembourg,566
+2021-06,Malawi,143
+2021-06,Malaysia,231
+2021-06,Maldives,11
+2021-06,Mali,12
+2021-06,Malta,26
+2021-06,Martinique,41
+2021-06,Mauritania,3
+2021-06,Mauritius,34
+2021-06,Mexico,4653
+2021-06,Moldova,12
+2021-06,Monaco,32
+2021-06,Mongolia,174
+2021-06,Montenegro,37
+2021-06,Morocco,20
+2021-06,Mozambique,170
+2021-06,Myanmar,9
+2021-06,Namibia,198
+2021-06,Nepal,217
+2021-06,Netherlands,4691
+2021-06,New Zealand,32
+2021-06,Nicaragua,64
+2021-06,Niger,4
+2021-06,Nigeria,39
+2021-06,North Macedonia,14
+2021-06,Northern Mariana Islands,1
+2021-06,Norway,2114
+2021-06,Oman,169
+2021-06,Pakistan,357
+2021-06,Panama,204
+2021-06,Papua New Guinea,17
+2021-06,Paraguay,52
+2021-06,Peru,1347
+2021-06,Philippines,1533
+2021-06,Poland,787
+2021-06,Portugal,2707
+2021-06,Puerto Rico,216
+2021-06,Qatar,53
+2021-06,Republic of the Congo,69
+2021-06,Reunion,728
+2021-06,Romania,211
+2021-06,Russia,2180
+2021-06,Rwanda,138
+2021-06,Saint Kitts and Nevis,9
+2021-06,Saint Lucia,1
+2021-06,Saudi Arabia,23
+2021-06,Senegal,386
+2021-06,Serbia,13
+2021-06,Seychelles,69
+2021-06,Sierra Leone,44
+2021-06,Singapore,379
+2021-06,Sint Maarten,119
+2021-06,Slovakia,817
+2021-06,Slovenia,1063
+2021-06,South Africa,3774
+2021-06,South Korea,2301
+2021-06,South Sudan,15
+2021-06,Spain,9311
+2021-06,Sri Lanka,232
+2021-06,Sudan,20
+2021-06,Suriname,91
+2021-06,Sweden,7411
+2021-06,Switzerland,1610
+2021-06,Taiwan,97
+2021-06,Thailand,775
+2021-06,The Bahamas,7
+2021-06,Timor-Leste,47
+2021-06,Togo,72
+2021-06,Trinidad and Tobago,38
+2021-06,Tunisia,315
+2021-06,Turkey,2088
+2021-06,Turks and Caicos Islands,1
+2021-06,U.S. Virgin Islands,18
+2021-06,USA,53460
+2021-06,Uganda,265
+2021-06,Ukraine,45
+2021-06,United Arab Emirates,402
+2021-06,United Kingdom,97261
+2021-06,Uruguay,2
+2021-06,Uzbekistan,45
+2021-06,Venezuela,82
+2021-06,Vietnam,93
+2021-06,Zambia,129
+2021-06,Zimbabwe,11
+2021-07,Albania,10
+2021-07,Algeria,31
+2021-07,Andorra,18
+2021-07,Angola,50
+2021-07,Anguilla,3
+2021-07,Antigua and Barbuda,24
+2021-07,Argentina,1382
+2021-07,Armenia,25
+2021-07,Aruba,164
+2021-07,Australia,3530
+2021-07,Austria,4863
+2021-07,Azerbaijan,2
+2021-07,Bahrain,263
+2021-07,Bangladesh,768
+2021-07,Barbados,48
+2021-07,Belgium,7828
+2021-07,Belize,76
+2021-07,Benin,67
+2021-07,Bermuda,6
+2021-07,Bolivia,14
+2021-07,Bonaire,46
+2021-07,Bosnia and Herzegovina,31
+2021-07,Botswana,199
+2021-07,Brazil,12627
+2021-07,British Virgin Islands,32
+2021-07,Brunei,16
+2021-07,Bulgaria,562
+2021-07,Burundi,54
+2021-07,Cabo Verde,46
+2021-07,Cambodia,211
+2021-07,Cameroon,12
+2021-07,Canada,9225
+2021-07,Canary Islands,1979
+2021-07,Cayman Islands,13
+2021-07,Chad,7
+2021-07,Chile,2042
+2021-07,China,131
+2021-07,Colombia,2090
+2021-07,Costa Rica,187
+2021-07,Cote d'Ivoire,13
+2021-07,Crimea,25
+2021-07,Croatia,924
+2021-07,Cuba,98
+2021-07,Curacao,116
+2021-07,Cyprus,202
+2021-07,Czech Republic,1109
+2021-07,Democratic Republic of the Congo,234
+2021-07,Denmark,19952
+2021-07,Dominican Republic,34
+2021-07,Ecuador,1115
+2021-07,Egypt,7
+2021-07,El Salvador,114
+2021-07,Equatorial Guinea,2
+2021-07,Estonia,554
+2021-07,Eswatini,114
+2021-07,Ethiopia,155
+2021-07,Fiji,137
+2021-07,Finland,3020
+2021-07,France,40062
+2021-07,French Guiana,452
+2021-07,French Polynesia,14
+2021-07,Gabon,21
+2021-07,Gambia,193
+2021-07,Georgia,39
+2021-07,Germany,9159
+2021-07,Ghana,416
+2021-07,Gibraltar,508
+2021-07,Greece,961
+2021-07,Grenada,4
+2021-07,Guadeloupe,354
+2021-07,Guam,41
+2021-07,Guatemala,200
+2021-07,Guinea,65
+2021-07,Haiti,9
+2021-07,Honduras,5
+2021-07,Hong Kong,51
+2021-07,Iceland,1308
+2021-07,India,9212
+2021-07,Indonesia,2071
+2021-07,Iran,48
+2021-07,Iraq,138
+2021-07,Ireland,5893
+2021-07,Israel,2136
+2021-07,Italy,11180
+2021-07,Jamaica,140
+2021-07,Japan,25206
+2021-07,Jordan,24
+2021-07,Kazakhstan,1
+2021-07,Kenya,834
+2021-07,Kosovo,141
+2021-07,Kuwait,50
+2021-07,Kyrgyzstan,67
+2021-07,Laos,18
+2021-07,Latvia,390
+2021-07,Lebanon,139
+2021-07,Lesotho,7
+2021-07,Liberia,8
+2021-07,Liechtenstein,6
+2021-07,Lithuania,1888
+2021-07,Luxembourg,1665
+2021-07,Madagascar,42
+2021-07,Malawi,267
+2021-07,Malaysia,521
+2021-07,Maldives,41
+2021-07,Mali,12
+2021-07,Malta,117
+2021-07,Martinique,777
+2021-07,Mauritius,71
+2021-07,Mayotte,9
+2021-07,Mexico,5365
+2021-07,Moldova,1
+2021-07,Monaco,23
+2021-07,Mongolia,322
+2021-07,Montenegro,73
+2021-07,Montserrat,1
+2021-07,Morocco,66
+2021-07,Mozambique,313
+2021-07,Myanmar,16
+2021-07,Namibia,180
+2021-07,Nepal,234
+2021-07,Netherlands,9709
+2021-07,New Zealand,70
+2021-07,Nicaragua,113
+2021-07,Niger,15
+2021-07,Nigeria,453
+2021-07,North Macedonia,41
+2021-07,Northern Mariana Islands,11
+2021-07,Norway,2104
+2021-07,Oman,41
+2021-07,Pakistan,407
+2021-07,Panama,287
+2021-07,Papua New Guinea,45
+2021-07,Paraguay,164
+2021-07,Peru,1248
+2021-07,Philippines,2508
+2021-07,Poland,525
+2021-07,Portugal,2506
+2021-07,Puerto Rico,726
+2021-07,Qatar,1
+2021-07,Republic of the Congo,23
+2021-07,Reunion,1378
+2021-07,Romania,246
+2021-07,Russia,1910
+2021-07,Rwanda,110
+2021-07,Saint Kitts and Nevis,2
+2021-07,Saint Lucia,10
+2021-07,Saint Vincent and the Grenadines,5
+2021-07,Sao Tome and Principe,6
+2021-07,Saudi Arabia,43
+2021-07,Senegal,678
+2021-07,Serbia,30
+2021-07,Seychelles,15
+2021-07,Sierra Leone,9
+2021-07,Singapore,1301
+2021-07,Sint Maarten,163
+2021-07,Slovakia,672
+2021-07,Slovenia,1694
+2021-07,South Africa,4662
+2021-07,South Korea,4530
+2021-07,South Sudan,16
+2021-07,Spain,15318
+2021-07,Sri Lanka,212
+2021-07,Sudan,71
+2021-07,Suriname,86
+2021-07,Sweden,6753
+2021-07,Switzerland,5515
+2021-07,Taiwan,31
+2021-07,Thailand,1001
+2021-07,The Bahamas,40
+2021-07,Timor-Leste,21
+2021-07,Togo,83
+2021-07,Trinidad and Tobago,96
+2021-07,Tunisia,119
+2021-07,Turkey,6640
+2021-07,Turks and Caicos Islands,8
+2021-07,U.S. Virgin Islands,87
+2021-07,USA,192302
+2021-07,Uganda,129
+2021-07,Ukraine,45
+2021-07,United Arab Emirates,811
+2021-07,United Kingdom,133256
+2021-07,Uruguay,2
+2021-07,Uzbekistan,17
+2021-07,Venezuela,49
+2021-07,Vietnam,136
+2021-07,Zambia,105
+2021-07,Zimbabwe,87
+2021-08,Albania,2
+2021-08,Algeria,11
+2021-08,Andorra,4
+2021-08,Angola,14
+2021-08,Anguilla,17
+2021-08,Antigua and Barbuda,61
+2021-08,Argentina,1604
+2021-08,Armenia,16
+2021-08,Aruba,1033
+2021-08,Australia,6873
+2021-08,Austria,8966
+2021-08,Azerbaijan,8
+2021-08,Bahrain,400
+2021-08,Bangladesh,705
+2021-08,Barbados,7
+2021-08,Belarus,58
+2021-08,Belgium,10181
+2021-08,Belize,64
+2021-08,Benin,171
+2021-08,Bermuda,6
+2021-08,Bolivia,15
+2021-08,Bonaire,65
+2021-08,Bosnia and Herzegovina,12
+2021-08,Botswana,318
+2021-08,Brazil,14517
+2021-08,British Virgin Islands,18
+2021-08,Brunei,12
+2021-08,Bulgaria,1731
+2021-08,Burkina Faso,10
+2021-08,Cabo Verde,91
+2021-08,Cambodia,216
+2021-08,Cameroon,156
+2021-08,Canada,33864
+2021-08,Canary Islands,752
+2021-08,Chad,5
+2021-08,Chile,2225
+2021-08,China,109
+2021-08,Colombia,2028
+2021-08,Costa Rica,284
+2021-08,Cote d'Ivoire,65
+2021-08,Croatia,1712
+2021-08,Cuba,102
+2021-08,Curacao,124
+2021-08,Cyprus,109
+2021-08,Czech Republic,1750
+2021-08,Democratic Republic of the Congo,76
+2021-08,Denmark,24242
+2021-08,Djibouti,3
+2021-08,Dominica,10
+2021-08,Dominican Republic,16
+2021-08,Ecuador,901
+2021-08,Egypt,27
+2021-08,El Salvador,17
+2021-08,Equatorial Guinea,14
+2021-08,Estonia,808
+2021-08,Eswatini,108
+2021-08,Ethiopia,282
+2021-08,Finland,2638
+2021-08,France,32064
+2021-08,French Guiana,1037
+2021-08,French Polynesia,9
+2021-08,Gabon,20
+2021-08,Gambia,229
+2021-08,Georgia,74
+2021-08,Germany,29903
+2021-08,Ghana,242
+2021-08,Gibraltar,347
+2021-08,Greece,259
+2021-08,Grenada,20
+2021-08,Guadeloupe,1092
+2021-08,Guam,106
+2021-08,Guatemala,162
+2021-08,Guinea,68
+2021-08,Haiti,5
+2021-08,Honduras,4
+2021-08,Hong Kong,75
+2021-08,Iceland,2465
+2021-08,India,9506
+2021-08,Indonesia,1625
+2021-08,Iran,60
+2021-08,Iraq,129
+2021-08,Ireland,5911
+2021-08,Israel,4212
+2021-08,Italy,9217
+2021-08,Jamaica,106
+2021-08,Japan,58931
+2021-08,Jordan,32
+2021-08,Kazakhstan,278
+2021-08,Kenya,899
+2021-08,Kosovo,239
+2021-08,Kuwait,44
+2021-08,Kyrgyzstan,19
+2021-08,Laos,298
+2021-08,Latvia,640
+2021-08,Lebanon,145
+2021-08,Lesotho,12
+2021-08,Liechtenstein,16
+2021-08,Lithuania,3255
+2021-08,Luxembourg,999
+2021-08,Malawi,64
+2021-08,Malaysia,1457
+2021-08,Maldives,104
+2021-08,Mali,13
+2021-08,Martinique,625
+2021-08,Mauritania,1
+2021-08,Mauritius,12
+2021-08,Mayotte,13
+2021-08,Mexico,5572
+2021-08,Moldova,8
+2021-08,Monaco,11
+2021-08,Mongolia,266
+2021-08,Montenegro,116
+2021-08,Montserrat,4
+2021-08,Morocco,37
+2021-08,Mozambique,34
+2021-08,Myanmar,9
+2021-08,Namibia,18
+2021-08,Nepal,454
+2021-08,Netherlands,7339
+2021-08,New Zealand,699
+2021-08,Nicaragua,180
+2021-08,Niger,4
+2021-08,Nigeria,1281
+2021-08,Northern Mariana Islands,27
+2021-08,Norway,3872
+2021-08,Oman,54
+2021-08,Pakistan,637
+2021-08,Palau,2
+2021-08,Panama,312
+2021-08,Papua New Guinea,417
+2021-08,Paraguay,200
+2021-08,Peru,1487
+2021-08,Philippines,2167
+2021-08,Poland,1489
+2021-08,Portugal,2548
+2021-08,Puerto Rico,1374
+2021-08,Qatar,828
+2021-08,Republic of the Congo,15
+2021-08,Reunion,1738
+2021-08,Romania,802
+2021-08,Russia,2103
+2021-08,Rwanda,65
+2021-08,Saint Barthelemy,3
+2021-08,Saint Kitts and Nevis,16
+2021-08,Saint Lucia,12
+2021-08,Saint Vincent and the Grenadines,17
+2021-08,Saudi Arabia,82
+2021-08,Senegal,375
+2021-08,Serbia,20
+2021-08,Seychelles,164
+2021-08,Singapore,1772
+2021-08,Sint Maarten,741
+2021-08,Slovakia,1392
+2021-08,Slovenia,4780
+2021-08,Somalia,1
+2021-08,South Africa,3431
+2021-08,South Korea,3274
+2021-08,South Sudan,7
+2021-08,Spain,11896
+2021-08,Sri Lanka,326
+2021-08,Sudan,1
+2021-08,Suriname,115
+2021-08,Sweden,12608
+2021-08,Switzerland,12628
+2021-08,Taiwan,10
+2021-08,Thailand,658
+2021-08,The Bahamas,87
+2021-08,Timor-Leste,5
+2021-08,Togo,132
+2021-08,Trinidad and Tobago,403
+2021-08,Tunisia,117
+2021-08,Turkey,45152
+2021-08,U.S. Virgin Islands,201
+2021-08,USA,330792
+2021-08,Uganda,38
+2021-08,Ukraine,10
+2021-08,United Arab Emirates,599
+2021-08,United Kingdom,157077
+2021-08,Venezuela,33
+2021-08,Vietnam,756
+2021-08,Zambia,46
+2021-08,Zimbabwe,22
+2021-09,Albania,6
+2021-09,Algeria,18
+2021-09,American Samoa,3
+2021-09,Andorra,4
+2021-09,Angola,169
+2021-09,Antigua and Barbuda,1
+2021-09,Argentina,1021
+2021-09,Armenia,11
+2021-09,Aruba,346
+2021-09,Australia,7679
+2021-09,Austria,6443
+2021-09,Azerbaijan,9
+2021-09,Bahrain,378
+2021-09,Bangladesh,379
+2021-09,Belarus,79
+2021-09,Belgium,7054
+2021-09,Belize,1
+2021-09,Benin,3
+2021-09,Bolivia,10
+2021-09,Bonaire,179
+2021-09,Bosnia and Herzegovina,82
+2021-09,Botswana,227
+2021-09,Brazil,13533
+2021-09,British Virgin Islands,26
+2021-09,Bulgaria,1778
+2021-09,Burkina Faso,33
+2021-09,Cabo Verde,5
+2021-09,Cambodia,255
+2021-09,Cameroon,194
+2021-09,Canada,21602
+2021-09,Canary Islands,284
+2021-09,Cayman Islands,25
+2021-09,Chad,3
+2021-09,Chile,3214
+2021-09,China,368
+2021-09,Colombia,1823
+2021-09,Costa Rica,164
+2021-09,Cote d'Ivoire,7
+2021-09,Croatia,1653
+2021-09,Curacao,118
+2021-09,Cyprus,267
+2021-09,Czech Republic,2859
+2021-09,Democratic Republic of the Congo,3
+2021-09,Denmark,10979
+2021-09,Djibouti,30
+2021-09,Dominican Republic,5
+2021-09,Ecuador,417
+2021-09,Egypt,48
+2021-09,Estonia,746
+2021-09,Eswatini,63
+2021-09,Finland,1763
+2021-09,France,12453
+2021-09,French Guiana,978
+2021-09,French Polynesia,11
+2021-09,Gabon,82
+2021-09,Gambia,46
+2021-09,Georgia,73
+2021-09,Germany,40985
+2021-09,Ghana,273
+2021-09,Gibraltar,26
+2021-09,Greece,1308
+2021-09,Grenada,57
+2021-09,Guadeloupe,79
+2021-09,Guam,27
+2021-09,Guatemala,307
+2021-09,Guinea,8
+2021-09,Guyana,49
+2021-09,Honduras,26
+2021-09,Hong Kong,89
+2021-09,India,11108
+2021-09,Indonesia,869
+2021-09,Iran,38
+2021-09,Iraq,73
+2021-09,Ireland,4997
+2021-09,Israel,3606
+2021-09,Italy,6983
+2021-09,Jamaica,5
+2021-09,Japan,18648
+2021-09,Jordan,135
+2021-09,Kazakhstan,303
+2021-09,Kenya,520
+2021-09,Kosovo,397
+2021-09,Kuwait,49
+2021-09,Laos,225
+2021-09,Latvia,656
+2021-09,Lebanon,141
+2021-09,Lesotho,14
+2021-09,Liechtenstein,12
+2021-09,Lithuania,2060
+2021-09,Luxembourg,1398
+2021-09,Madagascar,1
+2021-09,Malawi,35
+2021-09,Malaysia,1723
+2021-09,Maldives,213
+2021-09,Mali,13
+2021-09,Martinique,160
+2021-09,Mauritania,6
+2021-09,Mauritius,139
+2021-09,Mayotte,5
+2021-09,Mexico,5277
+2021-09,Moldova,35
+2021-09,Monaco,2
+2021-09,Mongolia,157
+2021-09,Montenegro,11
+2021-09,Montserrat,2
+2021-09,Morocco,29
+2021-09,Mozambique,40
+2021-09,Namibia,10
+2021-09,Nepal,580
+2021-09,Netherlands,5775
+2021-09,New Zealand,542
+2021-09,Nicaragua,31
+2021-09,Nigeria,814
+2021-09,Northern Mariana Islands,17
+2021-09,Norway,4647
+2021-09,Oman,88
+2021-09,Pakistan,554
+2021-09,Panama,263
+2021-09,Papua New Guinea,620
+2021-09,Paraguay,92
+2021-09,Peru,1946
+2021-09,Philippines,159
+2021-09,Poland,3258
+2021-09,Portugal,2107
+2021-09,Puerto Rico,843
+2021-09,Qatar,398
+2021-09,Republic of the Congo,47
+2021-09,Reunion,801
+2021-09,Romania,2202
+2021-09,Russia,1644
+2021-09,Rwanda,16
+2021-09,Saint Barthelemy,4
+2021-09,Saint Lucia,12
+2021-09,Saint Vincent and the Grenadines,46
+2021-09,Saudi Arabia,11
+2021-09,Senegal,53
+2021-09,Serbia,16
+2021-09,Seychelles,143
+2021-09,Sierra Leone,1
+2021-09,Singapore,1553
+2021-09,Sint Maarten,341
+2021-09,Slovakia,2097
+2021-09,Slovenia,5042
+2021-09,Somalia,2
+2021-09,South Africa,1950
+2021-09,South Korea,3643
+2021-09,South Sudan,8
+2021-09,Spain,7192
+2021-09,Sri Lanka,329
+2021-09,Sudan,1
+2021-09,Suriname,106
+2021-09,Sweden,8545
+2021-09,Switzerland,9152
+2021-09,Taiwan,6
+2021-09,Thailand,1338
+2021-09,The Bahamas,2
+2021-09,Togo,46
+2021-09,Trinidad and Tobago,219
+2021-09,Tunisia,122
+2021-09,Turkey,6547
+2021-09,Turks and Caicos Islands,10
+2021-09,U.S. Virgin Islands,199
+2021-09,USA,296560
+2021-09,Uganda,3
+2021-09,Ukraine,60
+2021-09,United Arab Emirates,701
+2021-09,United Kingdom,171693
+2021-09,Uruguay,28
+2021-09,Venezuela,74
+2021-09,Vietnam,515
+2021-09,Zambia,7
+2021-09,Zimbabwe,20
+2021-10,Albania,4
+2021-10,Algeria,7
+2021-10,Andorra,5
+2021-10,Angola,37
+2021-10,Anguilla,9
+2021-10,Antigua and Barbuda,22
+2021-10,Argentina,1497
+2021-10,Armenia,1
+2021-10,Aruba,60
+2021-10,Australia,5078
+2021-10,Austria,7271
+2021-10,Azerbaijan,5
+2021-10,Bahrain,958
+2021-10,Bangladesh,284
+2021-10,Belarus,31
+2021-10,Belgium,7759
+2021-10,Belize,83
+2021-10,Benin,3
+2021-10,Bermuda,19
+2021-10,Bhutan,1
+2021-10,Bolivia,18
+2021-10,Bonaire,166
+2021-10,Bosnia and Herzegovina,332
+2021-10,Botswana,194
+2021-10,Brazil,10382
+2021-10,British Virgin Islands,3
+2021-10,Brunei,12
+2021-10,Bulgaria,2104
+2021-10,Burkina Faso,18
+2021-10,Cabo Verde,7
+2021-10,Cambodia,290
+2021-10,Cameroon,16
+2021-10,Canada,18356
+2021-10,Canary Islands,45
+2021-10,Cayman Islands,1
+2021-10,Chile,2941
+2021-10,China,103
+2021-10,Colombia,1835
+2021-10,Comoros,11
+2021-10,Costa Rica,322
+2021-10,Cote d'Ivoire,12
+2021-10,Crimea,40
+2021-10,Croatia,1585
+2021-10,Curacao,112
+2021-10,Cyprus,101
+2021-10,Czech Republic,4550
+2021-10,Democratic Republic of the Congo,17
+2021-10,Denmark,24606
+2021-10,Djibouti,27
+2021-10,Dominican Republic,294
+2021-10,Ecuador,150
+2021-10,Egypt,98
+2021-10,Equatorial Guinea,1
+2021-10,Estonia,730
+2021-10,Eswatini,71
+2021-10,Finland,1638
+2021-10,France,19896
+2021-10,French Guiana,418
+2021-10,French Polynesia,14
+2021-10,Gabon,19
+2021-10,Gambia,5
+2021-10,Georgia,147
+2021-10,Germany,31687
+2021-10,Ghana,174
+2021-10,Gibraltar,85
+2021-10,Greece,176
+2021-10,Grenada,4
+2021-10,Guadeloupe,23
+2021-10,Guam,77
+2021-10,Guatemala,101
+2021-10,Guinea,1
+2021-10,Guyana,1
+2021-10,Haiti,6
+2021-10,Honduras,23
+2021-10,Hong Kong,66
+2021-10,Iceland,3
+2021-10,India,11591
+2021-10,Indonesia,464
+2021-10,Iran,7
+2021-10,Iraq,35
+2021-10,Ireland,6456
+2021-10,Israel,2807
+2021-10,Italy,6181
+2021-10,Jamaica,47
+2021-10,Japan,2160
+2021-10,Jordan,154
+2021-10,Kazakhstan,71
+2021-10,Kenya,144
+2021-10,Kosovo,89
+2021-10,Kuwait,44
+2021-10,Laos,257
+2021-10,Latvia,1147
+2021-10,Lebanon,106
+2021-10,Lesotho,8
+2021-10,Liechtenstein,16
+2021-10,Lithuania,2136
+2021-10,Luxembourg,1643
+2021-10,Madagascar,2
+2021-10,Malawi,1
+2021-10,Malaysia,1089
+2021-10,Maldives,163
+2021-10,Mali,14
+2021-10,Malta,76
+2021-10,Martinique,211
+2021-10,Mauritania,6
+2021-10,Mauritius,128
+2021-10,Mayotte,39
+2021-10,Mexico,4058
+2021-10,Moldova,2
+2021-10,Monaco,3
+2021-10,Mongolia,42
+2021-10,Montenegro,50
+2021-10,Montserrat,4
+2021-10,Morocco,60
+2021-10,Mozambique,5
+2021-10,Namibia,8
+2021-10,Nepal,283
+2021-10,Netherlands,6540
+2021-10,New Zealand,1268
+2021-10,Nicaragua,21
+2021-10,Nigeria,239
+2021-10,North Macedonia,11
+2021-10,Northern Mariana Islands,31
+2021-10,Norway,4237
+2021-10,Oman,11
+2021-10,Pakistan,274
+2021-10,Panama,205
+2021-10,Papua New Guinea,672
+2021-10,Paraguay,66
+2021-10,Peru,1805
+2021-10,Philippines,52
+2021-10,Poland,5388
+2021-10,Portugal,2198
+2021-10,Puerto Rico,213
+2021-10,Qatar,68
+2021-10,Republic of the Congo,51
+2021-10,Reunion,505
+2021-10,Romania,1614
+2021-10,Russia,2691
+2021-10,Rwanda,8
+2021-10,Saint Barthelemy,3
+2021-10,Saint Kitts and Nevis,10
+2021-10,Saint Lucia,4
+2021-10,Saint Vincent and the Grenadines,13
+2021-10,Senegal,29
+2021-10,Serbia,27
+2021-10,Seychelles,90
+2021-10,Singapore,1219
+2021-10,Sint Maarten,91
+2021-10,Slovakia,3583
+2021-10,Slovenia,6157
+2021-10,Somalia,4
+2021-10,South Africa,835
+2021-10,South Korea,3930
+2021-10,South Sudan,29
+2021-10,Spain,5490
+2021-10,Sri Lanka,294
+2021-10,Sudan,36
+2021-10,Suriname,60
+2021-10,Sweden,8239
+2021-10,Switzerland,9072
+2021-10,Thailand,2398
+2021-10,The Bahamas,14
+2021-10,Togo,20
+2021-10,Trinidad and Tobago,253
+2021-10,Tunisia,172
+2021-10,Turkey,2331
+2021-10,Turks and Caicos Islands,1
+2021-10,U.S. Virgin Islands,126
+2021-10,USA,250706
+2021-10,Uganda,34
+2021-10,Ukraine,80
+2021-10,United Arab Emirates,605
+2021-10,United Kingdom,180129
+2021-10,Uruguay,12
+2021-10,Vanuatu,2
+2021-10,Venezuela,85
+2021-10,Vietnam,320
+2021-10,Zimbabwe,12
+2021-11,Albania,157
+2021-11,Algeria,14
+2021-11,American Samoa,1
+2021-11,Andorra,4
+2021-11,Angola,3
+2021-11,Antigua and Barbuda,3
+2021-11,Argentina,1814
+2021-11,Armenia,10
+2021-11,Aruba,127
+2021-11,Australia,4741
+2021-11,Austria,4153
+2021-11,Azerbaijan,10
+2021-11,Bahrain,856
+2021-11,Bangladesh,292
+2021-11,Barbados,6
+2021-11,Belarus,31
+2021-11,Belgium,8897
+2021-11,Belize,36
+2021-11,Benin,3
+2021-11,Bermuda,22
+2021-11,Bolivia,12
+2021-11,Bonaire,167
+2021-11,Bosnia and Herzegovina,333
+2021-11,Botswana,262
+2021-11,Brazil,10485
+2021-11,British Virgin Islands,13
+2021-11,Brunei,287
+2021-11,Bulgaria,2112
+2021-11,Burkina Faso,11
+2021-11,Cabo Verde,14
+2021-11,Cambodia,313
+2021-11,Cameroon,50
+2021-11,Canada,23894
+2021-11,Canary Islands,173
+2021-11,Central African Republic,3
+2021-11,Chad,37
+2021-11,Chile,1744
+2021-11,China,364
+2021-11,Colombia,1484
+2021-11,Comoros,9
+2021-11,Costa Rica,306
+2021-11,Cote d'Ivoire,11
+2021-11,Crimea,21
+2021-11,Croatia,1797
+2021-11,Cuba,6
+2021-11,Curacao,55
+2021-11,Cyprus,309
+2021-11,Czech Republic,4202
+2021-11,Democratic Republic of the Congo,50
+2021-11,Denmark,50464
+2021-11,Djibouti,1
+2021-11,Dominica,7
+2021-11,Dominican Republic,96
+2021-11,Ecuador,246
+2021-11,Egypt,56
+2021-11,El Salvador,59
+2021-11,Equatorial Guinea,2
+2021-11,Estonia,703
+2021-11,Eswatini,41
+2021-11,Finland,1319
+2021-11,France,45434
+2021-11,French Guiana,187
+2021-11,French Polynesia,3
+2021-11,Gambia,3
+2021-11,Georgia,176
+2021-11,Germany,47982
+2021-11,Ghana,162
+2021-11,Gibraltar,653
+2021-11,Greece,1670
+2021-11,Guadeloupe,19
+2021-11,Guam,39
+2021-11,Guatemala,47
+2021-11,Guinea,14
+2021-11,Haiti,5
+2021-11,Honduras,13
+2021-11,Hong Kong,165
+2021-11,Hungary,41
+2021-11,Iceland,35
+2021-11,India,9823
+2021-11,Indonesia,379
+2021-11,Iran,88
+2021-11,Iraq,58
+2021-11,Ireland,2883
+2021-11,Israel,4723
+2021-11,Italy,8844
+2021-11,Jamaica,96
+2021-11,Japan,845
+2021-11,Jordan,104
+2021-11,Kazakhstan,237
+2021-11,Kenya,136
+2021-11,Kosovo,68
+2021-11,Kuwait,17
+2021-11,Kyrgyzstan,9
+2021-11,Laos,282
+2021-11,Latvia,1501
+2021-11,Lebanon,116
+2021-11,Lesotho,8
+2021-11,Liechtenstein,218
+2021-11,Lithuania,2695
+2021-11,Luxembourg,2148
+2021-11,Macao,1
+2021-11,Madagascar,14
+2021-11,Malawi,1
+2021-11,Malaysia,1023
+2021-11,Maldives,159
+2021-11,Mali,1
+2021-11,Malta,154
+2021-11,Martinique,167
+2021-11,Mauritania,1
+2021-11,Mauritius,89
+2021-11,Mayotte,38
+2021-11,Mexico,3129
+2021-11,Moldova,47
+2021-11,Monaco,3
+2021-11,Mongolia,38
+2021-11,Montenegro,82
+2021-11,Morocco,19
+2021-11,Mozambique,19
+2021-11,Myanmar,9
+2021-11,Namibia,23
+2021-11,Nepal,110
+2021-11,Netherlands,8314
+2021-11,New Zealand,1090
+2021-11,Nicaragua,1
+2021-11,Niger,2
+2021-11,Nigeria,203
+2021-11,North Macedonia,37
+2021-11,Northern Mariana Islands,463
+2021-11,Norway,5050
+2021-11,Oman,9
+2021-11,Pakistan,65
+2021-11,Panama,170
+2021-11,Papua New Guinea,142
+2021-11,Paraguay,130
+2021-11,Peru,1849
+2021-11,Philippines,40
+2021-11,Poland,6852
+2021-11,Portugal,2440
+2021-11,Puerto Rico,646
+2021-11,Qatar,205
+2021-11,Republic of the Congo,55
+2021-11,Reunion,1371
+2021-11,Romania,518
+2021-11,Russia,2458
+2021-11,Rwanda,3
+2021-11,Saint Barthelemy,2
+2021-11,Saint Kitts and Nevis,6
+2021-11,Saint Lucia,28
+2021-11,Saint Martin,3
+2021-11,Saint Vincent and the Grenadines,24
+2021-11,Saudi Arabia,1
+2021-11,Senegal,18
+2021-11,Serbia,44
+2021-11,Seychelles,208
+2021-11,Sierra Leone,2
+2021-11,Singapore,1073
+2021-11,Sint Maarten,43
+2021-11,Slovakia,3797
+2021-11,Slovenia,6111
+2021-11,South Africa,1796
+2021-11,South Korea,4373
+2021-11,South Sudan,6
+2021-11,Spain,9153
+2021-11,Sri Lanka,256
+2021-11,Sudan,32
+2021-11,Suriname,44
+2021-11,Sweden,10889
+2021-11,Switzerland,15004
+2021-11,Taiwan,2
+2021-11,Thailand,1852
+2021-11,The Bahamas,38
+2021-11,Trinidad and Tobago,301
+2021-11,Tunisia,135
+2021-11,Turkey,5121
+2021-11,Turks and Caicos Islands,13
+2021-11,U.S. Virgin Islands,90
+2021-11,USA,266360
+2021-11,Uganda,63
+2021-11,Ukraine,77
+2021-11,United Arab Emirates,421
+2021-11,United Kingdom,238721
+2021-11,Uruguay,16
+2021-11,Venezuela,29
+2021-11,Vietnam,218
+2021-11,Zambia,3
+2021-11,Zimbabwe,62
+2021-12,Albania,413
+2021-12,Algeria,35
+2021-12,American Samoa,1
+2021-12,Andorra,38
+2021-12,Angola,78
+2021-12,Anguilla,22
+2021-12,Antigua and Barbuda,29
+2021-12,Argentina,2391
+2021-12,Armenia,4
+2021-12,Aruba,161
+2021-12,Australia,12216
+2021-12,Austria,4893
+2021-12,Bahrain,1227
+2021-12,Bangladesh,322
+2021-12,Barbados,14
+2021-12,Belarus,82
+2021-12,Belgium,10711
+2021-12,Belize,188
+2021-12,Benin,350
+2021-12,Bermuda,36
+2021-12,Bhutan,4
+2021-12,Bolivia,54
+2021-12,Bonaire,198
+2021-12,Bosnia and Herzegovina,398
+2021-12,Botswana,1088
+2021-12,Brazil,8487
+2021-12,British Virgin Islands,70
+2021-12,Brunei,200
+2021-12,Bulgaria,1493
+2021-12,Burkina Faso,30
+2021-12,Burundi,95
+2021-12,Cabo Verde,84
+2021-12,Cambodia,249
+2021-12,Cameroon,217
+2021-12,Canada,35680
+2021-12,Canary Islands,412
+2021-12,Central African Republic,45
+2021-12,Chad,16
+2021-12,Chile,3125
+2021-12,China,111
+2021-12,Colombia,1431
+2021-12,Comoros,8
+2021-12,Costa Rica,385
+2021-12,Cote d'Ivoire,66
+2021-12,Crimea,19
+2021-12,Croatia,6136
+2021-12,Cuba,129
+2021-12,Curacao,118
+2021-12,Cyprus,653
+2021-12,Czech Republic,4187
+2021-12,Democratic Republic of the Congo,72
+2021-12,Denmark,45209
+2021-12,Djibouti,114
+2021-12,Dominica,2
+2021-12,Dominican Republic,202
+2021-12,Ecuador,246
+2021-12,Egypt,422
+2021-12,El Salvador,24
+2021-12,Equatorial Guinea,2
+2021-12,Estonia,781
+2021-12,Eswatini,209
+2021-12,Ethiopia,40
+2021-12,Finland,2599
+2021-12,France,52321
+2021-12,French Guiana,465
+2021-12,French Polynesia,18
+2021-12,Gabon,72
+2021-12,Gambia,89
+2021-12,Georgia,338
+2021-12,Germany,57453
+2021-12,Ghana,654
+2021-12,Gibraltar,423
+2021-12,Greece,1091
+2021-12,Grenada,12
+2021-12,Guadeloupe,52
+2021-12,Guam,25
+2021-12,Guatemala,164
+2021-12,Guinea,98
+2021-12,Haiti,8
+2021-12,Honduras,29
+2021-12,Hong Kong,430
+2021-12,Hungary,47
+2021-12,Iceland,5197
+2021-12,India,22180
+2021-12,Indonesia,1227
+2021-12,Iran,113
+2021-12,Iraq,74
+2021-12,Ireland,5122
+2021-12,Israel,7390
+2021-12,Italy,11939
+2021-12,Jamaica,280
+2021-12,Japan,2912
+2021-12,Jordan,95
+2021-12,Kazakhstan,147
+2021-12,Kenya,2425
+2021-12,Kosovo,48
+2021-12,Kuwait,2
+2021-12,Kyrgyzstan,38
+2021-12,Laos,24
+2021-12,Latvia,1396
+2021-12,Lebanon,152
+2021-12,Lesotho,48
+2021-12,Liberia,33
+2021-12,Libya,3
+2021-12,Liechtenstein,280
+2021-12,Lithuania,4009
+2021-12,Luxembourg,2642
+2021-12,Madagascar,16
+2021-12,Malawi,116
+2021-12,Malaysia,1861
+2021-12,Maldives,236
+2021-12,Mali,3
+2021-12,Malta,246
+2021-12,Martinique,240
+2021-12,Mauritius,107
+2021-12,Mayotte,116
+2021-12,Mexico,4977
+2021-12,Moldova,59
+2021-12,Monaco,1
+2021-12,Mongolia,50
+2021-12,Montenegro,151
+2021-12,Morocco,125
+2021-12,Mozambique,98
+2021-12,Myanmar,13
+2021-12,Namibia,417
+2021-12,Nepal,289
+2021-12,Netherlands,9152
+2021-12,New Caledonia,1
+2021-12,New Zealand,959
+2021-12,Nicaragua,27
+2021-12,Niger,11
+2021-12,Nigeria,2182
+2021-12,North Macedonia,38
+2021-12,Northern Mariana Islands,727
+2021-12,Norway,5375
+2021-12,Oman,58
+2021-12,Pakistan,192
+2021-12,Palau,2
+2021-12,Panama,445
+2021-12,Papua New Guinea,23
+2021-12,Paraguay,172
+2021-12,Peru,2418
+2021-12,Philippines,747
+2021-12,Poland,8857
+2021-12,Portugal,1971
+2021-12,Puerto Rico,1843
+2021-12,Qatar,231
+2021-12,Republic of the Congo,76
+2021-12,Reunion,1341
+2021-12,Romania,662
+2021-12,Russia,7629
+2021-12,Rwanda,64
+2021-12,Saint Kitts and Nevis,4
+2021-12,Saint Lucia,12
+2021-12,Saint Martin,193
+2021-12,Saint Vincent and the Grenadines,54
+2021-12,Sao Tome and Principe,1
+2021-12,Saudi Arabia,214
+2021-12,Senegal,424
+2021-12,Serbia,42
+2021-12,Seychelles,311
+2021-12,Singapore,1211
+2021-12,Sint Maarten,267
+2021-12,Slovakia,1971
+2021-12,Slovenia,6674
+2021-12,Solomon Islands,1
+2021-12,South Africa,5369
+2021-12,South Korea,3584
+2021-12,South Sudan,28
+2021-12,Spain,13188
+2021-12,Sri Lanka,496
+2021-12,Sudan,14
+2021-12,Suriname,62
+2021-12,Sweden,13918
+2021-12,Switzerland,12035
+2021-12,Syria,21
+2021-12,Taiwan,18
+2021-12,Tanzania,7
+2021-12,Thailand,2717
+2021-12,The Bahamas,4
+2021-12,Togo,84
+2021-12,Trinidad and Tobago,179
+2021-12,Tunisia,44
+2021-12,Turkey,6303
+2021-12,U.S. Virgin Islands,396
+2021-12,USA,374158
+2021-12,Uganda,60
+2021-12,Ukraine,201
+2021-12,United Arab Emirates,682
+2021-12,United Kingdom,286951
+2021-12,Uruguay,12
+2021-12,Venezuela,33
+2021-12,Vietnam,413
+2021-12,Zambia,243
+2021-12,Zimbabwe,158
+2022-01,Albania,206
+2022-01,Algeria,39
+2022-01,American Samoa,8
+2022-01,Andorra,47
+2022-01,Angola,37
+2022-01,Anguilla,11
+2022-01,Antigua and Barbuda,14
+2022-01,Argentina,1500
+2022-01,Armenia,25
+2022-01,Aruba,28
+2022-01,Australia,12572
+2022-01,Austria,10321
+2022-01,Azerbaijan,15
+2022-01,Bahrain,399
+2022-01,Bangladesh,1027
+2022-01,Belarus,95
+2022-01,Belgium,16478
+2022-01,Belize,105
+2022-01,Benin,120
+2022-01,Bhutan,12
+2022-01,Bolivia,29
+2022-01,Bonaire,215
+2022-01,Bosnia and Herzegovina,96
+2022-01,Botswana,504
+2022-01,Brazil,28102
+2022-01,Brunei,683
+2022-01,Bulgaria,2956
+2022-01,Burkina Faso,42
+2022-01,Cabo Verde,95
+2022-01,Cambodia,334
+2022-01,Cameroon,480
+2022-01,Canada,29309
+2022-01,Canary Islands,431
+2022-01,Central African Republic,46
+2022-01,Chad,23
+2022-01,Chile,2116
+2022-01,China,459
+2022-01,Colombia,3656
+2022-01,Costa Rica,436
+2022-01,Cote d'Ivoire,7
+2022-01,Crimea,2
+2022-01,Croatia,5821
+2022-01,Cuba,107
+2022-01,Curacao,213
+2022-01,Cyprus,869
+2022-01,Czech Republic,5557
+2022-01,Democratic Republic of the Congo,315
+2022-01,Denmark,61593
+2022-01,Djibouti,185
+2022-01,Dominica,2
+2022-01,Dominican Republic,21
+2022-01,Ecuador,768
+2022-01,Egypt,456
+2022-01,El Salvador,144
+2022-01,Equatorial Guinea,2
+2022-01,Estonia,737
+2022-01,Eswatini,50
+2022-01,Ethiopia,47
+2022-01,Finland,3064
+2022-01,France,49978
+2022-01,French Guiana,236
+2022-01,Gambia,85
+2022-01,Georgia,442
+2022-01,Germany,66535
+2022-01,Ghana,210
+2022-01,Greece,549
+2022-01,Grenada,28
+2022-01,Guadeloupe,112
+2022-01,Guam,132
+2022-01,Guatemala,160
+2022-01,Guinea,168
+2022-01,Guinea-Bissau,20
+2022-01,Guyana,62
+2022-01,Haiti,130
+2022-01,Honduras,19
+2022-01,Hong Kong,1284
+2022-01,Hungary,37
+2022-01,Iceland,2348
+2022-01,India,45887
+2022-01,Indonesia,7116
+2022-01,Iran,136
+2022-01,Iraq,276
+2022-01,Ireland,8961
+2022-01,Israel,11059
+2022-01,Italy,12923
+2022-01,Jamaica,311
+2022-01,Japan,46245
+2022-01,Jordan,67
+2022-01,Kazakhstan,751
+2022-01,Kenya,979
+2022-01,Kiribati,29
+2022-01,Kosovo,90
+2022-01,Kuwait,42
+2022-01,Kyrgyzstan,44
+2022-01,Laos,44
+2022-01,Latvia,1578
+2022-01,Lebanon,435
+2022-01,Lesotho,35
+2022-01,Liechtenstein,25
+2022-01,Lithuania,2158
+2022-01,Luxembourg,3360
+2022-01,Madagascar,33
+2022-01,Malawi,46
+2022-01,Malaysia,1897
+2022-01,Maldives,180
+2022-01,Mali,51
+2022-01,Malta,91
+2022-01,Martinique,301
+2022-01,Mauritius,286
+2022-01,Mayotte,127
+2022-01,Mexico,7541
+2022-01,Moldova,214
+2022-01,Mongolia,96
+2022-01,Montenegro,111
+2022-01,Montserrat,3
+2022-01,Morocco,138
+2022-01,Mozambique,54
+2022-01,Myanmar,3
+2022-01,Namibia,79
+2022-01,Nepal,618
+2022-01,Netherlands,8855
+2022-01,New Caledonia,3
+2022-01,New Zealand,1301
+2022-01,Nicaragua,39
+2022-01,Niger,77
+2022-01,Nigeria,378
+2022-01,North Macedonia,34
+2022-01,Northern Mariana Islands,438
+2022-01,Norway,5950
+2022-01,Oman,38
+2022-01,Pakistan,384
+2022-01,Palau,9
+2022-01,Palestine,57
+2022-01,Panama,410
+2022-01,Papua New Guinea,205
+2022-01,Paraguay,174
+2022-01,Peru,2588
+2022-01,Philippines,4524
+2022-01,Poland,21781
+2022-01,Portugal,2516
+2022-01,Puerto Rico,1437
+2022-01,Qatar,212
+2022-01,Republic of the Congo,10
+2022-01,Reunion,1472
+2022-01,Romania,1816
+2022-01,Russia,5771
+2022-01,Rwanda,120
+2022-01,Saint Kitts and Nevis,23
+2022-01,Saint Lucia,4
+2022-01,Saint Martin,20
+2022-01,Saint Vincent and the Grenadines,48
+2022-01,Saudi Arabia,474
+2022-01,Senegal,780
+2022-01,Serbia,69
+2022-01,Seychelles,227
+2022-01,Singapore,1313
+2022-01,Sint Maarten,119
+2022-01,Slovakia,4312
+2022-01,Slovenia,7164
+2022-01,Solomon Islands,7
+2022-01,Somalia,3
+2022-01,South Africa,2973
+2022-01,South Korea,3930
+2022-01,Spain,12573
+2022-01,Sri Lanka,491
+2022-01,Sudan,212
+2022-01,Suriname,68
+2022-01,Sweden,16994
+2022-01,Switzerland,12316
+2022-01,Syria,29
+2022-01,Taiwan,64
+2022-01,Tanzania,2
+2022-01,Thailand,3925
+2022-01,Timor-Leste,1
+2022-01,Togo,129
+2022-01,Trinidad and Tobago,297
+2022-01,Tunisia,201
+2022-01,Turkey,4897
+2022-01,U.S. Virgin Islands,462
+2022-01,USA,482732
+2022-01,Uganda,45
+2022-01,Ukraine,161
+2022-01,United Arab Emirates,241
+2022-01,United Kingdom,369379
+2022-01,Uruguay,16
+2022-01,Uzbekistan,21
+2022-01,Venezuela,81
+2022-01,Vietnam,534
+2022-01,Zambia,218
+2022-02,Afghanistan,4
+2022-02,Albania,353
+2022-02,Algeria,56
+2022-02,American Samoa,12
+2022-02,Andorra,24
+2022-02,Anguilla,8
+2022-02,Antigua and Barbuda,6
+2022-02,Argentina,610
+2022-02,Aruba,7
+2022-02,Australia,8318
+2022-02,Austria,10294
+2022-02,Azerbaijan,5
+2022-02,Bahrain,2400
+2022-02,Bangladesh,342
+2022-02,Belarus,44
+2022-02,Belgium,13533
+2022-02,Belize,64
+2022-02,Benin,5
+2022-02,Bolivia,6
+2022-02,Bonaire,58
+2022-02,Bosnia and Herzegovina,17
+2022-02,Botswana,213
+2022-02,Brazil,13067
+2022-02,Brunei,462
+2022-02,Bulgaria,2005
+2022-02,Cabo Verde,7
+2022-02,Cambodia,422
+2022-02,Cameroon,15
+2022-02,Canada,18823
+2022-02,Canary Islands,269
+2022-02,Chile,1279
+2022-02,China,256
+2022-02,Colombia,858
+2022-02,Cook Islands,23
+2022-02,Costa Rica,415
+2022-02,Crimea,6
+2022-02,Croatia,3349
+2022-02,Cuba,48
+2022-02,Curacao,114
+2022-02,Cyprus,750
+2022-02,Czech Republic,4272
+2022-02,Democratic Republic of the Congo,29
+2022-02,Denmark,53971
+2022-02,Djibouti,19
+2022-02,Dominica,1
+2022-02,Dominican Republic,13
+2022-02,Ecuador,621
+2022-02,Egypt,120
+2022-02,El Salvador,1
+2022-02,Estonia,598
+2022-02,Eswatini,36
+2022-02,Ethiopia,17
+2022-02,Finland,2144
+2022-02,France,40246
+2022-02,French Guiana,27
+2022-02,Gambia,19
+2022-02,Georgia,327
+2022-02,Germany,80927
+2022-02,Ghana,42
+2022-02,Greece,2300
+2022-02,Grenada,17
+2022-02,Guadeloupe,72
+2022-02,Guam,75
+2022-02,Guatemala,73
+2022-02,Guinea,5
+2022-02,Guyana,19
+2022-02,Haiti,15
+2022-02,Hong Kong,1351
+2022-02,Hungary,37
+2022-02,Iceland,1138
+2022-02,India,22700
+2022-02,Indonesia,2490
+2022-02,Iran,561
+2022-02,Iraq,168
+2022-02,Ireland,1905
+2022-02,Israel,9053
+2022-02,Italy,6450
+2022-02,Jamaica,188
+2022-02,Japan,21688
+2022-02,Jordan,17
+2022-02,Kazakhstan,193
+2022-02,Kenya,30
+2022-02,Kosovo,187
+2022-02,Kuwait,18
+2022-02,Laos,58
+2022-02,Latvia,1875
+2022-02,Lebanon,106
+2022-02,Libya,1
+2022-02,Liechtenstein,355
+2022-02,Lithuania,2669
+2022-02,Luxembourg,2973
+2022-02,Madagascar,20
+2022-02,Malawi,5
+2022-02,Malaysia,2506
+2022-02,Maldives,85
+2022-02,Mali,3
+2022-02,Malta,3
+2022-02,Martinique,151
+2022-02,Mauritius,699
+2022-02,Mayotte,3
+2022-02,Mexico,3522
+2022-02,Moldova,99
+2022-02,Monaco,12
+2022-02,Mongolia,40
+2022-02,Montenegro,21
+2022-02,Montserrat,1
+2022-02,Morocco,47
+2022-02,Mozambique,21
+2022-02,Myanmar,6
+2022-02,Namibia,12
+2022-02,Nepal,56
+2022-02,Netherlands,7038
+2022-02,New Caledonia,5
+2022-02,New Zealand,1440
+2022-02,Nicaragua,16
+2022-02,Niger,19
+2022-02,Nigeria,25
+2022-02,North Macedonia,15
+2022-02,Northern Mariana Islands,482
+2022-02,Norway,5606
+2022-02,Oman,7
+2022-02,Pakistan,408
+2022-02,Palau,3
+2022-02,Panama,253
+2022-02,Papua New Guinea,410
+2022-02,Paraguay,127
+2022-02,Peru,2250
+2022-02,Philippines,1382
+2022-02,Poland,12363
+2022-02,Portugal,1981
+2022-02,Puerto Rico,743
+2022-02,Qatar,6
+2022-02,Republic of the Congo,2
+2022-02,Reunion,532
+2022-02,Romania,2019
+2022-02,Russia,3405
+2022-02,Rwanda,6
+2022-02,Saint Lucia,3
+2022-02,Saint Martin,13
+2022-02,Saudi Arabia,125
+2022-02,Senegal,168
+2022-02,Serbia,16
+2022-02,Seychelles,51
+2022-02,Singapore,1023
+2022-02,Sint Maarten,75
+2022-02,Slovakia,4849
+2022-02,Slovenia,4643
+2022-02,Solomon Islands,21
+2022-02,South Africa,1253
+2022-02,South Korea,4587
+2022-02,Spain,9409
+2022-02,Sri Lanka,304
+2022-02,Sudan,4
+2022-02,Suriname,15
+2022-02,Sweden,15604
+2022-02,Switzerland,9322
+2022-02,Syria,39
+2022-02,Taiwan,27
+2022-02,Tanzania,2
+2022-02,Thailand,3584
+2022-02,Togo,44
+2022-02,Tonga,17
+2022-02,Trinidad and Tobago,170
+2022-02,Tunisia,125
+2022-02,Turkey,2682
+2022-02,Turks and Caicos Islands,1
+2022-02,U.S. Virgin Islands,45
+2022-02,USA,229983
+2022-02,Uganda,87
+2022-02,Ukraine,38
+2022-02,United Kingdom,274841
+2022-02,Uruguay,28
+2022-02,Vanuatu,3
+2022-02,Venezuela,17
+2022-02,Vietnam,647
+2022-02,Zambia,20
+2022-03,Afghanistan,2
+2022-03,Albania,2
+2022-03,Algeria,17
+2022-03,American Samoa,1
+2022-03,Andorra,32
+2022-03,Antigua and Barbuda,1
+2022-03,Argentina,197
+2022-03,Aruba,30
+2022-03,Australia,13367
+2022-03,Austria,10695
+2022-03,Bahrain,837
+2022-03,Bangladesh,98
+2022-03,Barbados,2
+2022-03,Belgium,11745
+2022-03,Belgium /Luxembourg,13
+2022-03,Belgium /Namur,32
+2022-03,Belize,41
+2022-03,Bermuda,5
+2022-03,Bonaire,77
+2022-03,Bosnia and Herzegovina,20
+2022-03,Botswana,70
+2022-03,Brazil,5960
+2022-03,Brunei,454
+2022-03,Bulgaria,910
+2022-03,Cabo Verde,2
+2022-03,Cambodia,226
+2022-03,Cameroon,20
+2022-03,Canada,21047
+2022-03,Canary Islands,236
+2022-03,Chile,1497
+2022-03,China,730
+2022-03,Colombia,426
+2022-03,Cook Islands,79
+2022-03,Costa Rica,396
+2022-03,Cote d'Ivoire,2
+2022-03,Croatia,2445
+2022-03,Cuba,62
+2022-03,Curacao,119
+2022-03,Cyprus,958
+2022-03,Czech Republic,4481
+2022-03,Democratic Republic of the Congo,9
+2022-03,Denmark,59334
+2022-03,Dominica,4
+2022-03,Dominican Republic,1
+2022-03,Ecuador,194
+2022-03,Egypt,155
+2022-03,El Salvador,1
+2022-03,Estonia,802
+2022-03,Eswatini,20
+2022-03,Ethiopia,1
+2022-03,Finland,2234
+2022-03,France,47533
+2022-03,French Guiana,80
+2022-03,Georgia,66
+2022-03,Germany,87828
+2022-03,Ghana,7
+2022-03,Greece,907
+2022-03,Grenada,7
+2022-03,Guadeloupe,85
+2022-03,Guam,53
+2022-03,Guatemala,94
+2022-03,Guinea,4
+2022-03,Haiti,4
+2022-03,Hong Kong,888
+2022-03,Hungary,7
+2022-03,Iceland,2
+2022-03,India,3312
+2022-03,Indonesia,1839
+2022-03,Iran,267
+2022-03,Iraq,86
+2022-03,Ireland,5309
+2022-03,Israel,11647
+2022-03,Italy,7433
+2022-03,Jamaica,52
+2022-03,Japan,20988
+2022-03,Jordan,29
+2022-03,Kazakhstan,110
+2022-03,Kenya,26
+2022-03,Kiribati,1
+2022-03,Kosovo,47
+2022-03,Kuwait,17
+2022-03,Laos,270
+2022-03,Latvia,1269
+2022-03,Lebanon,15
+2022-03,Lesotho,1
+2022-03,Libya,1
+2022-03,Liechtenstein,294
+2022-03,Lithuania,2493
+2022-03,Luxembourg,3077
+2022-03,Malaysia,5264
+2022-03,Maldives,48
+2022-03,Martinique,204
+2022-03,Mauritius,505
+2022-03,Mayotte,8
+2022-03,Mexico,1328
+2022-03,Moldova,65
+2022-03,Mongolia,46
+2022-03,Montenegro,72
+2022-03,Morocco,34
+2022-03,Mozambique,4
+2022-03,Myanmar,17
+2022-03,Namibia,29
+2022-03,Nepal,36
+2022-03,Netherlands,7500
+2022-03,New Zealand,1634
+2022-03,Nicaragua,22
+2022-03,Niger,12
+2022-03,Nigeria,88
+2022-03,Niue,4
+2022-03,North Macedonia,6
+2022-03,Northern Mariana Islands,636
+2022-03,Norway,6212
+2022-03,Oman,8
+2022-03,Pakistan,167
+2022-03,Palau,5
+2022-03,Panama,167
+2022-03,Papua New Guinea,21
+2022-03,Paraguay,130
+2022-03,Peru,885
+2022-03,Philippines,248
+2022-03,Poland,3739
+2022-03,Portugal,2313
+2022-03,Puerto Rico,620
+2022-03,Qatar,6
+2022-03,Reunion,1107
+2022-03,Romania,1358
+2022-03,Russia,1249
+2022-03,Rwanda,3
+2022-03,Saint Lucia,1
+2022-03,Saint Martin,24
+2022-03,Samoa,55
+2022-03,Saudi Arabia,83
+2022-03,Senegal,85
+2022-03,Serbia,10
+2022-03,Seychelles,66
+2022-03,Singapore,1268
+2022-03,Sint Maarten,96
+2022-03,Slovakia,5328
+2022-03,Slovenia,4277
+2022-03,Solomon Islands,69
+2022-03,South Africa,1544
+2022-03,South Korea,5691
+2022-03,Spain,10085
+2022-03,Sri Lanka,127
+2022-03,Sudan,2
+2022-03,Suriname,23
+2022-03,Sweden,10783
+2022-03,Switzerland,6759
+2022-03,Taiwan,22
+2022-03,Thailand,2832
+2022-03,Tonga,15
+2022-03,Trinidad and Tobago,139
+2022-03,Tunisia,143
+2022-03,Turkey,1876
+2022-03,Turks and Caicos Islands,12
+2022-03,U.S. Virgin Islands,15
+2022-03,USA,89823
+2022-03,Uganda,2
+2022-03,Ukraine,30
+2022-03,United Arab Emirates,37
+2022-03,United Kingdom,311180
+2022-03,Uruguay,16
+2022-03,Vanuatu,8
+2022-03,Venezuela,20
+2022-03,Vietnam,1064
+2022-03,Zambia,158
+2022-04,Afghanistan,11
+2022-04,Albania,1
+2022-04,Algeria,5
+2022-04,American Samoa,23
+2022-04,Andorra,35
+2022-04,Anguilla,1
+2022-04,Antigua and Barbuda,33
+2022-04,Argentina,122
+2022-04,Aruba,19
+2022-04,Australia,11573
+2022-04,Austria,11561
+2022-04,Bahrain,551
+2022-04,Bangladesh,11
+2022-04,Barbados,9
+2022-04,Belgium,7771
+2022-04,Belize,3
+2022-04,Benin,4
+2022-04,Bermuda,1
+2022-04,Bhutan,27
+2022-04,Bolivia,1
+2022-04,Bonaire,85
+2022-04,Botswana,62
+2022-04,Brazil,2981
+2022-04,Brunei,88
+2022-04,Bulgaria,288
+2022-04,Cabo Verde,3
+2022-04,Cambodia,110
+2022-04,Cameroon,14
+2022-04,Canada,22239
+2022-04,Canary Islands,326
+2022-04,Chile,1427
+2022-04,China,432
+2022-04,Colombia,528
+2022-04,Cook Islands,33
+2022-04,Costa Rica,398
+2022-04,Croatia,1394
+2022-04,Cuba,72
+2022-04,Curacao,100
+2022-04,Cyprus,518
+2022-04,Czech Republic,3702
+2022-04,Democratic Republic of the Congo,7
+2022-04,Denmark,38131
+2022-04,Djibouti,23
+2022-04,Dominica,1
+2022-04,Dominican Republic,10
+2022-04,Ecuador,50
+2022-04,Egypt,58
+2022-04,El Salvador,7
+2022-04,Estonia,758
+2022-04,Eswatini,113
+2022-04,Finland,1604
+2022-04,France,38427
+2022-04,French Guiana,131
+2022-04,Georgia,40
+2022-04,Germany,58810
+2022-04,Ghana,3
+2022-04,Greece,1229
+2022-04,Grenada,2
+2022-04,Guadeloupe,41
+2022-04,Guam,53
+2022-04,Guatemala,93
+2022-04,Guinea,4
+2022-04,Haiti,6
+2022-04,Honduras,1
+2022-04,Hong Kong,652
+2022-04,Iceland,5
+2022-04,India,2931
+2022-04,Indonesia,611
+2022-04,Iran,299
+2022-04,Ireland,4388
+2022-04,Israel,9274
+2022-04,Italy,7542
+2022-04,Jamaica,261
+2022-04,Japan,23535
+2022-04,Kazakhstan,194
+2022-04,Kenya,20
+2022-04,Kiribati,9
+2022-04,Kosovo,67
+2022-04,Kuwait,20
+2022-04,Laos,180
+2022-04,Latvia,284
+2022-04,Lesotho,1
+2022-04,Libya,3
+2022-04,Liechtenstein,43
+2022-04,Lithuania,2197
+2022-04,Luxembourg,2705
+2022-04,Malaysia,2635
+2022-04,Maldives,2
+2022-04,Mali,7
+2022-04,Marshall Islands,3
+2022-04,Martinique,115
+2022-04,Mauritius,493
+2022-04,Mayotte,8
+2022-04,Mexico,802
+2022-04,Moldova,58
+2022-04,Mongolia,19
+2022-04,Montenegro,1
+2022-04,Montserrat,2
+2022-04,Morocco,50
+2022-04,Mozambique,2
+2022-04,Namibia,59
+2022-04,Nepal,26
+2022-04,Netherlands,5260
+2022-04,New Zealand,1759
+2022-04,Nicaragua,5
+2022-04,Niger,20
+2022-04,Nigeria,16
+2022-04,Niue,2
+2022-04,North Macedonia,37
+2022-04,Northern Mariana Islands,44
+2022-04,Norway,2803
+2022-04,Oman,3
+2022-04,Pakistan,81
+2022-04,Palau,15
+2022-04,Panama,228
+2022-04,Papua New Guinea,5
+2022-04,Paraguay,35
+2022-04,Peru,363
+2022-04,Philippines,125
+2022-04,Poland,887
+2022-04,Portugal,2226
+2022-04,Puerto Rico,1126
+2022-04,Qatar,5
+2022-04,Reunion,1030
+2022-04,Romania,682
+2022-04,Russia,743
+2022-04,Rwanda,3
+2022-04,Saint Lucia,3
+2022-04,Saint Martin,31
+2022-04,Saudi Arabia,39
+2022-04,Senegal,38
+2022-04,Serbia,119
+2022-04,Seychelles,59
+2022-04,Singapore,1133
+2022-04,Sint Maarten,99
+2022-04,Slovakia,3150
+2022-04,Slovenia,2155
+2022-04,Solomon Islands,116
+2022-04,South Africa,2619
+2022-04,South Korea,7690
+2022-04,Spain,8115
+2022-04,Sri Lanka,13
+2022-04,Suriname,19
+2022-04,Sweden,3718
+2022-04,Switzerland,2251
+2022-04,Taiwan,435
+2022-04,Thailand,1769
+2022-04,Togo,3
+2022-04,Tonga,7
+2022-04,Trinidad and Tobago,87
+2022-04,Tunisia,64
+2022-04,Turkey,2308
+2022-04,Turks and Caicos Islands,4
+2022-04,U.S. Virgin Islands,77
+2022-04,USA,140806
+2022-04,Uganda,2
+2022-04,Ukraine,29
+2022-04,United Arab Emirates,7
+2022-04,United Kingdom,87139
+2022-04,Uruguay,8
+2022-04,Vanuatu,20
+2022-04,Venezuela,13
+2022-04,Vietnam,534
+2022-04,Zambia,17
+2022-05,Algeria,6
+2022-05,American Samoa,20
+2022-05,Andorra,31
+2022-05,Anguilla,8
+2022-05,Antigua and Barbuda,18
+2022-05,Argentina,477
+2022-05,Aruba,115
+2022-05,Australia,12513
+2022-05,Austria,13500
+2022-05,Bahrain,642
+2022-05,Bangladesh,18
+2022-05,Barbados,20
+2022-05,Belgium,5202
+2022-05,Belize,78
+2022-05,Benin,22
+2022-05,Bermuda,2
+2022-05,Bolivia,2
+2022-05,Bonaire,46
+2022-05,Bosnia and Herzegovina,10
+2022-05,Botswana,229
+2022-05,Brazil,7784
+2022-05,British Virgin Islands,17
+2022-05,Brunei,105
+2022-05,Bulgaria,182
+2022-05,Burkina Faso,8
+2022-05,Cabo Verde,43
+2022-05,Cambodia,39
+2022-05,Cameroon,11
+2022-05,Canada,16911
+2022-05,Canary Islands,318
+2022-05,Chile,2170
+2022-05,China,804
+2022-05,Colombia,1060
+2022-05,Cook Islands,6
+2022-05,Costa Rica,651
+2022-05,Croatia,1104
+2022-05,Cuba,34
+2022-05,Curacao,125
+2022-05,Cyprus,181
+2022-05,Czech Republic,1612
+2022-05,Democratic Republic of the Congo,45
+2022-05,Denmark,14413
+2022-05,Djibouti,42
+2022-05,Dominica,3
+2022-05,Dominican Republic,241
+2022-05,Ecuador,161
+2022-05,Egypt,120
+2022-05,El Salvador,37
+2022-05,Estonia,819
+2022-05,Eswatini,121
+2022-05,Finland,1609
+2022-05,France,30851
+2022-05,French Guiana,186
+2022-05,Georgia,19
+2022-05,Germany,40031
+2022-05,Ghana,120
+2022-05,Greece,113
+2022-05,Grenada,10
+2022-05,Guadeloupe,77
+2022-05,Guam,10
+2022-05,Guatemala,102
+2022-05,Guinea,22
+2022-05,Haiti,40
+2022-05,Hong Kong,847
+2022-05,Hungary,18
+2022-05,India,4306
+2022-05,Indonesia,341
+2022-05,Iran,189
+2022-05,Iraq,12
+2022-05,Ireland,3794
+2022-05,Israel,9194
+2022-05,Italy,5810
+2022-05,Jamaica,686
+2022-05,Japan,23425
+2022-05,Jordan,40
+2022-05,Kazakhstan,20
+2022-05,Kenya,151
+2022-05,Kosovo,28
+2022-05,Kuwait,62
+2022-05,Laos,21
+2022-05,Latvia,332
+2022-05,Lesotho,12
+2022-05,Libya,7
+2022-05,Liechtenstein,72
+2022-05,Lithuania,16
+2022-05,Luxembourg,2929
+2022-05,Malawi,5
+2022-05,Malaysia,1540
+2022-05,Mali,5
+2022-05,Martinique,380
+2022-05,Mauritania,7
+2022-05,Mauritius,592
+2022-05,Mayotte,1
+2022-05,Mexico,2269
+2022-05,Micronesia,1
+2022-05,Moldova,16
+2022-05,Monaco,3
+2022-05,Mongolia,89
+2022-05,Montenegro,36
+2022-05,Montserrat,7
+2022-05,Morocco,66
+2022-05,Mozambique,15
+2022-05,Namibia,137
+2022-05,Nepal,53
+2022-05,Netherlands,4150
+2022-05,New Zealand,2281
+2022-05,Nicaragua,21
+2022-05,Niger,3
+2022-05,Nigeria,13
+2022-05,North Macedonia,2
+2022-05,Northern Mariana Islands,14
+2022-05,Norway,1722
+2022-05,Pakistan,92
+2022-05,Palau,3
+2022-05,Panama,374
+2022-05,Papua New Guinea,1
+2022-05,Paraguay,176
+2022-05,Peru,1224
+2022-05,Philippines,193
+2022-05,Poland,378
+2022-05,Portugal,2709
+2022-05,Puerto Rico,1242
+2022-05,Qatar,60
+2022-05,Republic of the Congo,6
+2022-05,Reunion,843
+2022-05,Romania,313
+2022-05,Russia,577
+2022-05,Rwanda,2
+2022-05,Saint Lucia,23
+2022-05,Saint Martin,13
+2022-05,Samoa,34
+2022-05,Saudi Arabia,28
+2022-05,Senegal,51
+2022-05,Serbia,263
+2022-05,Seychelles,3
+2022-05,Singapore,1417
+2022-05,Sint Maarten,29
+2022-05,Slovakia,1126
+2022-05,Slovenia,803
+2022-05,Solomon Islands,34
+2022-05,South Africa,2887
+2022-05,South Korea,7299
+2022-05,Spain,10284
+2022-05,Sri Lanka,6
+2022-05,Suriname,17
+2022-05,Sweden,2720
+2022-05,Switzerland,2158
+2022-05,Taiwan,1409
+2022-05,Thailand,2270
+2022-05,Togo,35
+2022-05,Trinidad and Tobago,153
+2022-05,Tunisia,9
+2022-05,Turkey,892
+2022-05,U.S. Virgin Islands,266
+2022-05,USA,196660
+2022-05,Uganda,16
+2022-05,Ukraine,23
+2022-05,United Kingdom,22772
+2022-05,Uruguay,17
+2022-05,Uzbekistan,4
+2022-05,Vanuatu,14
+2022-05,Venezuela,29
+2022-05,Vietnam,216
+2022-05,Zambia,22
+2022-05,Zimbabwe,22
+2022-06,Albania,97
+2022-06,Algeria,21
+2022-06,American Samoa,14
+2022-06,Andorra,31
+2022-06,Anguilla,8
+2022-06,Argentina,650
+2022-06,Armenia,1
+2022-06,Aruba,70
+2022-06,Australia,10380
+2022-06,Austria,14679
+2022-06,Bahrain,148
+2022-06,Bangladesh,275
+2022-06,Barbados,33
+2022-06,Belgium,7089
+2022-06,Belize,42
+2022-06,Benin,3
+2022-06,Bermuda,49
+2022-06,Bhutan,6
+2022-06,Bolivia,20
+2022-06,Bonaire,72
+2022-06,Bosnia and Herzegovina,11
+2022-06,Botswana,936
+2022-06,Brazil,11143
+2022-06,Brunei,403
+2022-06,Bulgaria,110
+2022-06,Burkina Faso,2
+2022-06,Cabo Verde,89
+2022-06,Cambodia,56
+2022-06,Cameroon,34
+2022-06,Canada,14147
+2022-06,Canary Islands,305
+2022-06,Central African Republic,2
+2022-06,Chile,2438
+2022-06,China,255
+2022-06,Colombia,2288
+2022-06,Comoros,3
+2022-06,Cook Islands,2
+2022-06,Costa Rica,683
+2022-06,Cote d'Ivoire,34
+2022-06,Crimea,3
+2022-06,Croatia,1081
+2022-06,Cuba,26
+2022-06,Curacao,107
+2022-06,Cyprus,291
+2022-06,Czech Republic,1963
+2022-06,Democratic Republic of the Congo,38
+2022-06,Denmark,17786
+2022-06,Djibouti,62
+2022-06,Dominican Republic,80
+2022-06,Ecuador,341
+2022-06,Egypt,295
+2022-06,El Salvador,22
+2022-06,Estonia,488
+2022-06,Eswatini,30
+2022-06,Ethiopia,13
+2022-06,Finland,1622
+2022-06,France,29698
+2022-06,French Guiana,286
+2022-06,Gabon,2
+2022-06,Gambia,1
+2022-06,Georgia,184
+2022-06,Germany,49842
+2022-06,Ghana,628
+2022-06,Greece,1104
+2022-06,Grenada,4
+2022-06,Guadeloupe,56
+2022-06,Guam,10
+2022-06,Guatemala,124
+2022-06,Guinea,47
+2022-06,Haiti,61
+2022-06,Honduras,1
+2022-06,Hong Kong,1540
+2022-06,Hungary,30
+2022-06,Iceland,339
+2022-06,India,13766
+2022-06,Indonesia,4132
+2022-06,Iran,131
+2022-06,Iraq,5
+2022-06,Ireland,7757
+2022-06,Israel,14126
+2022-06,Italy,5184
+2022-06,Jamaica,336
+2022-06,Japan,17452
+2022-06,Kazakhstan,87
+2022-06,Kenya,928
+2022-06,Kiribati,8
+2022-06,Kosovo,33
+2022-06,Kuwait,103
+2022-06,Laos,2
+2022-06,Latvia,392
+2022-06,Lebanon,13
+2022-06,Lesotho,15
+2022-06,Libya,6
+2022-06,Liechtenstein,59
+2022-06,Luxembourg,2706
+2022-06,Malawi,27
+2022-06,Malaysia,2093
+2022-06,Martinique,155
+2022-06,Mauritius,385
+2022-06,Mayotte,20
+2022-06,Mexico,5548
+2022-06,Moldova,27
+2022-06,Monaco,1
+2022-06,Mongolia,58
+2022-06,Montenegro,20
+2022-06,Morocco,458
+2022-06,Mozambique,62
+2022-06,Namibia,11
+2022-06,Nepal,66
+2022-06,Netherlands,4597
+2022-06,New Caledonia,1
+2022-06,New Zealand,2459
+2022-06,Nicaragua,59
+2022-06,Niger,2
+2022-06,Nigeria,92
+2022-06,Niue,5
+2022-06,Northern Mariana Islands,73
+2022-06,Norway,2077
+2022-06,Oman,5
+2022-06,Pakistan,474
+2022-06,Palau,6
+2022-06,Panama,414
+2022-06,Papua New Guinea,3
+2022-06,Paraguay,359
+2022-06,Peru,3531
+2022-06,Philippines,544
+2022-06,Poland,308
+2022-06,Portugal,1852
+2022-06,Puerto Rico,1770
+2022-06,Qatar,136
+2022-06,Republic of the Congo,21
+2022-06,Reunion,1167
+2022-06,Romania,290
+2022-06,Russia,599
+2022-06,Saint Lucia,17
+2022-06,Saint Martin,9
+2022-06,Samoa,26
+2022-06,Saudi Arabia,64
+2022-06,Senegal,28
+2022-06,Serbia,206
+2022-06,Seychelles,35
+2022-06,Singapore,1797
+2022-06,Sint Maarten,56
+2022-06,Slovakia,932
+2022-06,Slovenia,865
+2022-06,South Africa,1073
+2022-06,South Korea,7097
+2022-06,Spain,9882
+2022-06,Sri Lanka,6
+2022-06,Sweden,4495
+2022-06,Switzerland,2497
+2022-06,Taiwan,216
+2022-06,Thailand,1986
+2022-06,Togo,26
+2022-06,Tonga,8
+2022-06,Trinidad and Tobago,139
+2022-06,Tunisia,82
+2022-06,Turkey,1340
+2022-06,U.S. Virgin Islands,82
+2022-06,USA,178779
+2022-06,Uganda,146
+2022-06,Ukraine,27
+2022-06,United Arab Emirates,8
+2022-06,United Kingdom,41190
+2022-06,Uruguay,15
+2022-06,Vanuatu,41
+2022-06,Venezuela,55
+2022-06,Vietnam,202
+2022-06,Zambia,48
+2022-06,Zimbabwe,11
+2022-07,Albania,131
+2022-07,Algeria,183
+2022-07,American Samoa,17
+2022-07,Andorra,49
+2022-07,Angola,3
+2022-07,Anguilla,7
+2022-07,Argentina,912
+2022-07,Aruba,131
+2022-07,Australia,11054
+2022-07,Austria,13393
+2022-07,Bahrain,472
+2022-07,Bangladesh,76
+2022-07,Barbados,34
+2022-07,Belgium,7360
+2022-07,Belize,81
+2022-07,Benin,13
+2022-07,Bermuda,33
+2022-07,Bhutan,3
+2022-07,Bolivia,37
+2022-07,Bonaire,111
+2022-07,Bosnia and Herzegovina,13
+2022-07,Botswana,119
+2022-07,Brazil,11109
+2022-07,Brunei,121
+2022-07,Bulgaria,337
+2022-07,Cabo Verde,72
+2022-07,Cambodia,139
+2022-07,Cameroon,171
+2022-07,Canada,17794
+2022-07,Canary Islands,449
+2022-07,Chile,2270
+2022-07,China,266
+2022-07,Colombia,995
+2022-07,Comoros,5
+2022-07,Cook Islands,10
+2022-07,Costa Rica,718
+2022-07,Cote d'Ivoire,48
+2022-07,Crimea,2
+2022-07,Croatia,1880
+2022-07,Cuba,40
+2022-07,Curacao,97
+2022-07,Cyprus,332
+2022-07,Czech Republic,2243
+2022-07,Democratic Republic of the Congo,28
+2022-07,Denmark,18656
+2022-07,Djibouti,57
+2022-07,Dominican Republic,216
+2022-07,Ecuador,812
+2022-07,Egypt,498
+2022-07,El Salvador,126
+2022-07,Estonia,345
+2022-07,Eswatini,4
+2022-07,Ethiopia,3
+2022-07,Finland,1721
+2022-07,France,26604
+2022-07,French Guiana,191
+2022-07,Gambia,55
+2022-07,Georgia,166
+2022-07,Germany,34227
+2022-07,Ghana,62
+2022-07,Greece,1485
+2022-07,Grenada,16
+2022-07,Guadeloupe,29
+2022-07,Guam,50
+2022-07,Guatemala,312
+2022-07,Guinea,15
+2022-07,Haiti,60
+2022-07,Hong Kong,1484
+2022-07,Hungary,30
+2022-07,Iceland,479
+2022-07,India,13877
+2022-07,Indonesia,4168
+2022-07,Iran,350
+2022-07,Ireland,3416
+2022-07,Israel,22100
+2022-07,Italy,7274
+2022-07,Jamaica,311
+2022-07,Japan,57513
+2022-07,Jordan,18
+2022-07,Kazakhstan,424
+2022-07,Kenya,296
+2022-07,Kiribati,13
+2022-07,Kosovo,93
+2022-07,Kuwait,89
+2022-07,Laos,9
+2022-07,Latvia,771
+2022-07,Lebanon,30
+2022-07,Libya,14
+2022-07,Liechtenstein,80
+2022-07,Luxembourg,2831
+2022-07,Malawi,29
+2022-07,Malaysia,3117
+2022-07,Marshall Islands,20
+2022-07,Martinique,46
+2022-07,Mauritius,497
+2022-07,Mayotte,52
+2022-07,Mexico,5393
+2022-07,Micronesia,20
+2022-07,Moldova,25
+2022-07,Mongolia,69
+2022-07,Montenegro,61
+2022-07,Morocco,115
+2022-07,Mozambique,80
+2022-07,Myanmar,12
+2022-07,Namibia,3
+2022-07,Nepal,144
+2022-07,Netherlands,5051
+2022-07,New Caledonia,10
+2022-07,New Zealand,3434
+2022-07,Nicaragua,1
+2022-07,Niger,1
+2022-07,Nigeria,309
+2022-07,Niue,10
+2022-07,North Macedonia,46
+2022-07,Northern Mariana Islands,319
+2022-07,Norway,1358
+2022-07,Pakistan,420
+2022-07,Palau,5
+2022-07,Panama,197
+2022-07,Papua New Guinea,161
+2022-07,Paraguay,413
+2022-07,Peru,5562
+2022-07,Philippines,1314
+2022-07,Poland,940
+2022-07,Portugal,1486
+2022-07,Puerto Rico,1120
+2022-07,Qatar,304
+2022-07,Republic of the Congo,27
+2022-07,Reunion,488
+2022-07,Romania,1122
+2022-07,Russia,5025
+2022-07,Saint Lucia,23
+2022-07,Saint Martin,9
+2022-07,Saint Vincent and the Grenadines,5
+2022-07,Samoa,30
+2022-07,Saudi Arabia,74
+2022-07,Senegal,302
+2022-07,Serbia,294
+2022-07,Seychelles,13
+2022-07,Singapore,1750
+2022-07,Sint Maarten,84
+2022-07,Slovakia,2586
+2022-07,Slovenia,2082
+2022-07,Solomon Islands,4
+2022-07,South Africa,518
+2022-07,South Korea,7088
+2022-07,Spain,10435
+2022-07,Sri Lanka,54
+2022-07,Sudan,1
+2022-07,Sweden,8278
+2022-07,Switzerland,2256
+2022-07,Taiwan,58
+2022-07,Thailand,1691
+2022-07,Togo,70
+2022-07,Tonga,24
+2022-07,Trinidad and Tobago,360
+2022-07,Tunisia,76
+2022-07,Turkey,1173
+2022-07,U.S. Virgin Islands,75
+2022-07,USA,190806
+2022-07,Uganda,64
+2022-07,Ukraine,94
+2022-07,United Arab Emirates,1
+2022-07,United Kingdom,46475
+2022-07,Uruguay,19
+2022-07,Uzbekistan,30
+2022-07,Vanuatu,1
+2022-07,Venezuela,91
+2022-07,Vietnam,615
+2022-07,Zambia,41
+2022-07,Zimbabwe,4
+2022-08,Algeria,118
+2022-08,American Samoa,12
+2022-08,Andorra,15
+2022-08,Angola,26
+2022-08,Argentina,648
+2022-08,Aruba,148
+2022-08,Australia,9882
+2022-08,Austria,15804
+2022-08,Bahrain,231
+2022-08,Bangladesh,20
+2022-08,Barbados,5
+2022-08,Belgium,4231
+2022-08,Belize,28
+2022-08,Bermuda,14
+2022-08,Bhutan,3
+2022-08,Bolivia,3
+2022-08,Bonaire,94
+2022-08,Bosnia and Herzegovina,6
+2022-08,Botswana,15
+2022-08,Brazil,3305
+2022-08,Brunei,585
+2022-08,Bulgaria,293
+2022-08,Burkina Faso,11
+2022-08,Cabo Verde,43
+2022-08,Cambodia,162
+2022-08,Cameroon,341
+2022-08,Canada,15982
+2022-08,Canary Islands,124
+2022-08,Chile,2002
+2022-08,China,693
+2022-08,Colombia,717
+2022-08,Costa Rica,685
+2022-08,Cote d'Ivoire,30
+2022-08,Crimea,153
+2022-08,Croatia,1484
+2022-08,Cuba,9
+2022-08,Curacao,48
+2022-08,Cyprus,144
+2022-08,Czech Republic,2754
+2022-08,Democratic Republic of the Congo,11
+2022-08,Denmark,14211
+2022-08,Djibouti,11
+2022-08,Dominican Republic,206
+2022-08,Ecuador,808
+2022-08,Egypt,382
+2022-08,El Salvador,8
+2022-08,Estonia,554
+2022-08,Eswatini,3
+2022-08,Finland,1096
+2022-08,France,13936
+2022-08,French Guiana,59
+2022-08,Gambia,73
+2022-08,Georgia,218
+2022-08,Germany,22178
+2022-08,Ghana,8
+2022-08,Greece,794
+2022-08,Grenada,5
+2022-08,Guadeloupe,9
+2022-08,Guam,38
+2022-08,Guatemala,288
+2022-08,Guinea,47
+2022-08,Haiti,67
+2022-08,Hong Kong,1391
+2022-08,Hungary,20
+2022-08,Iceland,423
+2022-08,India,7803
+2022-08,Indonesia,3606
+2022-08,Iran,273
+2022-08,Iraq,3
+2022-08,Ireland,2747
+2022-08,Israel,6684
+2022-08,Italy,3794
+2022-08,Jamaica,288
+2022-08,Japan,38348
+2022-08,Jordan,3
+2022-08,Kazakhstan,418
+2022-08,Kenya,36
+2022-08,Kiribati,76
+2022-08,Kosovo,119
+2022-08,Kuwait,108
+2022-08,Laos,36
+2022-08,Latvia,1850
+2022-08,Lebanon,53
+2022-08,Lesotho,8
+2022-08,Liechtenstein,78
+2022-08,Luxembourg,2764
+2022-08,Malawi,13
+2022-08,Malaysia,2175
+2022-08,Martinique,25
+2022-08,Mauritius,637
+2022-08,Mayotte,43
+2022-08,Mexico,4409
+2022-08,Micronesia,5
+2022-08,Moldova,47
+2022-08,Mongolia,76
+2022-08,Montenegro,49
+2022-08,Morocco,52
+2022-08,Mozambique,22
+2022-08,Nepal,88
+2022-08,Netherlands,4606
+2022-08,New Caledonia,7
+2022-08,New Zealand,3434
+2022-08,Nicaragua,21
+2022-08,Niger,17
+2022-08,Nigeria,205
+2022-08,Niue,9
+2022-08,Northern Mariana Islands,147
+2022-08,Norway,1298
+2022-08,Pakistan,378
+2022-08,Palau,3
+2022-08,Panama,255
+2022-08,Papua New Guinea,10
+2022-08,Paraguay,156
+2022-08,Peru,3639
+2022-08,Philippines,1658
+2022-08,Poland,1858
+2022-08,Portugal,1096
+2022-08,Puerto Rico,843
+2022-08,Qatar,253
+2022-08,Republic of the Congo,23
+2022-08,Reunion,715
+2022-08,Romania,1115
+2022-08,Russia,8483
+2022-08,Saint Lucia,21
+2022-08,Saint Martin,6
+2022-08,Samoa,24
+2022-08,Saudi Arabia,19
+2022-08,Senegal,75
+2022-08,Serbia,85
+2022-08,Seychelles,16
+2022-08,Singapore,1566
+2022-08,Sint Maarten,26
+2022-08,Slovakia,1966
+2022-08,Slovenia,1500
+2022-08,Solomon Islands,8
+2022-08,South Africa,340
+2022-08,South Korea,9238
+2022-08,Spain,5351
+2022-08,Sri Lanka,81
+2022-08,Sudan,1
+2022-08,Sweden,6740
+2022-08,Switzerland,2216
+2022-08,Syria,17
+2022-08,Taiwan,20
+2022-08,Thailand,1440
+2022-08,The Bahamas,16
+2022-08,Togo,30
+2022-08,Tonga,9
+2022-08,Trinidad and Tobago,415
+2022-08,Tunisia,13
+2022-08,Turkey,1566
+2022-08,U.S. Virgin Islands,46
+2022-08,USA,150006
+2022-08,Uganda,46
+2022-08,Ukraine,125
+2022-08,United Kingdom,19360
+2022-08,Uruguay,13
+2022-08,Uzbekistan,8
+2022-08,Vanuatu,11
+2022-08,Venezuela,47
+2022-08,Vietnam,940
+2022-08,Zambia,9
+2022-08,Zimbabwe,6
+2022-09,Algeria,19
+2022-09,Andorra,7
+2022-09,Angola,14
+2022-09,Argentina,194
+2022-09,Aruba,85
+2022-09,Australia,7527
+2022-09,Austria,14156
+2022-09,Bangladesh,178
+2022-09,Barbados,5
+2022-09,Belgium,4007
+2022-09,Belize,11
+2022-09,Bermuda,9
+2022-09,Bhutan,7
+2022-09,Bolivia,1
+2022-09,Bonaire,37
+2022-09,Bosnia and Herzegovina,3
+2022-09,Botswana,4
+2022-09,Brazil,759
+2022-09,Brunei,383
+2022-09,Bulgaria,89
+2022-09,Burkina Faso,1
+2022-09,Cabo Verde,3
+2022-09,Cambodia,89
+2022-09,Cameroon,91
+2022-09,Canada,15671
+2022-09,Canary Islands,74
+2022-09,Central African Republic,6
+2022-09,Chile,1263
+2022-09,China,456
+2022-09,Colombia,177
+2022-09,Costa Rica,459
+2022-09,Cote d'Ivoire,8
+2022-09,Crimea,82
+2022-09,Croatia,1519
+2022-09,Curacao,59
+2022-09,Cyprus,147
+2022-09,Czech Republic,2798
+2022-09,Democratic Republic of the Congo,2
+2022-09,Denmark,15077
+2022-09,Djibouti,39
+2022-09,Dominican Republic,135
+2022-09,Ecuador,142
+2022-09,Egypt,138
+2022-09,Estonia,716
+2022-09,Finland,525
+2022-09,France,13526
+2022-09,French Guiana,16
+2022-09,Gambia,24
+2022-09,Georgia,122
+2022-09,Germany,23609
+2022-09,Ghana,366
+2022-09,Greece,1052
+2022-09,Guadeloupe,4
+2022-09,Guam,5
+2022-09,Guatemala,58
+2022-09,Guinea,47
+2022-09,Haiti,4
+2022-09,Hong Kong,1034
+2022-09,Hungary,18
+2022-09,Iceland,337
+2022-09,India,4550
+2022-09,Indonesia,2351
+2022-09,Iran,43
+2022-09,Iraq,2
+2022-09,Ireland,2805
+2022-09,Israel,5062
+2022-09,Italy,3201
+2022-09,Jamaica,225
+2022-09,Japan,24013
+2022-09,Jordan,6
+2022-09,Kazakhstan,21
+2022-09,Kenya,23
+2022-09,Kosovo,13
+2022-09,Kuwait,60
+2022-09,Laos,38
+2022-09,Latvia,2997
+2022-09,Lebanon,13
+2022-09,Lesotho,5
+2022-09,Liechtenstein,105
+2022-09,Luxembourg,1838
+2022-09,Malawi,4
+2022-09,Malaysia,1302
+2022-09,Mali,74
+2022-09,Martinique,23
+2022-09,Mauritius,414
+2022-09,Mayotte,7
+2022-09,Mexico,1279
+2022-09,Micronesia,11
+2022-09,Moldova,13
+2022-09,Mongolia,67
+2022-09,Morocco,20
+2022-09,Mozambique,22
+2022-09,Myanmar,7
+2022-09,Nepal,69
+2022-09,Netherlands,4339
+2022-09,New Caledonia,3
+2022-09,New Zealand,1287
+2022-09,Nicaragua,8
+2022-09,Niger,6
+2022-09,Nigeria,214
+2022-09,North Macedonia,11
+2022-09,Northern Mariana Islands,4
+2022-09,Norway,823
+2022-09,Oman,1
+2022-09,Pakistan,224
+2022-09,Palau,1
+2022-09,Panama,89
+2022-09,Papua New Guinea,23
+2022-09,Paraguay,12
+2022-09,Peru,1960
+2022-09,Philippines,854
+2022-09,Poland,1206
+2022-09,Portugal,1185
+2022-09,Puerto Rico,179
+2022-09,Qatar,345
+2022-09,Republic of the Congo,50
+2022-09,Reunion,654
+2022-09,Romania,449
+2022-09,Russia,7389
+2022-09,Saint Lucia,7
+2022-09,Saudi Arabia,97
+2022-09,Senegal,28
+2022-09,Serbia,198
+2022-09,Seychelles,17
+2022-09,Singapore,1480
+2022-09,Sint Maarten,5
+2022-09,Slovakia,1037
+2022-09,Slovenia,2071
+2022-09,Solomon Islands,2
+2022-09,South Africa,709
+2022-09,South Korea,8456
+2022-09,Spain,3340
+2022-09,Sweden,5985
+2022-09,Switzerland,2205
+2022-09,Taiwan,31
+2022-09,Thailand,850
+2022-09,The Bahamas,26
+2022-09,Togo,35
+2022-09,Trinidad and Tobago,177
+2022-09,Tunisia,3
+2022-09,Turkey,1073
+2022-09,USA,105391
+2022-09,Uganda,38
+2022-09,Ukraine,69
+2022-09,United Kingdom,16647
+2022-09,Uruguay,6
+2022-09,Vanuatu,2
+2022-09,Venezuela,42
+2022-09,Vietnam,549
+2022-09,Zambia,11
+2022-09,Zimbabwe,9
+2022-10,Algeria,14
+2022-10,Andorra,22
+2022-10,Angola,10
+2022-10,Anguilla,2
+2022-10,Argentina,62
+2022-10,Aruba,72
+2022-10,Australia,9553
+2022-10,Austria,14443
+2022-10,Bangladesh,106
+2022-10,Barbados,19
+2022-10,Belgium,3946
+2022-10,Belize,4
+2022-10,Bermuda,6
+2022-10,Bhutan,4
+2022-10,Bolivia,1
+2022-10,Bonaire,33
+2022-10,Bosnia and Herzegovina,4
+2022-10,Botswana,24
+2022-10,Brazil,1861
+2022-10,Brunei,398
+2022-10,Bulgaria,163
+2022-10,Burkina Faso,2
+2022-10,Cabo Verde,21
+2022-10,Cambodia,62
+2022-10,Cameroon,34
+2022-10,Canada,17765
+2022-10,Canary Islands,106
+2022-10,Cayman Islands,41
+2022-10,Central African Republic,5
+2022-10,Chile,1201
+2022-10,China,536
+2022-10,Colombia,162
+2022-10,Cook Islands,1
+2022-10,Costa Rica,520
+2022-10,Cote d'Ivoire,17
+2022-10,Crimea,46
+2022-10,Croatia,1201
+2022-10,Cuba,9
+2022-10,Curacao,50
+2022-10,Cyprus,122
+2022-10,Czech Republic,1915
+2022-10,Democratic Republic of the Congo,4
+2022-10,Denmark,17011
+2022-10,Djibouti,59
+2022-10,Dominican Republic,80
+2022-10,Ecuador,96
+2022-10,Egypt,72
+2022-10,Estonia,269
+2022-10,Eswatini,4
+2022-10,Finland,564
+2022-10,France,15312
+2022-10,French Guiana,36
+2022-10,Georgia,116
+2022-10,Germany,24682
+2022-10,Ghana,133
+2022-10,Greece,1376
+2022-10,Guadeloupe,26
+2022-10,Guam,10
+2022-10,Guatemala,71
+2022-10,Guinea,17
+2022-10,Haiti,1
+2022-10,Honduras,1
+2022-10,Hong Kong,707
+2022-10,Hungary,83
+2022-10,Iceland,335
+2022-10,India,2483
+2022-10,Indonesia,3060
+2022-10,Iran,50
+2022-10,Ireland,3174
+2022-10,Israel,4313
+2022-10,Italy,4954
+2022-10,Jamaica,33
+2022-10,Japan,20417
+2022-10,Jordan,7
+2022-10,Kazakhstan,178
+2022-10,Kenya,113
+2022-10,Kuwait,105
+2022-10,Laos,9
+2022-10,Latvia,2042
+2022-10,Lebanon,6
+2022-10,Lesotho,8
+2022-10,Liechtenstein,60
+2022-10,Lithuania,8
+2022-10,Luxembourg,2553
+2022-10,Malawi,5
+2022-10,Malaysia,1279
+2022-10,Mali,8
+2022-10,Marshall Islands,3
+2022-10,Martinique,19
+2022-10,Mauritius,364
+2022-10,Mexico,626
+2022-10,Micronesia,8
+2022-10,Moldova,3
+2022-10,Mongolia,50
+2022-10,Montenegro,6
+2022-10,Morocco,21
+2022-10,Mozambique,18
+2022-10,Myanmar,18
+2022-10,Nepal,8
+2022-10,Netherlands,5219
+2022-10,New Caledonia,5
+2022-10,New Zealand,1870
+2022-10,Nicaragua,27
+2022-10,Nigeria,28
+2022-10,North Macedonia,36
+2022-10,Northern Mariana Islands,6
+2022-10,Norway,765
+2022-10,Oman,17
+2022-10,Pakistan,99
+2022-10,Palau,6
+2022-10,Panama,31
+2022-10,Papua New Guinea,69
+2022-10,Paraguay,1
+2022-10,Peru,634
+2022-10,Philippines,1017
+2022-10,Poland,866
+2022-10,Portugal,687
+2022-10,Puerto Rico,981
+2022-10,Qatar,141
+2022-10,Republic of the Congo,4
+2022-10,Reunion,249
+2022-10,Romania,266
+2022-10,Russia,4087
+2022-10,Saint Lucia,19
+2022-10,Saint Martin,3
+2022-10,Saint Vincent and the Grenadines,4
+2022-10,Saudi Arabia,37
+2022-10,Senegal,60
+2022-10,Serbia,83
+2022-10,Singapore,1588
+2022-10,Sint Maarten,16
+2022-10,Slovakia,731
+2022-10,Slovenia,2137
+2022-10,Solomon Islands,2
+2022-10,South Africa,858
+2022-10,South Korea,7263
+2022-10,Spain,4767
+2022-10,Sri Lanka,8
+2022-10,Sudan,1
+2022-10,Sweden,5899
+2022-10,Switzerland,2651
+2022-10,Taiwan,21
+2022-10,Thailand,1088
+2022-10,The Bahamas,26
+2022-10,Togo,45
+2022-10,Trinidad and Tobago,104
+2022-10,Tunisia,8
+2022-10,Turkey,1329
+2022-10,USA,77220
+2022-10,Uganda,42
+2022-10,Ukraine,134
+2022-10,United Kingdom,25499
+2022-10,Uruguay,9
+2022-10,Venezuela,25
+2022-10,Vietnam,293
+2022-11,Algeria,13
+2022-11,Andorra,14
+2022-11,Anguilla,1
+2022-11,Argentina,161
+2022-11,Aruba,73
+2022-11,Australia,11764
+2022-11,Austria,13926
+2022-11,Bahrain,42
+2022-11,Bangladesh,4
+2022-11,Barbados,5
+2022-11,Belarus,2
+2022-11,Belgium,1474
+2022-11,Belize,38
+2022-11,Bermuda,10
+2022-11,Bhutan,4
+2022-11,Bolivia,2
+2022-11,Bonaire,67
+2022-11,Bosnia and Herzegovina,6
+2022-11,Botswana,45
+2022-11,Brazil,9206
+2022-11,Brunei,379
+2022-11,Bulgaria,117
+2022-11,Cabo Verde,83
+2022-11,Cambodia,58
+2022-11,Cameroon,2
+2022-11,Canada,12548
+2022-11,Canary Islands,101
+2022-11,Central African Republic,12
+2022-11,Chile,1476
+2022-11,China,1117
+2022-11,Colombia,620
+2022-11,Costa Rica,746
+2022-11,Cote d'Ivoire,2
+2022-11,Crimea,25
+2022-11,Croatia,769
+2022-11,Cuba,26
+2022-11,Curacao,42
+2022-11,Czech Republic,683
+2022-11,Democratic Republic of the Congo,1
+2022-11,Denmark,13085
+2022-11,Djibouti,16
+2022-11,Dominican Republic,236
+2022-11,Ecuador,278
+2022-11,Egypt,105
+2022-11,El Salvador,105
+2022-11,Eswatini,47
+2022-11,Finland,1044
+2022-11,France,11908
+2022-11,French Guiana,103
+2022-11,Georgia,101
+2022-11,Germany,19740
+2022-11,Ghana,1
+2022-11,Greece,1686
+2022-11,Guadeloupe,20
+2022-11,Guam,24
+2022-11,Guatemala,541
+2022-11,Guinea,1
+2022-11,Guyana,2
+2022-11,Haiti,1
+2022-11,Honduras,7
+2022-11,Hong Kong,628
+2022-11,Hungary,59
+2022-11,Iceland,512
+2022-11,India,943
+2022-11,Indonesia,4037
+2022-11,Iran,21
+2022-11,Iraq,9
+2022-11,Ireland,2496
+2022-11,Israel,3853
+2022-11,Italy,4354
+2022-11,Jamaica,34
+2022-11,Japan,32722
+2022-11,Jordan,11
+2022-11,Kazakhstan,86
+2022-11,Kenya,276
+2022-11,Kuwait,33
+2022-11,Laos,45
+2022-11,Latvia,1013
+2022-11,Lebanon,9
+2022-11,Lesotho,4
+2022-11,Liechtenstein,57
+2022-11,Lithuania,284
+2022-11,Luxembourg,1578
+2022-11,Malawi,11
+2022-11,Malaysia,2669
+2022-11,Martinique,53
+2022-11,Mauritius,447
+2022-11,Mayotte,32
+2022-11,Mexico,1144
+2022-11,Micronesia,1
+2022-11,Moldova,10
+2022-11,Mongolia,84
+2022-11,Montenegro,22
+2022-11,Morocco,70
+2022-11,Mozambique,35
+2022-11,Namibia,9
+2022-11,Nepal,1
+2022-11,Netherlands,4072
+2022-11,New Caledonia,24
+2022-11,New Zealand,2677
+2022-11,Nicaragua,22
+2022-11,Niger,2
+2022-11,Nigeria,6
+2022-11,North Macedonia,27
+2022-11,Northern Mariana Islands,2
+2022-11,Norway,1052
+2022-11,Oman,43
+2022-11,Pakistan,55
+2022-11,Palau,7
+2022-11,Panama,223
+2022-11,Papua New Guinea,23
+2022-11,Paraguay,104
+2022-11,Peru,3627
+2022-11,Philippines,821
+2022-11,Poland,248
+2022-11,Portugal,758
+2022-11,Puerto Rico,798
+2022-11,Reunion,522
+2022-11,Romania,254
+2022-11,Russia,3521
+2022-11,Saint Lucia,15
+2022-11,Saint Vincent and the Grenadines,4
+2022-11,Saudi Arabia,37
+2022-11,Serbia,188
+2022-11,Singapore,1414
+2022-11,Sint Maarten,9
+2022-11,Slovakia,310
+2022-11,Slovenia,1303
+2022-11,Solomon Islands,84
+2022-11,South Africa,718
+2022-11,South Korea,8696
+2022-11,Spain,5227
+2022-11,Sri Lanka,25
+2022-11,Sweden,6579
+2022-11,Switzerland,2383
+2022-11,Taiwan,28
+2022-11,Thailand,2340
+2022-11,The Bahamas,10
+2022-11,Togo,1
+2022-11,Tonga,6
+2022-11,Trinidad and Tobago,113
+2022-11,Tunisia,19
+2022-11,Turkey,827
+2022-11,USA,95012
+2022-11,Uganda,54
+2022-11,Ukraine,62
+2022-11,United Kingdom,13799
+2022-11,Uruguay,6
+2022-11,Venezuela,75
+2022-11,Vietnam,227
+2022-11,Zambia,6
+2022-11,Zimbabwe,25
+2022-12,Algeria,30
+2022-12,American Samoa,5
+2022-12,Andorra,7
+2022-12,Antigua and Barbuda,6
+2022-12,Argentina,1971
+2022-12,Aruba,93
+2022-12,Australia,7504
+2022-12,Austria,11288
+2022-12,Bahrain,173
+2022-12,Bangladesh,5
+2022-12,Barbados,5
+2022-12,Belarus,3
+2022-12,Belgium,1881
+2022-12,Belize,36
+2022-12,Bermuda,19
+2022-12,Bhutan,4
+2022-12,Bolivia,12
+2022-12,Bonaire,102
+2022-12,Bosnia and Herzegovina,25
+2022-12,Botswana,66
+2022-12,Brazil,6171
+2022-12,Brunei,387
+2022-12,Bulgaria,40
+2022-12,Cabo Verde,19
+2022-12,Cambodia,136
+2022-12,Canada,15777
+2022-12,Canary Islands,39
+2022-12,Cayman Islands,169
+2022-12,Chile,1311
+2022-12,China,5953
+2022-12,Colombia,875
+2022-12,Cook Islands,8
+2022-12,Costa Rica,550
+2022-12,Cote d'Ivoire,5
+2022-12,Crimea,16
+2022-12,Croatia,743
+2022-12,Cuba,39
+2022-12,Curacao,44
+2022-12,Czech Republic,356
+2022-12,Democratic Republic of the Congo,3
+2022-12,Denmark,15875
+2022-12,Djibouti,1
+2022-12,Dominican Republic,184
+2022-12,Ecuador,819
+2022-12,Egypt,94
+2022-12,El Salvador,21
+2022-12,Eswatini,4
+2022-12,Finland,1291
+2022-12,France,17441
+2022-12,French Guiana,88
+2022-12,Georgia,42
+2022-12,Germany,18492
+2022-12,Greece,1698
+2022-12,Grenada,2
+2022-12,Guadeloupe,11
+2022-12,Guatemala,792
+2022-12,Guinea,1
+2022-12,Haiti,13
+2022-12,Honduras,13
+2022-12,Hong Kong,585
+2022-12,Hungary,36
+2022-12,Iceland,464
+2022-12,India,732
+2022-12,Indonesia,1425
+2022-12,Iran,116
+2022-12,Ireland,1955
+2022-12,Israel,2411
+2022-12,Italy,4551
+2022-12,Jamaica,26
+2022-12,Japan,41884
+2022-12,Jordan,8
+2022-12,Kazakhstan,154
+2022-12,Kenya,44
+2022-12,Kuwait,42
+2022-12,Laos,80
+2022-12,Latvia,199
+2022-12,Lebanon,6
+2022-12,Lesotho,2
+2022-12,Liechtenstein,86
+2022-12,Lithuania,249
+2022-12,Luxembourg,1402
+2022-12,Malawi,15
+2022-12,Malaysia,1192
+2022-12,Martinique,82
+2022-12,Mauritius,320
+2022-12,Mexico,3134
+2022-12,Micronesia,7
+2022-12,Moldova,27
+2022-12,Mongolia,42
+2022-12,Montenegro,10
+2022-12,Morocco,81
+2022-12,Mozambique,92
+2022-12,Myanmar,1
+2022-12,Namibia,6
+2022-12,Netherlands,4030
+2022-12,New Caledonia,5
+2022-12,New Zealand,2801
+2022-12,Nicaragua,84
+2022-12,Niger,2
+2022-12,Nigeria,7
+2022-12,North Macedonia,17
+2022-12,Northern Mariana Islands,9
+2022-12,Norway,1113
+2022-12,Oman,11
+2022-12,Pakistan,60
+2022-12,Palau,1
+2022-12,Panama,135
+2022-12,Papua New Guinea,8
+2022-12,Paraguay,248
+2022-12,Peru,5875
+2022-12,Philippines,228
+2022-12,Poland,392
+2022-12,Portugal,676
+2022-12,Puerto Rico,847
+2022-12,Reunion,642
+2022-12,Romania,230
+2022-12,Russia,1677
+2022-12,Saint Kitts and Nevis,1
+2022-12,Saint Vincent and the Grenadines,9
+2022-12,Saudi Arabia,80
+2022-12,Singapore,1604
+2022-12,Sint Maarten,13
+2022-12,Slovakia,135
+2022-12,Slovenia,2221
+2022-12,South Africa,286
+2022-12,South Korea,8577
+2022-12,Spain,5245
+2022-12,Sri Lanka,7
+2022-12,Sweden,8279
+2022-12,Switzerland,1991
+2022-12,Taiwan,53
+2022-12,Thailand,1385
+2022-12,The Bahamas,11
+2022-12,Tonga,3
+2022-12,Trinidad and Tobago,136
+2022-12,Tunisia,6
+2022-12,Turkey,792
+2022-12,USA,105345
+2022-12,Uganda,65
+2022-12,Ukraine,84
+2022-12,United Kingdom,28491
+2022-12,Uruguay,24
+2022-12,Venezuela,194
+2022-12,Vietnam,193
+2022-12,Zambia,16
+2022-12,Zimbabwe,2
+2023-01,Algeria,17
+2023-01,American Samoa,4
+2023-01,Anguilla,2
+2023-01,Antigua and Barbuda,13
+2023-01,Argentina,659
+2023-01,Aruba,140
+2023-01,Australia,5544
+2023-01,Austria,10936
+2023-01,Bahrain,354
+2023-01,Bangladesh,3
+2023-01,Barbados,30
+2023-01,Belgium,1265
+2023-01,Belize,23
+2023-01,Bhutan,15
+2023-01,Bolivia,16
+2023-01,Bonaire,11
+2023-01,Bosnia and Herzegovina,22
+2023-01,Botswana,51
+2023-01,Brazil,2242
+2023-01,Brunei,388
+2023-01,Bulgaria,85
+2023-01,Burkina Faso,1
+2023-01,Cabo Verde,4
+2023-01,Cambodia,17
+2023-01,Canada,15661
+2023-01,Canary Islands,32
+2023-01,Cayman Islands,76
+2023-01,Central African Republic,1
+2023-01,Chile,1012
+2023-01,China,6789
+2023-01,Colombia,250
+2023-01,Cook Islands,18
+2023-01,Costa Rica,713
+2023-01,Cote d'Ivoire,4
+2023-01,Crimea,6
+2023-01,Croatia,579
+2023-01,Cuba,31
+2023-01,Curacao,19
+2023-01,Czech Republic,246
+2023-01,Democratic Republic of the Congo,59
+2023-01,Denmark,5873
+2023-01,Djibouti,8
+2023-01,Dominican Republic,58
+2023-01,Ecuador,267
+2023-01,Egypt,3
+2023-01,El Salvador,1
+2023-01,Eswatini,5
+2023-01,Finland,785
+2023-01,France,5183
+2023-01,French Guiana,5
+2023-01,Georgia,102
+2023-01,Germany,14915
+2023-01,Ghana,4
+2023-01,Greece,1471
+2023-01,Grenada,6
+2023-01,Guadeloupe,9
+2023-01,Guam,11
+2023-01,Guatemala,262
+2023-01,Guinea,4
+2023-01,Haiti,6
+2023-01,Honduras,32
+2023-01,Hong Kong,270
+2023-01,Hungary,45
+2023-01,Iceland,363
+2023-01,India,1471
+2023-01,Indonesia,576
+2023-01,Iran,130
+2023-01,Ireland,2399
+2023-01,Israel,1467
+2023-01,Italy,4155
+2023-01,Jamaica,196
+2023-01,Japan,27035
+2023-01,Jordan,9
+2023-01,Kazakhstan,12
+2023-01,Kenya,13
+2023-01,Kosovo,42
+2023-01,Kuwait,55
+2023-01,Laos,8
+2023-01,Lebanon,37
+2023-01,Lesotho,15
+2023-01,Liechtenstein,5
+2023-01,Lithuania,264
+2023-01,Luxembourg,1068
+2023-01,Malawi,6
+2023-01,Malaysia,440
+2023-01,Marshall Islands,1
+2023-01,Martinique,16
+2023-01,Mauritius,278
+2023-01,Mexico,2036
+2023-01,Micronesia,3
+2023-01,Moldova,40
+2023-01,Mongolia,5
+2023-01,Montenegro,33
+2023-01,Morocco,40
+2023-01,Mozambique,181
+2023-01,Myanmar,16
+2023-01,Namibia,34
+2023-01,Nepal,22
+2023-01,Netherlands,2993
+2023-01,New Caledonia,1
+2023-01,New Zealand,1353
+2023-01,Niger,3
+2023-01,Nigeria,13
+2023-01,Niue,1
+2023-01,North Macedonia,34
+2023-01,Northern Mariana Islands,7
+2023-01,Norway,492
+2023-01,Oman,20
+2023-01,Pakistan,67
+2023-01,Palestine,16
+2023-01,Panama,26
+2023-01,Paraguay,74
+2023-01,Peru,819
+2023-01,Philippines,125
+2023-01,Poland,415
+2023-01,Portugal,553
+2023-01,Puerto Rico,906
+2023-01,Republic of the Congo,3
+2023-01,Reunion,697
+2023-01,Romania,443
+2023-01,Russia,1138
+2023-01,Saint Kitts and Nevis,1
+2023-01,Saint Lucia,21
+2023-01,Saint Vincent and the Grenadines,2
+2023-01,Saudi Arabia,22
+2023-01,Serbia,150
+2023-01,Singapore,1107
+2023-01,Sint Maarten,10
+2023-01,Slovakia,222
+2023-01,Slovenia,844
+2023-01,South Africa,1247
+2023-01,South Korea,7605
+2023-01,Spain,3927
+2023-01,Sri Lanka,10
+2023-01,Sweden,5074
+2023-01,Switzerland,501
+2023-01,Taiwan,168
+2023-01,Thailand,484
+2023-01,The Bahamas,7
+2023-01,Tonga,5
+2023-01,Trinidad and Tobago,242
+2023-01,Tunisia,16
+2023-01,Turkey,15
+2023-01,USA,82165
+2023-01,Uganda,44
+2023-01,Ukraine,365
+2023-01,United Kingdom,20368
+2023-01,Uruguay,36
+2023-01,Venezuela,52
+2023-01,Vietnam,34
+2023-01,Zambia,403
+2023-01,Zimbabwe,18
+2023-02,Albania,7
+2023-02,Algeria,9
+2023-02,Antigua and Barbuda,1
+2023-02,Argentina,50
+2023-02,Aruba,3
+2023-02,Australia,3754
+2023-02,Austria,11388
+2023-02,Bahrain,147
+2023-02,Bangladesh,2
+2023-02,Barbados,18
+2023-02,Belgium,1755
+2023-02,Belize,5
+2023-02,Bhutan,2
+2023-02,Bolivia,2
+2023-02,Bosnia and Herzegovina,22
+2023-02,Brazil,2655
+2023-02,Brunei,306
+2023-02,Bulgaria,40
+2023-02,Burkina Faso,1
+2023-02,Cabo Verde,1
+2023-02,Cambodia,8
+2023-02,Cameroon,1
+2023-02,Canada,11537
+2023-02,Canary Islands,45
+2023-02,Central African Republic,1
+2023-02,Chile,833
+2023-02,China,4402
+2023-02,Colombia,327
+2023-02,Costa Rica,564
+2023-02,Cote d'Ivoire,35
+2023-02,Crimea,6
+2023-02,Croatia,307
+2023-02,Cuba,8
+2023-02,Curacao,4
+2023-02,Czech Republic,442
+2023-02,Denmark,2374
+2023-02,Dominican Republic,28
+2023-02,Ecuador,61
+2023-02,Egypt,170
+2023-02,Finland,610
+2023-02,France,3565
+2023-02,French Guiana,4
+2023-02,Georgia,84
+2023-02,Germany,14548
+2023-02,Ghana,29
+2023-02,Greece,954
+2023-02,Guadeloupe,8
+2023-02,Guam,9
+2023-02,Guatemala,50
+2023-02,Guinea,7
+2023-02,Honduras,1
+2023-02,Hong Kong,174
+2023-02,Hungary,24
+2023-02,Iceland,328
+2023-02,India,593
+2023-02,Indonesia,378
+2023-02,Iran,191
+2023-02,Ireland,1042
+2023-02,Israel,1802
+2023-02,Italy,2851
+2023-02,Jamaica,117
+2023-02,Japan,9927
+2023-02,Jordan,7
+2023-02,Kenya,6
+2023-02,Kosovo,103
+2023-02,Kuwait,11
+2023-02,Laos,2
+2023-02,Lebanon,59
+2023-02,Liechtenstein,4
+2023-02,Lithuania,303
+2023-02,Luxembourg,1105
+2023-02,Malaysia,272
+2023-02,Mali,13
+2023-02,Marshall Islands,1
+2023-02,Martinique,8
+2023-02,Mauritius,145
+2023-02,Mexico,663
+2023-02,Micronesia,26
+2023-02,Moldova,16
+2023-02,Mongolia,1
+2023-02,Montenegro,20
+2023-02,Morocco,15
+2023-02,Mozambique,49
+2023-02,Nepal,5
+2023-02,Netherlands,2808
+2023-02,New Zealand,756
+2023-02,Niger,4
+2023-02,Nigeria,32
+2023-02,Niue,8
+2023-02,North Macedonia,31
+2023-02,Northern Mariana Islands,9
+2023-02,Norway,401
+2023-02,Oman,93
+2023-02,Pakistan,92
+2023-02,Palestine,8
+2023-02,Panama,32
+2023-02,Paraguay,3
+2023-02,Peru,201
+2023-02,Philippines,201
+2023-02,Poland,899
+2023-02,Portugal,441
+2023-02,Puerto Rico,626
+2023-02,Reunion,307
+2023-02,Romania,318
+2023-02,Russia,1403
+2023-02,Saint Lucia,10
+2023-02,Saudi Arabia,9
+2023-02,Senegal,1
+2023-02,Serbia,4
+2023-02,Singapore,992
+2023-02,Sint Maarten,3
+2023-02,Slovakia,416
+2023-02,Slovenia,476
+2023-02,South Africa,1316
+2023-02,South Korea,7096
+2023-02,Spain,2585
+2023-02,Sudan,3
+2023-02,Sweden,1889
+2023-02,Switzerland,462
+2023-02,Taiwan,116
+2023-02,Thailand,275
+2023-02,Togo,1
+2023-02,Tonga,2
+2023-02,Trinidad and Tobago,81
+2023-02,Tunisia,33
+2023-02,Turkey,1
+2023-02,USA,58231
+2023-02,Uganda,15
+2023-02,Ukraine,236
+2023-02,United Kingdom,18567
+2023-02,Uruguay,2
+2023-02,Venezuela,12
+2023-02,Vietnam,18
+2023-02,Zambia,17
+2023-03,Albania,71
+2023-03,Algeria,11
+2023-03,Argentina,84
+2023-03,Australia,5048
+2023-03,Austria,9009
+2023-03,Azerbaijan,6
+2023-03,Bahrain,10
+2023-03,Bangladesh,2
+2023-03,Barbados,10
+2023-03,Belgium,1996
+2023-03,Bermuda,2
+2023-03,Bhutan,3
+2023-03,Bolivia,3
+2023-03,Bosnia and Herzegovina,14
+2023-03,Brazil,1663
+2023-03,Brunei,377
+2023-03,Bulgaria,97
+2023-03,Burkina Faso,3
+2023-03,Cabo Verde,2
+2023-03,Cambodia,1
+2023-03,Canada,11045
+2023-03,Canary Islands,78
+2023-03,Chile,1331
+2023-03,China,4557
+2023-03,Colombia,323
+2023-03,Costa Rica,287
+2023-03,Cote d'Ivoire,8
+2023-03,Crimea,13
+2023-03,Croatia,444
+2023-03,Cuba,7
+2023-03,Curacao,5
+2023-03,Czech Republic,739
+2023-03,Democratic Republic of the Congo,1
+2023-03,Denmark,3255
+2023-03,Dominican Republic,5
+2023-03,Ecuador,130
+2023-03,Egypt,254
+2023-03,El Salvador,3
+2023-03,Finland,817
+2023-03,France,6062
+2023-03,French Guiana,10
+2023-03,Georgia,51
+2023-03,Germany,10333
+2023-03,Ghana,52
+2023-03,Greece,760
+2023-03,Guadeloupe,12
+2023-03,Guatemala,40
+2023-03,Guinea,23
+2023-03,Haiti,2
+2023-03,Hong Kong,75
+2023-03,Hungary,15
+2023-03,Iceland,126
+2023-03,India,5557
+2023-03,Indonesia,997
+2023-03,Iran,272
+2023-03,Ireland,1831
+2023-03,Israel,1470
+2023-03,Italy,2587
+2023-03,Jamaica,22
+2023-03,Japan,5868
+2023-03,Kazakhstan,169
+2023-03,Kenya,6
+2023-03,Kosovo,70
+2023-03,Kuwait,97
+2023-03,Lebanon,41
+2023-03,Liechtenstein,4
+2023-03,Lithuania,275
+2023-03,Luxembourg,1226
+2023-03,Malaysia,543
+2023-03,Mali,2
+2023-03,Marshall Islands,7
+2023-03,Martinique,9
+2023-03,Mauritius,305
+2023-03,Mayotte,3
+2023-03,Mexico,726
+2023-03,Micronesia,2
+2023-03,Moldova,16
+2023-03,Mongolia,15
+2023-03,Montenegro,8
+2023-03,Morocco,12
+2023-03,Mozambique,12
+2023-03,Myanmar,11
+2023-03,Namibia,5
+2023-03,Nepal,34
+2023-03,Netherlands,2256
+2023-03,New Zealand,1108
+2023-03,Niger,9
+2023-03,Nigeria,15
+2023-03,North Macedonia,24
+2023-03,Northern Mariana Islands,2
+2023-03,Norway,515
+2023-03,Oman,86
+2023-03,Pakistan,389
+2023-03,Palau,1
+2023-03,Panama,33
+2023-03,Paraguay,23
+2023-03,Peru,536
+2023-03,Philippines,185
+2023-03,Poland,1739
+2023-03,Portugal,560
+2023-03,Puerto Rico,445
+2023-03,Qatar,1
+2023-03,Republic of the Congo,14
+2023-03,Reunion,268
+2023-03,Romania,373
+2023-03,Russia,1279
+2023-03,Saint Lucia,15
+2023-03,Saudi Arabia,25
+2023-03,Senegal,18
+2023-03,Singapore,1937
+2023-03,Sint Maarten,6
+2023-03,Slovakia,658
+2023-03,Slovenia,730
+2023-03,South Africa,759
+2023-03,South Korea,7739
+2023-03,Spain,3503
+2023-03,Sudan,3
+2023-03,Sweden,2503
+2023-03,Switzerland,724
+2023-03,Taiwan,116
+2023-03,Thailand,292
+2023-03,Togo,14
+2023-03,Trinidad and Tobago,85
+2023-03,Tunisia,44
+2023-03,Turkey,59
+2023-03,USA,46745
+2023-03,Uganda,4
+2023-03,Ukraine,451
+2023-03,United Kingdom,18709
+2023-03,Uruguay,1
+2023-03,Venezuela,11
+2023-03,Vietnam,65
+2023-04,Albania,66
+2023-04,Algeria,32
+2023-04,Argentina,55
+2023-04,Australia,5635
+2023-04,Austria,3090
+2023-04,Azerbaijan,5
+2023-04,Bahrain,79
+2023-04,Bangladesh,15
+2023-04,Barbados,8
+2023-04,Belgium,995
+2023-04,Belize,2
+2023-04,Bolivia,1
+2023-04,Bosnia and Herzegovina,1
+2023-04,Botswana,2
+2023-04,Brazil,1283
+2023-04,Brunei,139
+2023-04,Bulgaria,120
+2023-04,Cabo Verde,47
+2023-04,Cambodia,6
+2023-04,Canada,8664
+2023-04,Canary Islands,83
+2023-04,Central African Republic,1
+2023-04,Chile,414
+2023-04,China,4861
+2023-04,Colombia,182
+2023-04,Costa Rica,285
+2023-04,Crimea,37
+2023-04,Croatia,483
+2023-04,Cuba,15
+2023-04,Curacao,4
+2023-04,Czech Republic,193
+2023-04,Democratic Republic of the Congo,1
+2023-04,Denmark,1220
+2023-04,Dominican Republic,2
+2023-04,Ecuador,153
+2023-04,Egypt,73
+2023-04,El Salvador,1
+2023-04,Finland,582
+2023-04,France,5852
+2023-04,French Guiana,56
+2023-04,Georgia,21
+2023-04,Germany,3020
+2023-04,Greece,512
+2023-04,Guadeloupe,12
+2023-04,Guatemala,48
+2023-04,Guinea,17
+2023-04,Haiti,6
+2023-04,Hong Kong,186
+2023-04,Hungary,7
+2023-04,Iceland,60
+2023-04,India,7343
+2023-04,Indonesia,1565
+2023-04,Iran,149
+2023-04,Ireland,322
+2023-04,Israel,395
+2023-04,Italy,1995
+2023-04,Jamaica,49
+2023-04,Japan,6622
+2023-04,Kazakhstan,11
+2023-04,Kenya,80
+2023-04,Kuwait,61
+2023-04,Laos,4
+2023-04,Lebanon,42
+2023-04,Liechtenstein,1
+2023-04,Lithuania,108
+2023-04,Luxembourg,606
+2023-04,Malaysia,1097
+2023-04,Martinique,20
+2023-04,Mauritius,446
+2023-04,Mayotte,5
+2023-04,Mexico,750
+2023-04,Micronesia,1
+2023-04,Moldova,28
+2023-04,Mongolia,59
+2023-04,Montenegro,15
+2023-04,Morocco,17
+2023-04,Myanmar,13
+2023-04,Namibia,5
+2023-04,Nepal,54
+2023-04,Netherlands,994
+2023-04,New Zealand,1044
+2023-04,Niger,4
+2023-04,Nigeria,9
+2023-04,North Macedonia,15
+2023-04,Norway,328
+2023-04,Oman,23
+2023-04,Pakistan,66
+2023-04,Palau,1
+2023-04,Panama,41
+2023-04,Paraguay,22
+2023-04,Peru,721
+2023-04,Philippines,501
+2023-04,Poland,374
+2023-04,Portugal,516
+2023-04,Puerto Rico,296
+2023-04,Republic of the Congo,3
+2023-04,Reunion,594
+2023-04,Romania,305
+2023-04,Russia,935
+2023-04,Saint Lucia,2
+2023-04,Saint Martin,4
+2023-04,Saudi Arabia,9
+2023-04,Senegal,7
+2023-04,Singapore,1741
+2023-04,Sint Maarten,4
+2023-04,Slovakia,266
+2023-04,Slovenia,519
+2023-04,Somalia,3
+2023-04,South Africa,335
+2023-04,South Korea,7447
+2023-04,Spain,4008
+2023-04,Sri Lanka,7
+2023-04,Sweden,2737
+2023-04,Switzerland,505
+2023-04,Taiwan,286
+2023-04,Thailand,675
+2023-04,Togo,5
+2023-04,Trinidad and Tobago,43
+2023-04,Tunisia,12
+2023-04,Turkey,21
+2023-04,USA,28866
+2023-04,Uganda,31
+2023-04,Ukraine,483
+2023-04,United Kingdom,6929
+2023-04,Uruguay,4
+2023-04,Venezuela,3
+2023-04,Vietnam,469
+2023-04,Zambia,7
+2023-05,Albania,30
+2023-05,Algeria,9
+2023-05,Antigua and Barbuda,19
+2023-05,Argentina,79
+2023-05,Australia,6315
+2023-05,Austria,1331
+2023-05,Azerbaijan,7
+2023-05,Bangladesh,27
+2023-05,Barbados,9
+2023-05,Belgium,483
+2023-05,Belize,6
+2023-05,Bermuda,6
+2023-05,Bhutan,2
+2023-05,Bolivia,12
+2023-05,Bonaire,1
+2023-05,Botswana,11
+2023-05,Brazil,1241
+2023-05,Brunei,230
+2023-05,Bulgaria,115
+2023-05,Cabo Verde,75
+2023-05,Cambodia,69
+2023-05,Canada,6927
+2023-05,Canary Islands,107
+2023-05,Central African Republic,1
+2023-05,Chile,100
+2023-05,China,11144
+2023-05,Colombia,476
+2023-05,Cook Islands,9
+2023-05,Costa Rica,337
+2023-05,Cote d'Ivoire,1
+2023-05,Crimea,14
+2023-05,Croatia,290
+2023-05,Cuba,21
+2023-05,Curacao,9
+2023-05,Czech Republic,26
+2023-05,Democratic Republic of the Congo,3
+2023-05,Denmark,785
+2023-05,Dominican Republic,18
+2023-05,Ecuador,236
+2023-05,Egypt,46
+2023-05,El Salvador,1
+2023-05,Finland,607
+2023-05,France,3822
+2023-05,French Guiana,32
+2023-05,Georgia,74
+2023-05,Germany,633
+2023-05,Greece,525
+2023-05,Guadeloupe,23
+2023-05,Guatemala,204
+2023-05,Guinea,5
+2023-05,Haiti,8
+2023-05,Honduras,2
+2023-05,Hong Kong,206
+2023-05,Hungary,1
+2023-05,Iceland,61
+2023-05,India,1256
+2023-05,Indonesia,1404
+2023-05,Iran,18
+2023-05,Ireland,401
+2023-05,Israel,361
+2023-05,Italy,1351
+2023-05,Jamaica,40
+2023-05,Japan,4350
+2023-05,Kenya,152
+2023-05,Kuwait,33
+2023-05,Laos,36
+2023-05,Lebanon,21
+2023-05,Lithuania,95
+2023-05,Luxembourg,422
+2023-05,Malaysia,1342
+2023-05,Martinique,29
+2023-05,Mauritius,381
+2023-05,Mexico,766
+2023-05,Moldova,3
+2023-05,Mongolia,121
+2023-05,Montenegro,4
+2023-05,Morocco,18
+2023-05,Myanmar,9
+2023-05,Namibia,8
+2023-05,Netherlands,530
+2023-05,New Zealand,1241
+2023-05,Nigeria,12
+2023-05,North Macedonia,2
+2023-05,Norway,266
+2023-05,Oman,15
+2023-05,Pakistan,41
+2023-05,Palau,1
+2023-05,Panama,54
+2023-05,Paraguay,39
+2023-05,Peru,439
+2023-05,Philippines,782
+2023-05,Poland,141
+2023-05,Portugal,510
+2023-05,Puerto Rico,746
+2023-05,Reunion,495
+2023-05,Romania,153
+2023-05,Russia,478
+2023-05,Saint Lucia,10
+2023-05,Senegal,3
+2023-05,Singapore,1869
+2023-05,Sint Maarten,8
+2023-05,Slovakia,78
+2023-05,Slovenia,304
+2023-05,Somalia,7
+2023-05,South Africa,250
+2023-05,South Korea,7409
+2023-05,Spain,4372
+2023-05,Sri Lanka,16
+2023-05,Sweden,1980
+2023-05,Switzerland,370
+2023-05,Taiwan,311
+2023-05,Thailand,1144
+2023-05,Togo,3
+2023-05,Trinidad and Tobago,3
+2023-05,Tunisia,1
+2023-05,Turkey,13
+2023-05,USA,19134
+2023-05,Uganda,62
+2023-05,Ukraine,523
+2023-05,United Kingdom,3628
+2023-05,Uruguay,6
+2023-05,Venezuela,21
+2023-05,Vietnam,200
+2023-05,Zambia,21
+2023-06,Albania,22
+2023-06,Algeria,4
+2023-06,Argentina,67
+2023-06,Australia,3403
+2023-06,Austria,1012
+2023-06,Azerbaijan,1
+2023-06,Bangladesh,67
+2023-06,Barbados,14
+2023-06,Belgium,173
+2023-06,Bermuda,12
+2023-06,Bhutan,3
+2023-06,Bolivia,14
+2023-06,Botswana,14
+2023-06,Brazil,938
+2023-06,Brunei,146
+2023-06,Bulgaria,12
+2023-06,Cabo Verde,26
+2023-06,Cambodia,46
+2023-06,Canada,3447
+2023-06,Canary Islands,96
+2023-06,Central African Republic,3
+2023-06,Chile,44
+2023-06,China,6461
+2023-06,Colombia,412
+2023-06,Costa Rica,237
+2023-06,Crimea,5
+2023-06,Croatia,40
+2023-06,Curacao,20
+2023-06,Czech Republic,3
+2023-06,Democratic Republic of the Congo,2
+2023-06,Denmark,188
+2023-06,Dominican Republic,350
+2023-06,Ecuador,295
+2023-06,Egypt,1
+2023-06,El Salvador,3
+2023-06,Finland,357
+2023-06,France,1343
+2023-06,French Guiana,39
+2023-06,Georgia,49
+2023-06,Germany,399
+2023-06,Greece,162
+2023-06,Guadeloupe,12
+2023-06,Guatemala,265
+2023-06,Guinea,3
+2023-06,Haiti,3
+2023-06,Honduras,27
+2023-06,Hong Kong,150
+2023-06,Iceland,58
+2023-06,India,127
+2023-06,Indonesia,109
+2023-06,Iran,9
+2023-06,Ireland,198
+2023-06,Israel,429
+2023-06,Italy,623
+2023-06,Japan,5743
+2023-06,Jordan,1
+2023-06,Kenya,35
+2023-06,Laos,90
+2023-06,Lebanon,4
+2023-06,Lithuania,13
+2023-06,Luxembourg,101
+2023-06,Malaysia,421
+2023-06,Martinique,39
+2023-06,Mauritius,196
+2023-06,Mexico,470
+2023-06,Micronesia,2
+2023-06,Mongolia,45
+2023-06,Montenegro,2
+2023-06,Morocco,1
+2023-06,Myanmar,13
+2023-06,Namibia,1
+2023-06,Nepal,2
+2023-06,Netherlands,233
+2023-06,New Zealand,955
+2023-06,Nigeria,9
+2023-06,North Macedonia,1
+2023-06,Northern Mariana Islands,1
+2023-06,Norway,55
+2023-06,Oman,5
+2023-06,Pakistan,4
+2023-06,Panama,78
+2023-06,Paraguay,19
+2023-06,Peru,410
+2023-06,Philippines,214
+2023-06,Poland,23
+2023-06,Portugal,213
+2023-06,Puerto Rico,559
+2023-06,Reunion,162
+2023-06,Romania,52
+2023-06,Russia,211
+2023-06,Saint Lucia,2
+2023-06,Senegal,4
+2023-06,Singapore,1234
+2023-06,Sint Maarten,5
+2023-06,Slovakia,23
+2023-06,Slovenia,132
+2023-06,South Africa,69
+2023-06,South Korea,7160
+2023-06,Spain,2198
+2023-06,Sweden,1009
+2023-06,Switzerland,108
+2023-06,Taiwan,175
+2023-06,Thailand,536
+2023-06,Togo,2
+2023-06,Trinidad and Tobago,5
+2023-06,Tunisia,4
+2023-06,USA,11519
+2023-06,Uganda,29
+2023-06,Ukraine,220
+2023-06,United Kingdom,1601
+2023-06,Uruguay,1
+2023-06,Venezuela,42
+2023-06,Vietnam,62
+2023-06,Zambia,17
+2023-07,Albania,15
+2023-07,Algeria,3
+2023-07,American Samoa,4
+2023-07,Antigua and Barbuda,1
+2023-07,Argentina,109
+2023-07,Aruba,15
+2023-07,Australia,1506
+2023-07,Austria,25
+2023-07,Bangladesh,86
+2023-07,Belgium,102
+2023-07,Bermuda,2
+2023-07,Bhutan,4
+2023-07,Bolivia,2
+2023-07,Brazil,422
+2023-07,Brunei,84
+2023-07,Bulgaria,14
+2023-07,Cabo Verde,12
+2023-07,Canada,2680
+2023-07,Canary Islands,199
+2023-07,Central African Republic,1
+2023-07,Chile,59
+2023-07,China,3925
+2023-07,Colombia,318
+2023-07,Costa Rica,143
+2023-07,Crimea,3
+2023-07,Croatia,39
+2023-07,Curacao,5
+2023-07,Czech Republic,2
+2023-07,Democratic Republic of the Congo,1
+2023-07,Denmark,270
+2023-07,Dominican Republic,159
+2023-07,Ecuador,43
+2023-07,El Salvador,12
+2023-07,Finland,146
+2023-07,France,1198
+2023-07,French Guiana,12
+2023-07,Georgia,25
+2023-07,Germany,441
+2023-07,Greece,113
+2023-07,Guadeloupe,7
+2023-07,Guatemala,192
+2023-07,Honduras,27
+2023-07,Hong Kong,69
+2023-07,Iceland,78
+2023-07,India,112
+2023-07,Indonesia,7
+2023-07,Iran,22
+2023-07,Ireland,372
+2023-07,Israel,387
+2023-07,Italy,465
+2023-07,Jamaica,93
+2023-07,Japan,7424
+2023-07,Jordan,3
+2023-07,Kazakhstan,72
+2023-07,Kenya,4
+2023-07,Laos,79
+2023-07,Lebanon,3
+2023-07,Lithuania,11
+2023-07,Luxembourg,151
+2023-07,Malaysia,149
+2023-07,Martinique,21
+2023-07,Mauritius,75
+2023-07,Mexico,499
+2023-07,Micronesia,1
+2023-07,Morocco,1
+2023-07,Myanmar,14
+2023-07,Netherlands,177
+2023-07,New Zealand,423
+2023-07,Nigeria,5
+2023-07,North Macedonia,2
+2023-07,Northern Mariana Islands,1
+2023-07,Norway,53
+2023-07,Oman,10
+2023-07,Pakistan,17
+2023-07,Palau,5
+2023-07,Palestine,1
+2023-07,Panama,26
+2023-07,Paraguay,2
+2023-07,Peru,254
+2023-07,Philippines,68
+2023-07,Poland,4
+2023-07,Portugal,153
+2023-07,Puerto Rico,410
+2023-07,Reunion,45
+2023-07,Romania,37
+2023-07,Russia,119
+2023-07,Saint Lucia,17
+2023-07,Saint Martin,1
+2023-07,Saint Vincent and the Grenadines,2
+2023-07,Senegal,20
+2023-07,Singapore,738
+2023-07,Sint Maarten,5
+2023-07,Slovakia,10
+2023-07,Slovenia,56
+2023-07,South Africa,69
+2023-07,South Korea,5976
+2023-07,Spain,2008
+2023-07,Sweden,465
+2023-07,Switzerland,92
+2023-07,Taiwan,183
+2023-07,Thailand,282
+2023-07,Trinidad and Tobago,30
+2023-07,Tunisia,3
+2023-07,Turkey,6
+2023-07,USA,16587
+2023-07,Uganda,8
+2023-07,Ukraine,58
+2023-07,United Kingdom,2070
+2023-07,Uruguay,3
+2023-07,Venezuela,10
+2023-07,Vietnam,22
+2023-07,Zambia,7
+2023-08,Albania,30
+2023-08,Algeria,3
+2023-08,American Samoa,15
+2023-08,Argentina,216
+2023-08,Aruba,15
+2023-08,Australia,1295
+2023-08,Austria,170
+2023-08,Bangladesh,16
+2023-08,Belgium,556
+2023-08,Bermuda,16
+2023-08,Bhutan,1
+2023-08,Bolivia,5
+2023-08,Bonaire,5
+2023-08,Botswana,3
+2023-08,Brazil,747
+2023-08,Brunei,45
+2023-08,Bulgaria,19
+2023-08,Cabo Verde,16
+2023-08,Canada,4823
+2023-08,Canary Islands,193
+2023-08,Central African Republic,5
+2023-08,Chile,134
+2023-08,China,4428
+2023-08,Colombia,172
+2023-08,Costa Rica,76
+2023-08,Crimea,1
+2023-08,Croatia,198
+2023-08,Curacao,7
+2023-08,Czech Republic,6
+2023-08,Denmark,770
+2023-08,Dominican Republic,44
+2023-08,Ecuador,61
+2023-08,El Salvador,51
+2023-08,Finland,177
+2023-08,France,3433
+2023-08,French Guiana,9
+2023-08,Georgia,121
+2023-08,Germany,652
+2023-08,Ghana,5
+2023-08,Greece,639
+2023-08,Grenada,2
+2023-08,Guadeloupe,14
+2023-08,Guam,3
+2023-08,Guatemala,97
+2023-08,Honduras,27
+2023-08,Hong Kong,33
+2023-08,Iceland,126
+2023-08,India,182
+2023-08,Indonesia,3
+2023-08,Iran,18
+2023-08,Iraq,20
+2023-08,Ireland,680
+2023-08,Israel,674
+2023-08,Italy,1014
+2023-08,Japan,8434
+2023-08,Jordan,7
+2023-08,Kenya,3
+2023-08,Kuwait,19
+2023-08,Laos,50
+2023-08,Lebanon,59
+2023-08,Lithuania,36
+2023-08,Luxembourg,366
+2023-08,Malaysia,140
+2023-08,Marshall Islands,2
+2023-08,Martinique,25
+2023-08,Mauritius,32
+2023-08,Mexico,672
+2023-08,Mongolia,12
+2023-08,Montenegro,16
+2023-08,Morocco,17
+2023-08,Netherlands,483
+2023-08,New Zealand,642
+2023-08,Nigeria,5
+2023-08,North Macedonia,1
+2023-08,Norway,112
+2023-08,Oman,32
+2023-08,Pakistan,43
+2023-08,Palestine,23
+2023-08,Panama,1
+2023-08,Paraguay,10
+2023-08,Peru,290
+2023-08,Philippines,41
+2023-08,Poland,18
+2023-08,Portugal,502
+2023-08,Puerto Rico,455
+2023-08,Qatar,14
+2023-08,Reunion,57
+2023-08,Romania,129
+2023-08,Russia,152
+2023-08,Saint Vincent and the Grenadines,8
+2023-08,Senegal,13
+2023-08,Singapore,708
+2023-08,Sint Maarten,5
+2023-08,Slovakia,31
+2023-08,Slovenia,125
+2023-08,South Africa,194
+2023-08,South Korea,5227
+2023-08,Spain,4397
+2023-08,Sweden,1018
+2023-08,Switzerland,349
+2023-08,Taiwan,167
+2023-08,Thailand,261
+2023-08,Trinidad and Tobago,68
+2023-08,Tunisia,45
+2023-08,Turkey,46
+2023-08,USA,36091
+2023-08,Ukraine,63
+2023-08,United Kingdom,5017
+2023-08,Uruguay,7
+2023-08,Vietnam,28
+2023-09,Algeria,14
+2023-09,American Samoa,2
+2023-09,Argentina,106
+2023-09,Australia,1798
+2023-09,Austria,326
+2023-09,Bangladesh,1
+2023-09,Belgium,1034
+2023-09,Benin,1
+2023-09,Bermuda,1
+2023-09,Bolivia,5
+2023-09,Botswana,1
+2023-09,Brazil,1553
+2023-09,Brunei,28
+2023-09,Bulgaria,115
+2023-09,Cabo Verde,11
+2023-09,Canada,10130
+2023-09,Canary Islands,213
+2023-09,Chile,242
+2023-09,China,3473
+2023-09,Colombia,144
+2023-09,Costa Rica,103
+2023-09,Crimea,5
+2023-09,Croatia,428
+2023-09,Cuba,5
+2023-09,Curacao,9
+2023-09,Czech Republic,32
+2023-09,Denmark,937
+2023-09,Dominican Republic,9
+2023-09,Ecuador,65
+2023-09,El Salvador,2
+2023-09,Finland,424
+2023-09,France,6649
+2023-09,French Guiana,2
+2023-09,Georgia,138
+2023-09,Germany,1152
+2023-09,Greece,1430
+2023-09,Guadeloupe,6
+2023-09,Guatemala,29
+2023-09,Haiti,9
+2023-09,Honduras,12
+2023-09,Hong Kong,33
+2023-09,Hungary,6
+2023-09,Iceland,166
+2023-09,India,80
+2023-09,Indonesia,12
+2023-09,Iran,39
+2023-09,Iraq,4
+2023-09,Ireland,581
+2023-09,Israel,957
+2023-09,Italy,1960
+2023-09,Japan,6314
+2023-09,Kazakhstan,51
+2023-09,Kenya,2
+2023-09,Kuwait,25
+2023-09,Laos,41
+2023-09,Lebanon,42
+2023-09,Lesotho,6
+2023-09,Lithuania,101
+2023-09,Luxembourg,359
+2023-09,Malaysia,188
+2023-09,Mauritius,36
+2023-09,Mexico,349
+2023-09,Monaco,2
+2023-09,Mongolia,9
+2023-09,Montenegro,11
+2023-09,Morocco,18
+2023-09,Myanmar,2
+2023-09,Netherlands,1045
+2023-09,New Zealand,755
+2023-09,Niger,1
+2023-09,Nigeria,13
+2023-09,North Macedonia,20
+2023-09,Northern Mariana Islands,1
+2023-09,Norway,116
+2023-09,Oman,57
+2023-09,Pakistan,36
+2023-09,Palestine,7
+2023-09,Panama,9
+2023-09,Paraguay,8
+2023-09,Peru,470
+2023-09,Philippines,42
+2023-09,Poland,124
+2023-09,Portugal,318
+2023-09,Puerto Rico,339
+2023-09,Qatar,5
+2023-09,Romania,288
+2023-09,Russia,802
+2023-09,Senegal,5
+2023-09,Singapore,1160
+2023-09,Sint Maarten,13
+2023-09,Slovakia,124
+2023-09,Slovenia,307
+2023-09,South Africa,234
+2023-09,South Korea,4434
+2023-09,Spain,4179
+2023-09,Sweden,1641
+2023-09,Switzerland,510
+2023-09,Taiwan,124
+2023-09,Thailand,159
+2023-09,Trinidad and Tobago,36
+2023-09,Tunisia,10
+2023-09,Turkey,372
+2023-09,USA,34010
+2023-09,Ukraine,425
+2023-09,United Kingdom,7125
+2023-09,Uruguay,9
+2023-09,Venezuela,8
+2023-09,Vietnam,18
+2023-09,Zambia,1
+2023-10,Algeria,14
+2023-10,Argentina,55
+2023-10,Australia,2452
+2023-10,Austria,606
+2023-10,Belgium,1072
+2023-10,Bolivia,8
+2023-10,Bonaire,1
+2023-10,Brazil,1644
+2023-10,Brunei,37
+2023-10,Bulgaria,146
+2023-10,Cambodia,4
+2023-10,Canada,12241
+2023-10,Canary Islands,126
+2023-10,Chile,415
+2023-10,China,2585
+2023-10,Colombia,85
+2023-10,Costa Rica,61
+2023-10,Crimea,9
+2023-10,Croatia,419
+2023-10,Cuba,1
+2023-10,Curacao,11
+2023-10,Czech Republic,124
+2023-10,Denmark,2075
+2023-10,Dominican Republic,4
+2023-10,Ecuador,69
+2023-10,Finland,739
+2023-10,France,5848
+2023-10,Georgia,29
+2023-10,Germany,1661
+2023-10,Greece,1958
+2023-10,Guadeloupe,1
+2023-10,Guatemala,3
+2023-10,Haiti,23
+2023-10,Hong Kong,21
+2023-10,Hungary,51
+2023-10,Iceland,175
+2023-10,India,67
+2023-10,Indonesia,18
+2023-10,Iraq,1
+2023-10,Ireland,552
+2023-10,Israel,567
+2023-10,Italy,1758
+2023-10,Japan,2516
+2023-10,Kenya,5
+2023-10,Kuwait,40
+2023-10,Laos,10
+2023-10,Lithuania,465
+2023-10,Luxembourg,366
+2023-10,Malaysia,299
+2023-10,Mauritius,152
+2023-10,Mexico,116
+2023-10,Mongolia,6
+2023-10,Montenegro,10
+2023-10,Morocco,3
+2023-10,Netherlands,1583
+2023-10,New Zealand,1248
+2023-10,Nigeria,5
+2023-10,North Macedonia,25
+2023-10,Norway,165
+2023-10,Oman,17
+2023-10,Pakistan,6
+2023-10,Panama,1
+2023-10,Paraguay,20
+2023-10,Peru,352
+2023-10,Philippines,58
+2023-10,Poland,362
+2023-10,Portugal,182
+2023-10,Puerto Rico,192
+2023-10,Qatar,77
+2023-10,Romania,206
+2023-10,Russia,1933
+2023-10,Saint Lucia,1
+2023-10,Saint Vincent and the Grenadines,1
+2023-10,Senegal,2
+2023-10,Singapore,1866
+2023-10,Sint Maarten,1
+2023-10,Slovakia,250
+2023-10,Slovenia,424
+2023-10,South Africa,239
+2023-10,South Korea,4098
+2023-10,Spain,3324
+2023-10,Sweden,2853
+2023-10,Switzerland,669
+2023-10,Taiwan,131
+2023-10,Thailand,239
+2023-10,Trinidad and Tobago,18
+2023-10,Turkey,279
+2023-10,USA,23183
+2023-10,Ukraine,428
+2023-10,United Kingdom,7697
+2023-10,Venezuela,2
+2023-10,Vietnam,9
+2023-10,Zambia,1
+2023-11,Argentina,44
+2023-11,Australia,2332
+2023-11,Austria,932
+2023-11,Belgium,1058
+2023-11,Bolivia,5
+2023-11,Brazil,1214
+2023-11,Brunei,19
+2023-11,Bulgaria,56
+2023-11,Cambodia,6
+2023-11,Canada,12256
+2023-11,Canary Islands,113
+2023-11,Chile,404
+2023-11,China,1196
+2023-11,Colombia,79
+2023-11,Costa Rica,83
+2023-11,Crimea,10
+2023-11,Croatia,238
+2023-11,Cuba,2
+2023-11,Curacao,23
+2023-11,Czech Republic,202
+2023-11,Denmark,2937
+2023-11,Ecuador,146
+2023-11,Finland,767
+2023-11,France,4822
+2023-11,Georgia,6
+2023-11,Germany,1621
+2023-11,Greece,1132
+2023-11,Guadeloupe,2
+2023-11,Guatemala,19
+2023-11,Hong Kong,12
+2023-11,Hungary,50
+2023-11,Iceland,197
+2023-11,India,11
+2023-11,Indonesia,47
+2023-11,Iraq,1
+2023-11,Ireland,521
+2023-11,Israel,338
+2023-11,Italy,1637
+2023-11,Japan,1520
+2023-11,Kenya,45
+2023-11,Kuwait,12
+2023-11,Laos,3
+2023-11,Lithuania,454
+2023-11,Luxembourg,376
+2023-11,Malaysia,358
+2023-11,Mexico,22
+2023-11,Mongolia,14
+2023-11,Montenegro,15
+2023-11,Morocco,1
+2023-11,Mozambique,1
+2023-11,Myanmar,1
+2023-11,Namibia,1
+2023-11,Netherlands,2097
+2023-11,New Zealand,1366
+2023-11,North Macedonia,7
+2023-11,Norway,205
+2023-11,Oman,5
+2023-11,Pakistan,1
+2023-11,Paraguay,13
+2023-11,Peru,557
+2023-11,Philippines,76
+2023-11,Poland,735
+2023-11,Portugal,133
+2023-11,Puerto Rico,185
+2023-11,Qatar,69
+2023-11,Republic of the Congo,2
+2023-11,Romania,14
+2023-11,Russia,2237
+2023-11,Saint Lucia,2
+2023-11,Senegal,2
+2023-11,Singapore,1854
+2023-11,Sint Maarten,4
+2023-11,Slovakia,331
+2023-11,Slovenia,467
+2023-11,South Africa,196
+2023-11,South Korea,4048
+2023-11,Spain,1997
+2023-11,Sri Lanka,1
+2023-11,Sweden,4567
+2023-11,Switzerland,882
+2023-11,Taiwan,81
+2023-11,Thailand,216
+2023-11,Trinidad and Tobago,6
+2023-11,Tunisia,7
+2023-11,Turkey,14
+2023-11,USA,23547
+2023-11,Ukraine,255
+2023-11,United Kingdom,4323
+2023-11,Vietnam,3
+2023-11,Zambia,2
+2023-12,Argentina,16
+2023-12,Australia,1393
+2023-12,Austria,590
+2023-12,Bangladesh,3
+2023-12,Belgium,888
+2023-12,Bolivia,6
+2023-12,Brazil,623
+2023-12,Brunei,61
+2023-12,Cambodia,30
+2023-12,Canada,9428
+2023-12,Canary Islands,71
+2023-12,Chile,286
+2023-12,China,532
+2023-12,Colombia,22
+2023-12,Costa Rica,36
+2023-12,Croatia,51
+2023-12,Czech Republic,33
+2023-12,Denmark,3826
+2023-12,Dominican Republic,22
+2023-12,Ecuador,219
+2023-12,Finland,362
+2023-12,France,5024
+2023-12,Georgia,1
+2023-12,Germany,645
+2023-12,Greece,297
+2023-12,Guadeloupe,1
+2023-12,Guatemala,1
+2023-12,Hong Kong,10
+2023-12,Hungary,3
+2023-12,Iceland,8
+2023-12,India,727
+2023-12,Indonesia,430
+2023-12,Ireland,601
+2023-12,Israel,583
+2023-12,Italy,1342
+2023-12,Japan,1515
+2023-12,Kenya,62
+2023-12,Kuwait,5
+2023-12,Lithuania,125
+2023-12,Luxembourg,63
+2023-12,Malaysia,482
+2023-12,Marshall Islands,5
+2023-12,Martinique,3
+2023-12,Mexico,17
+2023-12,Mongolia,11
+2023-12,Mozambique,8
+2023-12,Myanmar,15
+2023-12,Netherlands,1594
+2023-12,New Zealand,635
+2023-12,North Macedonia,17
+2023-12,Norway,109
+2023-12,Oman,5
+2023-12,Pakistan,7
+2023-12,Panama,12
+2023-12,Peru,204
+2023-12,Philippines,17
+2023-12,Poland,654
+2023-12,Portugal,207
+2023-12,Puerto Rico,218
+2023-12,Qatar,1
+2023-12,Romania,2
+2023-12,Russia,471
+2023-12,Saint Lucia,2
+2023-12,Saint Vincent and the Grenadines,1
+2023-12,Senegal,6
+2023-12,Singapore,1867
+2023-12,Sint Maarten,4
+2023-12,Slovakia,196
+2023-12,Slovenia,437
+2023-12,South Africa,37
+2023-12,South Korea,2880
+2023-12,Spain,2094
+2023-12,Sri Lanka,2
+2023-12,Sweden,2972
+2023-12,Switzerland,649
+2023-12,Thailand,124
+2023-12,Turkey,3
+2023-12,USA,21404
+2023-12,Ukraine,94
+2023-12,United Kingdom,7000
+2023-12,Venezuela,5
+2023-12,Zambia,13
+2024-01,Australia,242
+2024-01,Austria,128
+2024-01,Bangladesh,2
+2024-01,Belgium,6
+2024-01,Brazil,17
+2024-01,Canada,1378
+2024-01,Chile,53
+2024-01,China,14
+2024-01,Denmark,355
+2024-01,Dominican Republic,81
+2024-01,Ecuador,71
+2024-01,France,135
+2024-01,Hong Kong,6
+2024-01,India,50
+2024-01,Indonesia,29
+2024-01,Ireland,198
+2024-01,Israel,142
+2024-01,Italy,132
+2024-01,Japan,39
+2024-01,Kenya,27
+2024-01,Malaysia,37
+2024-01,Netherlands,37
+2024-01,Norway,24
+2024-01,Pakistan,11
+2024-01,Panama,12
+2024-01,Peru,3
+2024-01,Poland,112
+2024-01,Portugal,18
+2024-01,Senegal,6
+2024-01,Singapore,408
+2024-01,Slovenia,59
+2024-01,South Korea,27
+2024-01,Spain,323
+2024-01,Sweden,413
+2024-01,Thailand,12
+2024-01,Trinidad and Tobago,1
+2024-01,USA,1767
+2024-01,United Kingdom,1478
